@@ -1,0 +1,159 @@
+{
+  "source": "Book - Inspired by 'Cracking the Coding Interview' (summarized and simplified)",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "SDE means Software Development Engineer.",
+        "They write code to build apps or websites.",
+        "SDEs work in companies like Google, Amazon, and Infosys.",
+        "They solve problems with logic and programming.",
+        "SDE is a good job for people who love technology."
+      ],
+      "level_2": [
+        "SDEs use coding to solve real problems like online payments or chatting systems.",
+        "They work with teams to build big applications.",
+        "They follow steps like designing, writing, and testing software.",
+        "They often use tools like Git, GitHub, and code editors.",
+        "They work in teams using methods like Agile or Scrum."
+      ],
+      "level_3": [
+        "Advanced SDEs design systems that many people use at once.",
+        "They build features in apps like login, search, or recommendations.",
+        "They think about how to make code fast and easy to maintain.",
+        "They review code from others and give feedback.",
+        "They also help solve performance and scaling problems."
+      ],
+      "level_4": [
+        "Expert SDEs design complete systems like YouTube, Amazon backend, etc.",
+        "They decide how data will be stored and transferred efficiently.",
+        "They use cloud tools, testing frameworks, and monitor performance.",
+        "They lead small teams and help others grow technically.",
+        "They talk to product managers and take design decisions."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Making a calculator app for your phone.",
+        "Building a simple blog website.",
+        "Creating a program to keep track of marks."
+      ],
+      "level_2": [
+        "Building an e-commerce website like Flipkart.",
+        "Creating a chatting app like WhatsApp.",
+        "Making a to-do list with save and delete features."
+      ],
+      "level_3": [
+        "Creating backend for a food delivery app.",
+        "Working on login systems with OTP or email.",
+        "Building a search system for a large website."
+      ],
+      "level_4": [
+        "Designing cloud-based systems like Google Drive.",
+        "Creating scalable services like payment gateways.",
+        "Handling millions of user requests in real-time systems."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "IT services like TCS, Infosys hire beginner SDEs."
+      ],
+      "level_2": [
+        "Product companies like Zomato, Paytm use SDEs for feature development."
+      ],
+      "level_3": [
+        "Startups and MNCs need SDEs to scale products."
+      ],
+      "level_4": [
+        "FAANG companies (Facebook, Amazon) hire expert SDEs for large-scale architecture."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Break big problems into small steps.",
+        "Think in 'if-else' logic."
+      ],
+      "level_2": [
+        "Use flowcharts to plan before writing code.",
+        "Check if there is a simpler way to solve the problem."
+      ],
+      "level_3": [
+        "Think about time and space usage of the code.",
+        "Imagine how code will work with 1000+ users."
+      ],
+      "level_4": [
+        "Think about failures, backups, and security.",
+        "Design code that other developers can reuse."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Write a program to print your name.",
+        "Add two numbers using code."
+      ],
+      "level_2": [
+        "Reverse a string.",
+        "Check if a number is even or odd."
+      ],
+      "level_3": [
+        "Design a system to store user details and retrieve them.",
+        "Write login system logic using email and password."
+      ],
+      "level_4": [
+        "Design backend for a messaging system.",
+        "Create a caching system for faster access."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is an SDE?",
+        "Name one company that hires SDEs."
+      ],
+      "level_2": [
+        "What tool is used to save code online?",
+        "What is the job of an SDE during a team sprint?"
+      ],
+      "level_3": [
+        "Why is time complexity important for an SDE?",
+        "What is the use of APIs in development?"
+      ],
+      "level_4": [
+        "How would you design a system for millions of users?",
+        "What is the role of an SDE in system architecture decisions?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a program that takes name and age and prints a welcome message."
+      ],
+      "level_2": [
+        "Build a basic calculator using buttons and input boxes."
+      ],
+      "level_3": [
+        "Create a login and signup system with basic security."
+      ],
+      "level_4": [
+        "Build a backend for a small e-commerce website with user and order management."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't copy code without understanding it.",
+        "Practice small problems daily."
+      ],
+      "level_2": [
+        "Avoid writing too long code in one file.",
+        "Always test your code with different inputs."
+      ],
+      "level_3": [
+        "Don't ignore code readability.",
+        "Keep functions short and meaningful."
+      ],
+      "level_4": [
+        "Don't skip documentation for big projects.",
+        "Avoid optimizing too early-focus on clarity first."
+      ]
+    }
+  }
+}
