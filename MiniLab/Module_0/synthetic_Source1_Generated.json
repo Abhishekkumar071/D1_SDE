@@ -1,0 +1,159 @@
+synthetic_data = {
+    "source": "AI-generated simplified content for beginners to experts",
+    "module": "Module 0: Designation Deep Dive (SDE Overview)",
+    "file_type": "synthetic_Source1_Generated",
+    "segments": {
+        "introduction": {
+            "level_1": [
+                "An SDE writes code to solve real-world problems, not just for fun.",
+                "They start by understanding basic syntax, logic, and how software helps people.",
+                "Anyone can become an SDE with practice and curiosity.",
+                "Don't worry about failing early — it's part of the process.",
+                "Start building small projects to grow confidence."
+            ],
+            "level_2": [
+                "Intermediate SDEs build complete features and use Git for collaboration.",
+                "They write modular code and understand how teams work in agile environments.",
+                "They start debugging and writing test cases for their code.",
+                "They understand REST APIs and simple database queries.",
+                "Learning about performance and scalability begins here."
+            ],
+            "level_3": [
+                "Advanced SDEs think about system architecture and design decisions.",
+                "They lead modules, do code reviews, and plan feature rollouts.",
+                "They manage trade-offs between performance, maintainability, and deadlines.",
+                "They are expected to mentor juniors and write design docs.",
+                "They have exposure to CI/CD pipelines and monitoring systems."
+            ],
+            "level_4": [
+                "Experts manage system-wide architecture and business-level impact.",
+                "They align engineering efforts with product and organizational goals.",
+                "They handle security, reliability, and scalability in complex systems.",
+                "They contribute to hiring, mentoring, and strategic tech decisions.",
+                "They often speak at conferences and drive engineering culture."
+            ]
+        },
+        "realWorldUseCases": {
+            "level_1": [
+                "Make a notes app using HTML, CSS, and JavaScript.",
+                "Build a number guessing game using Python.",
+                "Design a static profile card with Tailwind CSS."
+            ],
+            "level_2": [
+                "Build a to-do list app with Flask and SQLite.",
+                "Create a BMI calculator with a frontend framework.",
+                "Develop a login system with input validation."
+            ],
+            "level_3": [
+                "Build a REST API for a blogging platform.",
+                "Develop a ticket booking system with payment integration.",
+                "Implement real-time chat using WebSockets."
+            ],
+            "level_4": [
+                "Create a scalable notification service used by multiple products.",
+                "Design a multi-tenant backend with monitoring and throttling.",
+                "Build a caching layer for high-traffic websites."
+            ]
+        },
+        "industryApplications": {
+            "level_1": [
+                "Used in e-learning platforms, internship projects, and student portals."
+            ],
+            "level_2": [
+                "Contributing to product development in small businesses or startups."
+            ],
+            "level_3": [
+                "Handling data pipelines, backend APIs, and integration services."
+            ],
+            "level_4": [
+                "Driving technical strategy in FAANG, fintech, and enterprise software."
+            ]
+        },
+        "thinkingPattern": {
+            "level_1": [
+                "Break problems into smaller steps and tackle one at a time.",
+                "Follow the input → processing → output approach."
+            ],
+            "level_2": [
+                "Focus on reusable and testable code blocks.",
+                "Plan with pseudocode or flowcharts before coding."
+            ],
+            "level_3": [
+                "Think in terms of system interactions and data flow.",
+                "Optimize using space/time complexity concepts."
+            ],
+            "level_4": [
+                "Predict edge cases, failure points, and performance bottlenecks.",
+                "Balance scalability, cost, and maintainability."
+            ]
+        },
+        "problemTypes": {
+            "level_1": [
+                "Print patterns using loops.",
+                "Reverse a string or a number."
+            ],
+            "level_2": [
+                "Implement stacks, queues, and linked lists.",
+                "Write recursive functions for tree traversals."
+            ],
+            "level_3": [
+                "Design LRU cache, rate limiters, or RESTful APIs.",
+                "Use graph algorithms in pathfinding."
+            ],
+            "level_4": [
+                "Solve system design problems like URL shortener or notification queue.",
+                "Handle distributed consistency, sharding, and fault tolerance."
+            ]
+        },
+        "assessmentsAndQuizzes": {
+            "level_1": [
+                "What is a variable and how do you declare it?",
+                "Name any three programming languages."
+            ],
+            "level_2": [
+                "What is the difference between array and linked list?",
+                "Explain the purpose of Git and version control."
+            ],
+            "level_3": [
+                "Design a signup API with validations and error handling.",
+                "How would you reduce API response time?"
+            ],
+            "level_4": [
+                "What strategies ensure 99.99% availability in a cloud system?",
+                "Explain trade-offs in microservices vs monolith architecture."
+            ]
+        },
+        "miniProjects": {
+            "level_1": [
+                "Build a quiz app with score tracking."
+            ],
+            "level_2": [
+                "Create a personal expense tracker with charts."
+            ],
+            "level_3": [
+                "Develop an e-commerce admin dashboard with analytics."
+            ],
+            "level_4": [
+                "Build a scalable video streaming backend with CDN simulation."
+            ]
+        },
+        "suggestionsAndMistakes": {
+            "level_1": [
+                "Don't fear errors — they are part of learning.",
+                "Focus on understanding instead of memorizing code."
+            ],
+            "level_2": [
+                "Avoid hardcoding values — use constants or config files.",
+                "Always write meaningful variable names."
+            ],
+            "level_3": [
+                "Don't forget to test edge cases and handle exceptions.",
+                "Maintain a changelog and use version control properly."
+            ],
+            "level_4": [
+                "Don’t avoid documentation — it helps future devs.",
+                "Review architecture for security, performance, and cost."
+            ]
+        }
+    }
+}
