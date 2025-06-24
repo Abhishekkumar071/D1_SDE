@@ -83,7 +83,7 @@
         "Focus on writing reusable code and fewer bugs."
       ],
       "level_4": [
-        "Plan for failure \u2014 what if the app crashes or slows down?",
+        "Plan for failure - what if the app crashes or slows down?",
         "Think about scaling, speed, and future changes."
       ]
     },
