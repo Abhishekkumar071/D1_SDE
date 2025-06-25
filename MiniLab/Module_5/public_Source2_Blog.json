@@ -1,0 +1,166 @@
+{
+  "source": "Public blog-style content inspired by GeeksforGeeks, Medium, FreeCodeCamp",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source2_Blog",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Peer review means checking someone else’s code or work.",
+        "It helps you spot bugs that the original writer may not see.",
+        "Feedback from others helps you grow faster.",
+        "Don’t worry about being perfect — everyone improves with review.",
+        "Code review is very common in tech companies."
+      ],
+      "level_2": [
+        "Peer feedback improves the overall quality of software.",
+        "It’s a great way to learn better code practices.",
+        "In blogs, developers often talk about how code reviews helped them grow.",
+        "You learn not just how to write code, but also how to read and improve it.",
+        "Feedback culture creates better teamwork."
+      ],
+      "level_3": [
+        "In open-source, code reviews are a must before merging pull requests.",
+        "Blogs describe how reviews reveal security or performance issues.",
+        "Professional teams review logic, structure, and test coverage.",
+        "Reviewing others’ work helps you find mistakes in your own code.",
+        "Many blog posts say reviews help build confidence and clarity."
+      ],
+      "level_4": [
+        "Experts write about how reviews shape technical leadership.",
+        "Senior engineers use reviews to maintain coding standards.",
+        "Good feedback is part of scalable and clean development.",
+        "Blogs explain how feedback affects decision-making in tech teams.",
+        "It’s not just about code — it’s about how teams communicate and grow."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "You send your code to a friend to check.",
+        "A classmate tells you to fix a small bug.",
+        "You read someone’s code to learn how it works."
+      ],
+      "level_2": [
+        "You use GitHub to review code and leave comments.",
+        "Your team reviews each other's mini-projects before final submission.",
+        "Feedback is given on frontend design changes."
+      ],
+      "level_3": [
+        "In internships, mentors often review your weekly progress.",
+        "Hackathons include peer evaluations.",
+        "Bloggers write about their review process in remote teams."
+      ],
+      "level_4": [
+        "Tech leads write articles on running review systems at scale.",
+        "Feedback systems are shared in startup blogs for faster releases.",
+        "CI/CD blogs show how peer review fits into automation."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Peer review is used in coding bootcamps.",
+        "Students practice review in college projects."
+      ],
+      "level_2": [
+        "Startups follow review cycles to manage fast development.",
+        "Freelancers write blogs showing how reviews improved their apps."
+      ],
+      "level_3": [
+        "Agile teams do retrospective reviews weekly.",
+        "GitHub PR blogs often share tips on team review habits."
+      ],
+      "level_4": [
+        "Google, Amazon engineers blog about structured code reviews.",
+        "Review quality is part of promotion criteria in large companies."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Read the code fully before saying anything.",
+        "Think about what the code is trying to do."
+      ],
+      "level_2": [
+        "Ask questions if you don’t understand something.",
+        "Be specific when pointing out problems or bugs."
+      ],
+      "level_3": [
+        "Don’t just focus on what’s wrong — share why and how to improve it.",
+        "Think about readability, naming, and logic clarity."
+      ],
+      "level_4": [
+        "Keep reviews focused and goal-oriented.",
+        "Senior devs share how structured thinking improves team performance."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Missing comments or bad formatting.",
+        "Unclear variable names."
+      ],
+      "level_2": [
+        "Code doing the same thing in multiple places.",
+        "Unnecessary conditions or repeated blocks."
+      ],
+      "level_3": [
+        "Bad loop performance — O(n^2) when O(n) is possible.",
+        "No input validation or test cases."
+      ],
+      "level_4": [
+        "Logic that won't scale with more users.",
+        "Too many responsibilities in one function."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is peer review used for?",
+        "Why is feedback important in learning?"
+      ],
+      "level_2": [
+        "What’s a polite way to give feedback?",
+        "Name one thing to check in someone else’s code."
+      ],
+      "level_3": [
+        "What should you do if you strongly disagree in a review?",
+        "Name one issue reviews can help fix before users see it."
+      ],
+      "level_4": [
+        "How does peer review impact team quality?",
+        "Explain the role of a senior in review culture."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a friend’s Python program and give feedback in a message."
+      ],
+      "level_2": [
+        "Upload a simple app on GitHub and ask for review.",
+        "Comment on someone’s project and share suggestions."
+      ],
+      "level_3": [
+        "Start a review thread in a coding group for a module or feature.",
+        "Ask two friends to give feedback and compare their views."
+      ],
+      "level_4": [
+        "Write a blog on how peer feedback improved your project.",
+        "Build a feedback tracker tool using forms and graphs."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Be kind. Everyone is learning.",
+        "Don’t just point out problems — also appreciate good parts."
+      ],
+      "level_2": [
+        "Avoid saying 'wrong' — use 'can be improved'.",
+        "Give examples when you suggest changes."
+      ],
+      "level_3": [
+        "Be clear, not confusing. One short comment is better than a paragraph.",
+        "Ask questions to help others think."
+      ],
+      "level_4": [
+        "Encourage others to review your code too.",
+        "Bloggers say feedback builds team culture — not just better code."
+      ]
+    }
+  }
+}
