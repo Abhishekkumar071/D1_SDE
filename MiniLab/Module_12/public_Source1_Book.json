@@ -1,0 +1,126 @@
+{
+  "source": "Book - 'Cracking the Coding Interview' (Gayle McDowell) & 'System Design Interview' (Alex Xu)",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Final simulations replicate real technical interviews at FAANG companies.",
+        "Structure: 45-minute coding + 45-minute system design + behavioral questions.",
+        "Example: Simulate designing Twitter (scalability) while optimizing a feed-ranking algorithm."
+      ],
+      "level_2": [
+        "Interview rubrics assess: Problem-solving (40%), Communication (30%), Technical Depth (30%).",
+        "Common pitfall: Jumping to solutions without clarifying requirements.",
+        "Tip: Use the first 5 minutes to outline approach and edge cases."
+      ],
+      "level_3": [
+        "For senior roles: Expect tradeoff discussions (e.g., consistency vs. latency in distributed systems).",
+        "Case study: How Airbnb structures interview feedback reports (quantified scores + qualitative notes)."
+      ],
+      "level_4": [
+        "Executive-level simulations: Align technical decisions with business KPIs (revenue, user growth).",
+        "Meta's calibration process: How interview scores are normalized across panels.",
+        "Research: MIT study shows structured feedback improves candidate performance by 60%."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Amazon Loop: 4-5 interview rounds testing leadership principles via STAR + coding."
+      ],
+      "level_2": [
+        "Google's hiring committee: How packet reviews prevent individual interviewer bias."
+      ],
+      "level_3": [
+        "Netflix's culture fit assessment: Simulating high-pressure decision-making."
+      ],
+      "level_4": [
+        "SpaceX technical simulations: Debugging distributed systems under time constraints."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Startups: Live coding on real codebases (e.g., fixing a bug in production-like environment)."
+      ],
+      "level_2": [
+        "Fintech: Stress-testing candidates on transaction consistency guarantees."
+      ],
+      "level_3": [
+        "FAANG: Standardized leetcode-hard problems with follow-up optimizations."
+      ],
+      "level_4": [
+        "Quant firms: Algorithmic thinking under simulated market data feeds."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Step 1: Clarify problem scope ('Is this a social graph or a recommendation system?')."
+      ],
+      "level_2": [
+        "Step 2: Outline brute force → optimized solutions ('First O(n²), then O(n log n)')."
+      ],
+      "level_3": [
+        "Step 3: Discuss tradeoffs ('Sharding improves write throughput but complicates queries')."
+      ],
+      "level_4": [
+        "Step 4: Map to business impact ('This caching strategy could save $1.2M/year in cloud costs')."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Coding: Implement a rate limiter (token bucket algorithm)."
+      ],
+      "level_2": [
+        "System Design: Scale a ride-matching service to 10M users."
+      ],
+      "level_3": [
+        "Behavioral: 'Describe a time you influenced without authority.'"
+      ],
+      "level_4": [
+        "Case Study: Optimize AWS infrastructure costs for a unicorn startup."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Quiz: What's more important in MVP interviews - perfect code or communication?"
+      ],
+      "level_2": [
+        "Mock grading: Rate this candidate's performance using Google's rubric."
+      ],
+      "level_3": [
+        "Debug: Why did this candidate fail 4/5 interview rounds despite strong coding?"
+      ],
+      "level_4": [
+        "Analysis: Compare Amazon's bar raiser vs. Microsoft's as-loop feedback styles."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Conduct a mock interview with peer feedback using Zoom recording."
+      ],
+      "level_2": [
+        "Build a feedback report generator (JSON input → PDF output)."
+      ],
+      "level_3": [
+        "Create a calibration dataset for interview scoring (rubric + sample responses)."
+      ],
+      "level_4": [
+        "Design an anti-bias training module for interview panels."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Not asking clarifying questions → 70% of failed interviews start here."
+      ],
+      "level_2": [
+        "Tip: Use the 'APIE' framework (Assumptions, Problem, Ideas, Evaluation)."
+      ],
+      "level_3": [
+        "Mistake: Over-optimizing prematurely → 'Make it work, then make it fast.'"
+      ],
+      "level_4": [
+        "Pro Tip: For leadership roles, prep 2-3 'failure to success' transformation stories."
+      ]
+    }
+  }
+}
