@@ -1,0 +1,166 @@
+{
+  "source": "Private discussion-style content from forums like Reddit, Quora, Discord, and LinkedIn threads",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "private_Source1_ForumDiscussion",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "In my first mock interview, I just said 'I solved it'. The interviewer asked 'How?' and I froze.",
+        "Someone in my coding group said: 'Don’t just give the answer — tell a story.'",
+        "During project review, I explained how I fixed a layout bug. Everyone understood better.",
+        "A senior told me to keep a 'how I solved this' doc for every problem I tackle.",
+        "Problem-solving stories help even when you're teaching juniors."
+      ],
+      "level_2": [
+        "We discussed STAR format in our LinkedIn prep group — super helpful for interviews.",
+        "In a Discord session, someone shared how their story helped them get an internship.",
+        "I once posted a code breakdown with what worked and what didn’t — got a lot of appreciation.",
+        "We run a weekly thread: 'Explain a bug you solved this week' — so many great insights!",
+        "One mentor said: 'If you can teach it, you’ve really learned it.'"
+      ],
+      "level_3": [
+        "We started using retros in our team to narrate what failed and what improved.",
+        "During a hackathon, our presentation was all about our challenge → approach → pivot → solution.",
+        "A friend once wrote a blog titled 'The bug that taught me patience' — amazing storytelling.",
+        "I realized writing about my failures helped me build confidence.",
+        "Our GDSC lead encourages us to document every project’s story, not just the final result."
+      ],
+      "level_4": [
+        "In an AMA, a hiring manager said: 'I remember people who tell me their real stories.'",
+        "A senior’s case study got featured because of how detailed and honest his journey was.",
+        "I wrote about failing an ML project and what I learned — 3 recruiters messaged me about it.",
+        "Storytelling is now part of my portfolio — every project has a short write-up.",
+        "Narratives are your brand — they show your thinking, not just your typing."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Telling your college project viva in steps: issue, idea, fix.",
+        "Explaining a solved Leetcode problem in a Telegram group.",
+        "Helping a junior by walking them through your DSA mistake."
+      ],
+      "level_2": [
+        "Writing a STAR-style post about your final year project.",
+        "Creating a public LinkedIn post explaining a project pivot.",
+        "Sharing how you solved a real client bug during internship."
+      ],
+      "level_3": [
+        "Turning your debugging process into a slide deck for class.",
+        "Making a video explaining your approach to a coding contest.",
+        "Publishing a GitHub issue → fix → learning thread."
+      ],
+      "level_4": [
+        "Publishing a story-based case study portfolio site.",
+        "Writing blogs around problem-solving and lessons from projects.",
+        "Hosting a session called 'Fail to Fix' in your campus tech club."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "HRs ask: 'Tell me about a problem you solved in a project.'",
+        "Interns share learning logs with weekly challenges faced."
+      ],
+      "level_2": [
+        "Junior devs discuss blockers in sprint retros.",
+        "Bug reports often include problem-solution narratives."
+      ],
+      "level_3": [
+        "Engineers write postmortems after major issues.",
+        "Dev blogs often include problem-solving write-ups."
+      ],
+      "level_4": [
+        "Leads present solution strategy during planning meetings.",
+        "PMs and tech leads pitch with logic + story + impact format."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Start with what went wrong — not just what worked.",
+        "Think of explaining it to a non-coder friend."
+      ],
+      "level_2": [
+        "Use frameworks like STAR or CAR to bring flow.",
+        "Include why you picked a certain solution."
+      ],
+      "level_3": [
+        "Make it real — talk about struggles, decisions, tradeoffs.",
+        "Use visuals or analogies if it helps clarity."
+      ],
+      "level_4": [
+        "Always close with what you learned and what you’d improve.",
+        "Make the story concise, reflective, and valuable."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Only saying the output without the journey.",
+        "Jumping to code before explaining the context."
+      ],
+      "level_2": [
+        "Skipping challenges and only showing the fix.",
+        "Talking in technical terms without clarity."
+      ],
+      "level_3": [
+        "Too much detail with no structure.",
+        "Forgetting to show impact or outcome."
+      ],
+      "level_4": [
+        "Story is too polished — feels fake or rehearsed.",
+        "Not including learning or takeaway at the end."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What’s the benefit of explaining your solution?",
+        "Name one place where narratives help."
+      ],
+      "level_2": [
+        "What are the steps in STAR?",
+        "Why should you include failures in a story?"
+      ],
+      "level_3": [
+        "How do problem-solving stories help with tech blogs?",
+        "What makes a good retrospective narrative?"
+      ],
+      "level_4": [
+        "How do stories build your personal brand?",
+        "Why do hiring managers remember narrative-driven answers?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a 5-line story about solving a simple bug."
+      ],
+      "level_2": [
+        "Use STAR to explain a DSA problem you solved recently.",
+        "Post a solution breakdown in a LinkedIn or Telegram group."
+      ],
+      "level_3": [
+        "Record a voice or video explaining your thinking path.",
+        "Write a blog post about debugging a real project issue."
+      ],
+      "level_4": [
+        "Create a case-study page with 3 solution stories.",
+        "Host a peer-sharing session on 'Debug Diaries'."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip the explanation part — it’s the most valuable.",
+        "Avoid vague statements like 'it just worked'."
+      ],
+      "level_2": [
+        "Be honest — even failed attempts add value.",
+        "Don’t rush — set context clearly."
+      ],
+      "level_3": [
+        "Avoid too much code — keep focus on thought process.",
+        "Balance technical depth with human clarity."
+      ],
+      "level_4": [
+        "Don’t try to impress — focus on impact and insight.",
+        "Don’t forget to reflect — what changed after this?"
+      ]
+    }
+  }
+}
