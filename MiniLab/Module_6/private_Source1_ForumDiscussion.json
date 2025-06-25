@@ -1,0 +1,166 @@
+{
+  "source": "Private discussion-style data from forums (e.g., Reddit, StackOverflow, Discord)",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "private_Source1_ForumDiscussion",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "I asked my seniors if I should upload my mini projects. They said 'yes, even small ones matter.'",
+        "In a Discord chat, someone said their GitHub got them noticed for an internship.",
+        "My friend told me — 'just show what you know, even if it's not fancy.'",
+        "Many developers on Reddit agreed: 'Start small, but be consistent.'",
+        "One guy posted — 'I got my first freelance gig just from a calculator app!'"
+      ],
+      "level_2": [
+        "I joined a forum where people shared their portfolios for feedback.",
+        "A mentor replied: 'Add a README. No one understands your repo without it.'",
+        "Someone on a Telegram group said — 'a live demo link is a game changer.'",
+        "In college groups, everyone shares Devfolio profiles now.",
+        "A Quora answer said: 'Your GitHub activity is your tech CV.'"
+      ],
+      "level_3": [
+        "A peer in our coding server showed how he used Notion + GitHub to organize his projects.",
+        "One developer in a subreddit said — 'structure your code, or people skip your repo.'",
+        "We discussed in our GDSC group that deployment > screenshots.",
+        "Someone shared how a detailed blog post about their portfolio got 1k+ views.",
+        "Open-source contributors say — 'even simple PRs matter if the repo is clean.'"
+      ],
+      "level_4": [
+        "In a DevRel discussion, someone said — 'Show impact, not just output.'",
+        "A mentor on LinkedIn shared: 'My portfolio got me invited to a startup demo day.'",
+        "A product engineer said — 'portfolios should look like real products, not just projects.'",
+        "One tweet went viral explaining how to turn your README into a mini pitch deck.",
+        "An expert on Discord said: 'Document your thought process — that's what stands out.'"
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "We all uploaded our Python basics project on GitHub for feedback.",
+        "Someone in my hostel posted their repo in our WhatsApp group.",
+        "In a resume workshop, we had to submit at least one GitHub link."
+      ],
+      "level_2": [
+        "A friend used her portfolio to apply for 3 internships — got 2 callbacks.",
+        "My senior added his hosted calculator app link on his resume.",
+        "A classmate got appreciation from a recruiter for a simple to-do app."
+      ],
+      "level_3": [
+        "A peer got freelance work after sharing their GitHub in a Telegram channel.",
+        "One friend added badges and got 10 stars within a week.",
+        "Another friend got a shoutout from a tech blog for their portfolio."
+      ],
+      "level_4": [
+        "A senior shared his portfolio on LinkedIn and got 3 interview DMs.",
+        "One guy’s portfolio was featured in our college newsletter.",
+        "Our community leader turned his GitHub profile into a full landing page."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Portfolios are now a requirement in many internships.",
+        "Even coding platforms like HackerRank ask for GitHub links."
+      ],
+      "level_2": [
+        "Startups directly open your GitHub while screening.",
+        "Many job forms have a 'portfolio' section now."
+      ],
+      "level_3": [
+        "Hiring managers discussed portfolio quality in our recruiter AMA session.",
+        "Someone said they were rejected due to poor project clarity."
+      ],
+      "level_4": [
+        "One CTO on Reddit said: 'If I can’t understand your repo in 60 seconds, I skip it.'",
+        "Freelancers often land jobs just by DMing their Devfolio link."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Don't overthink — just start with your class projects.",
+        "Ask friends to give honest reviews of your GitHub profile."
+      ],
+      "level_2": [
+        "Always think: would I hire someone with this project?",
+        "One guy said — 'Make your README like a pitch to a stranger.'"
+      ],
+      "level_3": [
+        "In our coding club, we discussed using real APIs to make projects feel real.",
+        "Someone said: 'Every project must show what YOU did — not what the tutorial showed.'"
+      ],
+      "level_4": [
+        "In a review session, we said: ‘Your README is like your resume — format it.’",
+        "Always ask — does this project show my strength clearly?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Empty repos — no README, no files.",
+        "Project name like 'Untitled1' — confusing."
+      ],
+      "level_2": [
+        "Projects without any screenshots or live link.",
+        "README with just one line — no clarity."
+      ],
+      "level_3": [
+        "No visible work or too many unfinished repos.",
+        "Bad code structure — everything in one file."
+      ],
+      "level_4": [
+        "No mention of role or tech stack in team projects.",
+        "Link broken or project not working when recruiter clicks."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a portfolio used for?",
+        "Name one thing to always include in a GitHub project."
+      ],
+      "level_2": [
+        "What’s the difference between private and public repos?",
+        "Why is README important?"
+      ],
+      "level_3": [
+        "How can deployment improve your project’s impact?",
+        "What makes a project 'interview-ready'?"
+      ],
+      "level_4": [
+        "Explain how you would audit a peer’s portfolio.",
+        "List 3 signs of a strong open-source portfolio."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload your first Python script with a small README."
+      ],
+      "level_2": [
+        "Create a mini portfolio page using basic HTML/CSS.",
+        "Host a project on GitHub Pages or Netlify."
+      ],
+      "level_3": [
+        "Make a resume project and link your other repos inside it.",
+        "Add badges, tools used, and insights in the README."
+      ],
+      "level_4": [
+        "Create a GitHub profile README that tells your story.",
+        "Document and open-source a tool with usage examples."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't leave repos without content or README.",
+        "Avoid uploading copied code without edits."
+      ],
+      "level_2": [
+        "Don’t use same project in multiple names — shows laziness.",
+        "Write in simple language — your project should explain itself."
+      ],
+      "level_3": [
+        "Avoid over-designing your site with no working features.",
+        "Make sure links work and images are visible."
+      ],
+      "level_4": [
+        "Review your portfolio every month — don’t leave old projects broken.",
+        "Track which projects people visit or fork the most."
+      ]
+    }
+  }
+}
