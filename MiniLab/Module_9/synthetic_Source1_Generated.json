@@ -1,0 +1,166 @@
+{
+  "source": "Synthetic content generated using ChatGPT for educational use",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "synthetic_Source1_Generated",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Problem-solving narratives explain how you approached and solved a problem.",
+        "They help others understand your logic, not just your code.",
+        "You can use them in interviews, blogs, or group discussions.",
+        "A good story includes what the problem was and how you handled it.",
+        "It also helps you improve your own understanding."
+      ],
+      "level_2": [
+        "Explain the problem clearly before jumping to the solution.",
+        "Use formats like STAR (Situation, Task, Action, Result) to structure your story.",
+        "Mention what methods or logic you applied and why.",
+        "Share the outcome — did it work or did you change your plan?",
+        "Good structure makes even a simple story impactful."
+      ],
+      "level_3": [
+        "Include challenges, alternatives you considered, and how you chose the final path.",
+        "Explain trade-offs or technical decisions with reasoning.",
+        "Stories should reflect real problem-solving, not perfection.",
+        "Use clear transitions between steps: problem → plan → execution → outcome.",
+        "Make it relatable — others should learn something from your process."
+      ],
+      "level_4": [
+        "Focus on impact — what did your solution achieve for the user or team?",
+        "Include measurable results like time saved, bugs fixed, or user improvement.",
+        "Talk about growth: what did you learn or change next time?",
+        "Your story should show ownership, depth, and reflection.",
+        "Professional narratives help in interviews, leadership, and collaboration."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Explaining how you debugged a program in a viva.",
+        "Writing a short post on fixing a layout issue in a web project.",
+        "Describing a coding challenge solution to your friend."
+      ],
+      "level_2": [
+        "Using STAR format to explain your project in an interview.",
+        "Adding a short story in your GitHub README for a project.",
+        "Describing a project journey in a blog post."
+      ],
+      "level_3": [
+        "Documenting your full problem-solving path in an open-source PR.",
+        "Writing failure stories and learnings on LinkedIn.",
+        "Recording a video walk-through explaining your approach."
+      ],
+      "level_4": [
+        "Creating a case-study portfolio with stories of real challenges.",
+        "Using storytelling in hackathon presentations or tech talks.",
+        "Mentoring juniors by sharing detailed solution paths."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns often share task stories in final reports.",
+        "Recruiters ask: 'Tell me how you solved this problem?'"
+      ],
+      "level_2": [
+        "Junior devs share narratives during standups and retros.",
+        "Bug-fix reports often follow a problem-solution-outcome pattern."
+      ],
+      "level_3": [
+        "Developers write tech blogs and release notes as stories.",
+        "Product teams analyze features using user story narratives."
+      ],
+      "level_4": [
+        "Engineering leaders use narratives in project pitches.",
+        "Case studies in SaaS companies highlight dev stories for branding."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What was the problem?",
+        "What did I try first?"
+      ],
+      "level_2": [
+        "Why did that not work?",
+        "What did I try next and why?"
+      ],
+      "level_3": [
+        "What logic guided my decision?",
+        "What was my breakthrough point?"
+      ],
+      "level_4": [
+        "What impact did my decision have?",
+        "What would I improve next time?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Saying 'I solved it' without explanation.",
+        "Not mentioning the actual problem."
+      ],
+      "level_2": [
+        "Focusing only on code, not thought process.",
+        "Skipping over failures and what didn’t work."
+      ],
+      "level_3": [
+        "Not connecting the story to user or project impact.",
+        "Telling events, not insights or lessons."
+      ],
+      "level_4": [
+        "Too much technical detail without structure.",
+        "Sounding robotic or overly rehearsed."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a problem-solving narrative?",
+        "Why should you share your approach?"
+      ],
+      "level_2": [
+        "What does STAR stand for?",
+        "Why is it important to mention results?"
+      ],
+      "level_3": [
+        "Compare STAR vs CAR frameworks.",
+        "What makes a narrative engaging and useful?"
+      ],
+      "level_4": [
+        "How can storytelling improve interviews?",
+        "Why is reflection important in technical narratives?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write 5 lines on how you solved a bug in your code."
+      ],
+      "level_2": [
+        "Use STAR format to explain your recent DSA problem.",
+        "Add a ‘How I solved it’ note in your GitHub README."
+      ],
+      "level_3": [
+        "Write a full blog post about solving a feature or project issue.",
+        "Share a carousel post on LinkedIn about your debugging journey."
+      ],
+      "level_4": [
+        "Create a video case study narrating your problem-solving process.",
+        "Host a peer feedback session and refine your storytelling."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t just show output — explain the process.",
+        "Avoid skipping steps — each one matters."
+      ],
+      "level_2": [
+        "Don’t ignore failures — they are part of the story.",
+        "Avoid vague terms like 'I just figured it out'."
+      ],
+      "level_3": [
+        "Keep it structured — don’t jump back and forth.",
+        "Focus on clarity, not just complexity."
+      ],
+      "level_4": [
+        "Don’t make it all about you — include impact and learning.",
+        "Avoid rehearsed answers — authenticity matters."
+      ]
+    }
+  }
+}
