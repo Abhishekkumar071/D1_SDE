@@ -1,0 +1,85 @@
+{
+  "source": "Book - 'Cracking the PM Interview' (Gayle McDowell) & 'The Google Resume' (Gayle Laakmann McDowell)",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Behavioral interviews evaluate soft skills: teamwork, leadership, and problem-solving.",
+        "STAR format ensures structured responses: Situation (20%), Task (10%), Action (50%), Result (20%).",
+        "Example: 'Describe a conflict' → 'S: Team dispute on deadlines, T: My role as mediator, A: Organized sync meetings, R: Delivered project on time.'"
+      ],
+      "level_2": [
+        "FAANG interviews weight behavioral rounds equally with technical screens.",
+        "Use CAR (Context, Action, Result) for shorter answers in phone screens.",
+        "Map stories to company values (e.g., Amazon’s 'Ownership' principle)."
+      ],
+      "level_3": [
+        "For leadership roles: Emphasize cross-functional influence (e.g., aligning PMs/engineers).",
+        "Quantify results: 'Reduced onboarding time by 30% via documentation improvements.'",
+        "Prepare 'failure' stories with focus on learning, not blame."
+      ],
+      "level_4": [
+        "Executive-level: Link behaviors to KPIs (e.g., 'Improved NPS by 15 pts via team coaching').",
+        "Demonstrate strategic impact: 'Scalated process across 5 teams, saving 200 engineering hours/month.'",
+        "Handle meta-questions: 'How do you define culture?' with STAR-like structure."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Internship: 'Tell me about a team project' → Highlight collaboration over individual wins."
+      ],
+      "level_3": [
+        "Senior engineer: 'Describe a technical debate' → Show how you drove consensus with data."
+      ]
+    },
+    "industryApplications": {
+      "level_2": [
+        "Amazon: Prepare 2-3 stories per Leadership Principle ('Customer Obsession', 'Bias for Action')."
+      ],
+      "level_4": [
+        "Startups: Focus on adaptability ('How you pivoted a failed feature into success')."
+      ]
+    },
+    "thinkingPattern": {
+      "level_2": [
+        "Ask: 'Does this story showcase my unique contribution (not just the team)?'"
+      ],
+      "level_4": [
+        "Reflect: 'How does this story align with the company’s current challenges (e.g., scaling)?'"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "'Why do you want this role?' → Use mini-STAR: 'S: Admired company’s X, T: Developed Y skill, A: Built Z project, R: Ready to contribute.'"
+      ],
+      "level_3": [
+        "'Describe a poor manager' → Focus on learnings, not complaints: 'I now overcommunicate goals.'"
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_2": [
+        "Quiz: Is this a strong Result? 'The team was happy.' → Weak (no metrics)."
+      ],
+      "level_4": [
+        "Mock Interview: Rate an executive's story on business impact (revenue, retention)."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write 3 STAR stories for common questions (conflict, failure, leadership)."
+      ],
+      "level_3": [
+        "Record yourself answering 'Why Microsoft?' with STAR, then critique pacing/clarity."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Vagueness ('We improved things'). Specify: 'I wrote script reducing API errors by 40%.'"
+      ],
+      "level_3": [
+        "Tip: For 'weakness' questions, show growth: 'Early career: Avoided conflict → Now proactively address it.'"
+      ]
+    }
+  }
+}
