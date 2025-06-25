@@ -1,0 +1,127 @@
+{
+  "source": "Blog - Inspired by 'Top Competitive Programming Patterns You Must Know' (GeeksforGeeks & Codeforces)",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source1_Blog",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Competitive programming patterns are templates to solve coding problems efficiently.",
+        "Beginners start with brute force, then learn patterns like Two Pointers or Binary Search.",
+        "Patterns save time in contests by avoiding trial-and-error."
+      ],
+      "level_2": [
+        "Patterns map to common problem types (e.g., Sliding Window for subarrays).",
+        "Used in coding interviews at FAANG+ companies.",
+        "Platforms like LeetCode tag problems with patterns (e.g., 'Dynamic Programming')."
+      ],
+      "level_3": [
+        "Advanced patterns involve hybrid techniques (e.g., BFS + Bitmasking).",
+        "Critical for high-rank contests (Codeforces Div1, ICPC).",
+        "Real-world use: Optimizing delivery routes (Traveling Salesman variants)."
+      ],
+      "level_4": [
+        "Experts create custom patterns for niche domains (e.g., game theory).",
+        "Research applications: DNA sequence alignment (Suffix Arrays).",
+        "Industry use: High-frequency trading (Orderbook imbalance algorithms)."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Two Pointers: Merging sorted lists (like in Merge Sort)."
+      ],
+      "level_2": [
+        "Sliding Window: Real-time analytics on data streams."
+      ],
+      "level_3": [
+        "Dijkstra’s Algorithm: GPS navigation systems."
+      ],
+      "level_4": [
+        "Segment Trees: Financial time-series analysis (e.g., stock price ranges)."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Internships: Basic pattern recognition in coding tests."
+      ],
+      "level_2": [
+        "Tech startups: Optimizing API response times (caching patterns)."
+      ],
+      "level_3": [
+        "Quant firms: Algorithmic trading (e.g., arbitrage detection)."
+      ],
+      "level_4": [
+        "Big Tech: Distributed systems (e.g., consistent hashing for load balancing)."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Identify if the problem is about arrays, strings, or graphs."
+      ],
+      "level_2": [
+        "Match problem constraints to known patterns (e.g., O(n) → Sliding Window)."
+      ],
+      "level_3": [
+        "Combine patterns (e.g., Binary Search + DP for optimization)."
+      ],
+      "level_4": [
+        "Derive new patterns for constraints (e.g., probabilistic data structures)."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Find pairs in an array summing to K (Two Pointers)."
+      ],
+      "level_2": [
+        "Maximum subarray sum with fixed window (Sliding Window)."
+      ],
+      "level_3": [
+        "Count palindromic substrings (DP + Center Expansion)."
+      ],
+      "level_4": [
+        "Design a thread-safe LRU cache (Concurrency + Hashing)."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Which pattern fits 'Find duplicates in a sorted array'?"
+      ],
+      "level_2": [
+        "Explain how to reduce O(n²) → O(n) using Sliding Window."
+      ],
+      "level_3": [
+        "Optimize Fibonacci DP from O(n) space → O(1)."
+      ],
+      "level_4": [
+        "Prove why Monte Carlo algorithms work for certain CP problems."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Build a 'Two Sum' solver with Two Pointers."
+      ],
+      "level_2": [
+        "Create a 'Moving Average' calculator using Sliding Window."
+      ],
+      "level_3": [
+        "Implement a maze solver with BFS/DFS."
+      ],
+      "level_4": [
+        "Design a concurrent order-matching engine (like stock exchanges)."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t ignore sorting inputs before Two Pointers."
+      ],
+      "level_2": [
+        "Avoid off-by-one errors in Sliding Window bounds."
+      ],
+      "level_3": [
+        "Don’t overcomplicate DP state transitions."
+      ],
+      "level_4": [
+        "Avoid thread-unsafe optimizations in concurrent patterns."
+      ]
+    }
+  }
+}
