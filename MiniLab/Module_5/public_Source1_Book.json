@@ -1,0 +1,163 @@
+{
+  "source": "Book-style content inspired by Clean Code, Pragmatic Programmer, Code Complete",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Peer review is when a developer checks another developer’s code.",
+        "It helps make the code easier to understand and less buggy.",
+        "Many companies use peer review before accepting any code changes.",
+        "It improves quality and builds better habits.",
+        "It’s a process where learning happens from both sides."
+      ],
+      "level_2": [
+        "Books suggest using peer reviews to catch errors early.",
+        "They also help improve naming, structure, and logic clarity.",
+        "Peer review is not just about finding mistakes but also sharing knowledge.",
+        "Good review is respectful, constructive, and specific.",
+        "Most great developers review and get reviewed regularly."
+      ],
+      "level_3": [
+        "Peer reviews enforce coding standards and team guidelines.",
+        "Books advise using checklists for systematic reviews.",
+        "Feedback should always consider readability, performance, and simplicity.",
+        "Reviews are also used to teach juniors how to write better code.",
+        "Clean Code suggests reviewing intent — not just output."
+      ],
+      "level_4": [
+        "Expert teams build strong review culture to ensure reliability.",
+        "Reviews reduce future maintenance costs, as books emphasize.",
+        "Technical leaders often use reviews as mentoring tools.",
+        "Reviewing design patterns and architecture is a senior responsibility.",
+        "Books say feedback should be part of every iteration in agile teams."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Students share code in labs and review each other's solutions.",
+        "Teachers check logic and suggest simpler ways to write it.",
+        "You find a mistake your friend didn’t notice and fix it together."
+      ],
+      "level_2": [
+        "In internships, juniors get reviews before their code is merged.",
+        "Code review ensures you don’t break someone else’s code.",
+        "It’s a chance to learn best practices directly from others’ suggestions."
+      ],
+      "level_3": [
+        "A tech team uses GitHub pull requests with mandatory reviews.",
+        "Senior developers give structured comments on performance and structure.",
+        "Teams write style guides and follow them during reviews."
+      ],
+      "level_4": [
+        "In system design reviews, architecture decisions are discussed openly.",
+        "Security, scalability, and failure points are reviewed carefully.",
+        "Many large organizations require approval from 2+ peers before code merge."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Coding bootcamps and colleges use reviews to improve peer learning.",
+        "Students form feedback groups after class to help each other."
+      ],
+      "level_2": [
+        "Startups use review to ensure speed without losing quality.",
+        "Books recommend review even in small teams with limited resources."
+      ],
+      "level_3": [
+        "MNCs use detailed code review pipelines before production release.",
+        "Performance reviews sometimes include peer review participation."
+      ],
+      "level_4": [
+        "Books describe reviews as part of technical excellence culture.",
+        "FAANG companies document feedback and learning from peer reviews."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Try to understand the goal of the code before judging it.",
+        "Think how the code would be read by someone new."
+      ],
+      "level_2": [
+        "Books suggest reading line-by-line with questions in mind.",
+        "Ask: Is this code easy to follow? Is it doing only one thing?"
+      ],
+      "level_3": [
+        "Think about what could break or confuse someone in this code.",
+        "Ask if the logic is reusable and clean."
+      ],
+      "level_4": [
+        "Approach reviews with empathy and team vision.",
+        "Review architecture, not just syntax, especially in large systems."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Code without comments or indentation.",
+        "Variable names that don’t explain their purpose."
+      ],
+      "level_2": [
+        "Repeated code blocks that could be functions.",
+        "Hard-to-understand conditions or loops."
+      ],
+      "level_3": [
+        "Logic that works but is hard to maintain.",
+        "Lack of test cases for edge scenarios."
+      ],
+      "level_4": [
+        "Poor separation of concerns in large functions.",
+        "Design choices that reduce scalability or security."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why is peer review helpful?",
+        "What does a reviewer look for in beginner code?"
+      ],
+      "level_2": [
+        "Name one rule for giving good feedback.",
+        "What does 'constructive feedback' mean?"
+      ],
+      "level_3": [
+        "Explain the purpose of a code review checklist.",
+        "How can reviews improve developer learning?"
+      ],
+      "level_4": [
+        "How does peer review reduce tech debt?",
+        "What role does feedback play in team performance?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a friend’s code and write 2 positive and 1 improvement point."
+      ],
+      "level_2": [
+        "Create a peer review sheet to track suggestions and fixes."
+      ],
+      "level_3": [
+        "Use GitHub to practice creating pull requests and reviewing them."
+      ],
+      "level_4": [
+        "Write a sample team code review guideline document."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t be rude while giving suggestions.",
+        "Avoid saying 'bad code' — focus on improvement."
+      ],
+      "level_2": [
+        "Be helpful, not hurtful — explain clearly.",
+        "Don’t ignore small issues, they can grow later."
+      ],
+      "level_3": [
+        "Write reviews that are short, useful, and respectful.",
+        "Suggest alternatives instead of just pointing mistakes."
+      ],
+      "level_4": [
+        "Avoid over-reviewing — trust team decisions.",
+        "Use reviews as a chance to mentor, not dominate."
+      ]
+    }
+  }
+}
