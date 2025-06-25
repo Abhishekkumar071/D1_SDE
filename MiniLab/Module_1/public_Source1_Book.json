@@ -1,0 +1,127 @@
+{
+  "source": "Book - Inspired by 'Competitive Programming 4' by Steven Halim & Felix Halim (simplified concepts)",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source2_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Competitive programming (CP) is about solving algorithmic problems quickly and efficiently.",
+        "Patterns are reusable strategies to tackle common problem types in coding contests.",
+        "Examples: Two Pointers, Sliding Window, Binary Search."
+      ],
+      "level_2": [
+        "CP patterns help optimize solutions for time and space constraints.",
+        "Used in interviews at companies like Google, Meta, and Amazon.",
+        "Platforms like LeetCode and Codeforces categorize problems by patterns."
+      ],
+      "level_3": [
+        "Advanced patterns involve combining techniques (e.g., DP + Binary Search).",
+        "Used in high-stakes contests like ACM-ICPC and Google Code Jam.",
+        "Requires analyzing trade-offs between readability and performance."
+      ],
+      "level_4": [
+        "Experts design new patterns for niche domains (e.g., computational geometry).",
+        "Applied in real-world systems like stock trading or genome sequencing.",
+        "Research papers often extend CP patterns for unsolved problems."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using Two Pointers to find pairs in a sorted array (e.g., 'Two Sum')."
+      ],
+      "level_2": [
+        "Sliding Window to optimize substring searches (e.g., 'Longest Substring Without Repeating Characters')."
+      ],
+      "level_3": [
+        "Dynamic Programming (DP) for resource allocation (e.g., 'Knapsack Problem')."
+      ],
+      "level_4": [
+        "Suffix Automata in bioinformatics for DNA sequence alignment."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Beginner CP skills help in coding interviews for internships."
+      ],
+      "level_2": [
+        "Product companies use CP patterns to optimize backend services."
+      ],
+      "level_3": [
+        "Quant firms apply CP patterns in high-frequency trading algorithms."
+      ],
+      "level_4": [
+        "FAANG companies use advanced CP patterns in large-scale distributed systems."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Break problems into input → process → output steps."
+      ],
+      "level_2": [
+        "Identify if the problem matches a known pattern (e.g., 'Is this a graph traversal problem?')."
+      ],
+      "level_3": [
+        "Optimize patterns for edge cases (e.g., memoization in DP)."
+      ],
+      "level_4": [
+        "Modify/combine patterns for unconventional constraints (e.g., probabilistic algorithms)."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Reverse a string using Two Pointers."
+      ],
+      "level_2": [
+        "Find maximum subarray sum using Sliding Window (Kadane's Algorithm)."
+      ],
+      "level_3": [
+        "Solve the 'Coin Change' problem using Dynamic Programming."
+      ],
+      "level_4": [
+        "Implement A* search for pathfinding in grids."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is the time complexity of Two Pointers on a sorted array?"
+      ],
+      "level_2": [
+        "When would you use BFS vs DFS in graph problems?"
+      ],
+      "level_3": [
+        "Explain memoization in DP with an example."
+      ],
+      "level_4": [
+        "How would you reduce O(n²) DP to O(n log n)?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Build a function to check palindromes using Two Pointers."
+      ],
+      "level_2": [
+        "Create a program to find the longest substring with unique characters."
+      ],
+      "level_3": [
+        "Implement a DP solution for the 'Longest Increasing Subsequence' problem."
+      ],
+      "level_4": [
+        "Design a pathfinding algorithm for a 2D grid with obstacles."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t ignore edge cases (e.g., empty input)."
+      ],
+      "level_2": [
+        "Avoid brute-force solutions when a pattern exists."
+      ],
+      "level_3": [
+        "Don’t overcomplicate DP states; start with a simple recurrence."
+      ],
+      "level_4": [
+        "Avoid premature optimization; prove correctness first."
+      ]
+    }
+  }
+}
