@@ -1,0 +1,166 @@
+{
+  "source": "Public blog-style content inspired by Medium, Dev.to, FreeCodeCamp, Hashnode",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source2_Blog",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "A portfolio is like your tech diary — it shows what you’ve built.",
+        "It’s not just about skills, it’s about showing proof of learning.",
+        "Many beginners think they need to be perfect — not true.",
+        "Even your first project is worth sharing!",
+        "Your GitHub can be your first portfolio page."
+      ],
+      "level_2": [
+        "In a blog, a student wrote how uploading 3 basic projects helped land her internship.",
+        "Portfolios help you speak less and show more in interviews.",
+        "One developer said: 'My side project got me a job, not my CGPA.'",
+        "Most blogs say — add readme, images, and links.",
+        "Sharing is growing — don’t be shy to post your work."
+      ],
+      "level_3": [
+        "Bloggers suggest focusing on value, not just features.",
+        "One tech writer shared how public feedback improved his project.",
+        "You can add project stats, user feedback, and star counts.",
+        "Open-source contributions show that you work well with teams.",
+        "A blog once said: 'Your project tells your story — write it well.'"
+      ],
+      "level_4": [
+        "Top developers write how their GitHub portfolio brings freelance offers.",
+        "A blog explained how to add CI/CD and README badges to stand out.",
+        "Real blogs often suggest showcasing tech decisions like a case study.",
+        "Sharing project insights on LinkedIn builds your brand.",
+        "Your portfolio is not a resume — it’s a window into your brain."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Sending GitHub links during college placements.",
+        "Showing portfolio in coding contest submissions.",
+        "Attaching a project repo in an email to mentor."
+      ],
+      "level_2": [
+        "Linking projects on resume for internships.",
+        "Sharing your portfolio site on LinkedIn.",
+        "Adding projects in a college technical event."
+      ],
+      "level_3": [
+        "Getting freelance work from Devfolio project listing.",
+        "Showing your frontend skills through a live site.",
+        "Publishing a tech blog about your backend logic."
+      ],
+      "level_4": [
+        "Using portfolio in hackathon interviews.",
+        "Being featured on Dev.to for an open-source tool.",
+        "Adding client testimonials for your deployed apps."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Portfolios are now expected even from college students.",
+        "Hiring teams ask for GitHub before resume."
+      ],
+      "level_2": [
+        "Startups often filter by portfolio quality.",
+        "Some bootcamps make portfolio mandatory."
+      ],
+      "level_3": [
+        "Companies love public proof of your skills.",
+        "Open-source projects are seen as bonus achievements."
+      ],
+      "level_4": [
+        "Freelancers use portfolios to attract global clients.",
+        "Tech talks and workshops highlight public work."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Start small, don’t wait for perfect idea.",
+        "Explain what your project does in simple words."
+      ],
+      "level_2": [
+        "Think of projects that solve real student problems.",
+        "Try to make it usable, not just functional."
+      ],
+      "level_3": [
+        "Make it responsive, fast, and mobile-friendly.",
+        "Use folder structure and naming clearly."
+      ],
+      "level_4": [
+        "Think: what would an employer love to see?",
+        "Write your README as if it’s a product pitch."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No README file or poor descriptions.",
+        "Empty or broken project links."
+      ],
+      "level_2": [
+        "No live demo or screenshots.",
+        "Code is messy or copied from tutorial."
+      ],
+      "level_3": [
+        "No originality or problem-solving approach shown.",
+        "Too many private repos — nothing to show."
+      ],
+      "level_4": [
+        "No versioning, deployment, or test cases.",
+        "No clear role shown in team projects."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a portfolio in tech?",
+        "Where can you host your code for free?"
+      ],
+      "level_2": [
+        "Why is a README file important?",
+        "List two things every portfolio must show."
+      ],
+      "level_3": [
+        "How can a blog post add value to your project?",
+        "What is the importance of feedback on your repo?"
+      ],
+      "level_4": [
+        "Name 3 signs of a strong public portfolio.",
+        "What makes a project stand out to a hiring manager?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a GitHub repo and upload your favorite class assignment."
+      ],
+      "level_2": [
+        "Build a portfolio site using HTML, CSS and host it.",
+        "Write a README with project goal and features."
+      ],
+      "level_3": [
+        "Create a full-stack app with live hosting link.",
+        "Add screenshots and video demo to your repo."
+      ],
+      "level_4": [
+        "Write a blog explaining why you made a certain project.",
+        "Create a GitHub Action to auto-format your code."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t be afraid to share work-in-progress projects.",
+        "Use real names and proper titles for your repos."
+      ],
+      "level_2": [
+        "Avoid empty repos or copied projects.",
+        "Give credit if using someone else’s code as base."
+      ],
+      "level_3": [
+        "Avoid too many similar projects — show variety.",
+        "Always write one short line about each project in your bio."
+      ],
+      "level_4": [
+        "Track and measure visits/downloads to your public tools.",
+        "Engage with those who comment or review your work."
+      ]
+    }
+  }
+}
