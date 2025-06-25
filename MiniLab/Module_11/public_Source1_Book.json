@@ -1,0 +1,166 @@
+{
+  "source": "Book-style content inspired by 'Team Geek', 'The Pragmatic Programmer', and 'Radical Candor'",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Communication in tech teams means sharing ideas, updates, and blockers clearly.",
+        "Even if your code is good, bad communication can break the project.",
+        "Books say great teams focus as much on how they talk as how they code.",
+        "Clear, honest, respectful conversations build trust.",
+        "Listening is as important as speaking when working in a team."
+      ],
+      "level_2": [
+        "Communication includes meetings, chats, emails, code comments, and documentation.",
+        "Books recommend starting with empathy — understand before replying.",
+        "Miscommunication causes bugs, delays, and frustration.",
+        "Structured communication helps in conflict resolution.",
+        "In tech, async communication is as important as live talks."
+      ],
+      "level_3": [
+        "Engineers should give regular, constructive feedback — not just bug fixes.",
+        "Books like 'Radical Candor' talk about caring personally while challenging directly.",
+        "Tech leads communicate vision, progress, and blockers efficiently.",
+        "Peer code reviews are a key place for positive and clear communication.",
+        "Teams with open, honest discussions avoid surprises and blame later."
+      ],
+      "level_4": [
+        "Senior devs use communication to align business goals with code.",
+        "Strategic decisions require clear, documented proposals.",
+        "Leaders must communicate across roles: tech, product, design, business.",
+        "Books suggest creating safe spaces for tough conversations.",
+        "Communication is not a soft skill — it’s a multiplier skill."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Asking for help on a bug clearly with steps and screenshots.",
+        "Sharing updates during daily standups.",
+        "Explaining your code to a teammate during a lab."
+      ],
+      "level_2": [
+        "Writing proper commit messages and PR descriptions.",
+        "Replying to group messages with clarity and politeness.",
+        "Summarizing meeting points and next steps on chat."
+      ],
+      "level_3": [
+        "Running sprint reviews or retrospectives with honest feedback.",
+        "Responding to comments in a code review with examples.",
+        "Explaining tech trade-offs in a group discussion."
+      ],
+      "level_4": [
+        "Leading a tech sync with clear agenda and decision points.",
+        "Drafting tech proposals or design docs.",
+        "Resolving conflicts or misalignment through one-on-ones."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns write status reports and discuss blockers.",
+        "New hires pair with mentors and communicate learning needs."
+      ],
+      "level_2": [
+        "Junior devs comment on JIRA or Trello tickets with updates.",
+        "Team members use Slack, Discord, or Teams for async updates."
+      ],
+      "level_3": [
+        "Developers give and receive peer code feedback regularly.",
+        "Product and engineering align using weekly syncs."
+      ],
+      "level_4": [
+        "Tech leads translate business needs into clear dev tasks.",
+        "Leaders host open forums and feedback surveys."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What do I need to say?",
+        "What’s the best way to say it clearly?"
+      ],
+      "level_2": [
+        "Will the receiver understand this message?",
+        "Is my tone respectful and helpful?"
+      ],
+      "level_3": [
+        "Am I creating space for others to speak?",
+        "How do I handle disagreement professionally?"
+      ],
+      "level_4": [
+        "Is my communication aligned with team goals?",
+        "How can I make difficult conversations productive?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Giving unclear instructions or updates.",
+        "Interrupting or ignoring during discussions."
+      ],
+      "level_2": [
+        "Not documenting decisions or context.",
+        "Reacting emotionally to technical feedback."
+      ],
+      "level_3": [
+        "Blaming instead of problem-solving in team calls.",
+        "Using sarcasm or passive tone in chat groups."
+      ],
+      "level_4": [
+        "Avoiding hard conversations due to fear.",
+        "Assuming people know your intent without clear words."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why is communication important in tech?",
+        "Name one way to improve daily team communication."
+      ],
+      "level_2": [
+        "What is async communication?",
+        "How can you give polite feedback?"
+      ],
+      "level_3": [
+        "What makes a good team meeting?",
+        "How do you respond to unclear feedback?"
+      ],
+      "level_4": [
+        "What is Radical Candor?",
+        "How can leaders build trust through communication?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a clear bug report or help message with screenshots."
+      ],
+      "level_2": [
+        "Summarize your week’s progress and next steps in 5 lines.",
+        "Give constructive feedback to a peer’s project."
+      ],
+      "level_3": [
+        "Run a mock standup call with your peer group.",
+        "Write a short PR description and review comment."
+      ],
+      "level_4": [
+        "Create a team communication guide or Notion board.",
+        "Host a team retrospective focusing on communication gaps."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t use harsh or rude words, even in stress.",
+        "Avoid vague updates — be specific and brief."
+      ],
+      "level_2": [
+        "Don’t ignore messages — acknowledge and reply.",
+        "Avoid multitasking during team calls."
+      ],
+      "level_3": [
+        "Don’t give feedback in public if it's personal.",
+        "Avoid technical jargon if your audience is non-technical."
+      ],
+      "level_4": [
+        "Don’t avoid difficult discussions — address them early.",
+        "Avoid over-communicating without clarity — say what matters."
+      ]
+    }
+  }
+}
