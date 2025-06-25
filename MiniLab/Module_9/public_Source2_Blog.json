@@ -1,0 +1,166 @@
+{
+  "source": "Public blog-style content inspired by developer storytelling posts on Dev.to, Medium, and LinkedIn",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source2_Blog",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "I used to think solving a problem was enough. But when I tried to explain it — I struggled.",
+        "Writing about how you solved something helps you understand it better too.",
+        "In my first coding blog, I wrote step-by-step what I tried — even the failed attempts.",
+        "One of my mentors told me: 'Your process matters more than just the result.'",
+        "Problem-solving narratives are like behind-the-scenes of your success."
+      ],
+      "level_2": [
+        "I once posted about a bug I fixed and shared my debugging approach — that post got 100+ views.",
+        "My GitHub README now includes a 'How I solved it' section for every project.",
+        "In a group project, I explained my role by walking through the issue I tackled and my solution plan.",
+        "Problem-solving blogs are my learning journal — and people relate to the struggle.",
+        "Someone said: 'Show the messy middle, not just the perfect end.' It’s true!"
+      ],
+      "level_3": [
+        "On Dev.to, a developer shared how they rewrote a function 3 times before getting it right — that inspired me.",
+        "I wrote a blog about a failed project and what I’d do differently — many appreciated the honesty.",
+        "My narrative structure is usually: problem → first attempt → blocker → breakthrough → result.",
+        "Now, whenever I complete a feature, I note how I reached there — and often turn it into a post.",
+        "It’s not just about teaching others — it's about understanding yourself too."
+      ],
+      "level_4": [
+        "My most viewed blog was about how I failed an interview and what I learned — 1.2k reads!",
+        "A startup founder told me: 'I read your repo story before your code. That’s what stood out.'",
+        "Problem-solving content shows character: patience, logic, reflection, and resilience.",
+        "My tech resume now includes links to case-study style write-ups, not just project links.",
+        "People connect with stories. Good code is silent — good stories speak loud."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Writing a short LinkedIn post about fixing a small bug.",
+        "Telling your project viva examiner how you solved a key error.",
+        "Documenting your first successful API call and steps followed."
+      ],
+      "level_2": [
+        "Creating a GitHub issue and solving it with a PR + explanation.",
+        "Posting a Medium blog about how you approached a project.",
+        "Adding a 'What I learned' section to your README."
+      ],
+      "level_3": [
+        "Writing failure stories and what went wrong during a hackathon.",
+        "Explaining your role in a group project using STAR method.",
+        "Sharing a carousel post on LinkedIn breaking down your problem-solving approach."
+      ],
+      "level_4": [
+        "Publishing a video case study explaining your tech challenge.",
+        "Writing a retrospective of a major project showing timelines and blockers.",
+        "Using storytelling in interviews or public talks to show your growth."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers are often asked 'how' they solved something in interviews.",
+        "Interns write project summaries with challenges and learning."
+      ],
+      "level_2": [
+        "Dev blogs help document decisions and approach during projects.",
+        "Product teams use problem narratives to decide next features."
+      ],
+      "level_3": [
+        "Open-source maintainers use narratives to onboard new contributors.",
+        "Agile teams use retros and issue logs to improve workflow."
+      ],
+      "level_4": [
+        "Tech leads write architecture narratives before team execution.",
+        "CTOs pitch features using business + tech storytelling to stakeholders."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What was the exact problem I faced?",
+        "What was the first thing I tried?"
+      ],
+      "level_2": [
+        "Why didn’t that solution work?",
+        "How did I debug or break the problem into parts?"
+      ],
+      "level_3": [
+        "What was my breakthrough idea?",
+        "What tradeoffs or decisions did I make?"
+      ],
+      "level_4": [
+        "What was the final result or impact?",
+        "What did I learn and what would I change next time?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Just saying 'I solved it' with no explanation.",
+        "Only showing the final result without context."
+      ],
+      "level_2": [
+        "Too much code — too little reasoning.",
+        "Skipping over what failed or went wrong."
+      ],
+      "level_3": [
+        "Not linking the problem to real user or team need.",
+        "Flat storytelling with no emotional or logical flow."
+      ],
+      "level_4": [
+        "Sounding too perfect — no sign of growth or learning.",
+        "Lack of structure makes the narrative hard to follow."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a problem-solving narrative?",
+        "Why should you explain your approach?"
+      ],
+      "level_2": [
+        "What does STAR stand for in storytelling?",
+        "How can narratives help in interviews?"
+      ],
+      "level_3": [
+        "Compare STAR vs CAR in terms of story depth.",
+        "What makes a blog post engaging and real?"
+      ],
+      "level_4": [
+        "How can you structure a project case study?",
+        "What role do emotions play in tech storytelling?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write 5 lines explaining a small issue you fixed."
+      ],
+      "level_2": [
+        "Make a GitHub README with a 'How I solved this' note.",
+        "Write a LinkedIn post with STAR format."
+      ],
+      "level_3": [
+        "Write a full blog describing your thinking process in a project.",
+        "Record a voice note or video explaining your solution process."
+      ],
+      "level_4": [
+        "Host a peer review session to explain your problem-solving logic.",
+        "Write a long-form case study combining challenge + solution + impact."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip steps — include what didn’t work too.",
+        "Avoid generic phrases like 'it was easy' — explain why."
+      ],
+      "level_2": [
+        "Keep the flow natural — like telling a story.",
+        "Don’t just list — show thinking at each step."
+      ],
+      "level_3": [
+        "Avoid showing only wins — share lessons from failure too.",
+        "Connect the solution to user needs or impact."
+      ],
+      "level_4": [
+        "Balance honesty with clarity — be specific, not dramatic.",
+        "Avoid sounding robotic — show curiosity, growth, and decisions."
+      ]
+    }
+  }
+}
