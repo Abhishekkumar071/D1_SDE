@@ -1,0 +1,123 @@
+{
+  "source": "Curated from LeetCode Discuss, Blind, and TeamBlind threads (2023-2024)",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "private_Source1_ForumDiscussion",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Q: How accurate are mock interviews? A: Did 3 mocks on Pramp - actual Google interview was 20% harder on system design.",
+        "Comment: Failed 4 mocks before realizing I wasn't clarifying constraints upfront (e.g., 'Is this for mobile or web?')"
+      ],
+      "level_2": [
+        "Q: Do companies share feedback reports? A: Got mine from Amazon - scored 2.8/4 on 'Invent & Simplify' with note: 'Solution lacked creative alternatives'.",
+        "Tip: Record yourself! Caught myself saying 'like' 50 times in 30 mins."
+      ],
+      "level_3": [
+        "Q: Staff eng simulations? A: At Meta, they make you 'lead' a mock team through ambiguous requirements - scored on how you delegate.",
+        "Comment: My Netflix loop had a 'production outage' simulation - they cared more about communication than the fix."
+      ],
+      "level_4": [
+        "Q: Director-level case studies? A: Had to present a 5-year tech roadmap to fake 'board members' who interrupted every 2 mins.",
+        "Comment: At Stripe EGM interview, they graded how I handled 'engineering vs sales' conflicts - not the technical solution."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Q: Beginner mock example? A: 'Debug a slow API endpoint' - trick was the interviewer wanted me to ask about monitoring tools first."
+      ],
+      "level_2": [
+        "Comment: Microsoft's 'as-loop' simulation gives you a buggy PR and watches how you review code (they track comment politeness)."
+      ],
+      "level_3": [
+        "Q: Real FAANG simulation? A: Google L5 had me optimize ad targeting while a 'PM' kept changing requirements - tested pushback."
+      ],
+      "level_4": [
+        "Comment: Two Sigma's hardest part wasn't the math - it was explaining quant models to a 'risk officer' actor who played dumb."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Q: Startup simulations? A: YC-style - 'Pitch your solution to a tired founder who hates tech debt.'"
+      ],
+      "level_2": [
+        "Comment: At Coinbase, they simulate explaining blockchain to a 'grandma' - tests if you can avoid jargon."
+      ],
+      "level_3": [
+        "Q: Healthtech specifics? A: Had to design HIPAA-compliant APIs while a 'doctor' actor complained about UI."
+      ],
+      "level_4": [
+        "Comment: SpaceX simulation: Debug satellite telemetry code while 'NASA' reps demand hourly updates."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Tip: Always restate the problem - my mock feedback said 'assumed wrong constraints 3/5 times'."
+      ],
+      "level_2": [
+        "Q: How to think aloud? A: Use 'I'm considering X because Y, but Z might be better' - scored well at LinkedIn."
+      ],
+      "level_3": [
+        "Comment: Staff eng secret: They want to hear 'How would my team implement this?' not just your solution."
+      ],
+      "level_4": [
+        "Tip: For exec roles, frame tech debt as 'If we don't fix X, we lose $Y revenue in 6 months'."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Q: Common L3 problems? A: 'Design a rate limiter' but they care more about test cases than the code."
+      ],
+      "level_2": [
+        "Comment: Amazon's OOD simulation gives you legacy code and says 'Make it scalable' - tests refactoring choices."
+      ],
+      "level_3": [
+        "Q: L6 system design? A: Got 'Design Google Drive' but with focus on cross-region sync conflicts."
+      ],
+      "level_4": [
+        "Comment: Goldman Sachs MD interview: Simulated telling a 'trader' their favorite feature is getting deprecated."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Quiz: Your mock feedback says 'Lacked structure' - what to improve? A) Use STAR B) Practice with timer C) Both"
+      ],
+      "level_2": [
+        "Q: How to grade mocks? A: Rate this response: 'I'd use Redis for caching' → 'I'd use Redis with LRU eviction because our read pattern shows...'"
+      ],
+      "level_3": [
+        "Comment: Got a 3.5/4 at Google with note: 'Great algorithm but didn't discuss monitoring for edge cases'."
+      ],
+      "level_4": [
+        "Q: Director feedback example? A: 'Visionary on tech but underestimated change management (2/5)'."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Task: Do a mock where you're not allowed to say 'um' - pay $1 to charity each time."
+      ],
+      "level_2": [
+        "Comment: Built a feedback parser that highlights weak phrases ('kind of', 'maybe') - improved my clarity 40%."
+      ],
+      "level_3": [
+        "Q: Staff eng prep? A) Run a mock design meeting where you 'manage' stubborn engineers (friends can roleplay)."
+      ],
+      "level_4": [
+        "Comment: Created 'bias bingo' cards for interview panels - catches phrases like 'not cultural fit' without evidence."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Didn't bring a notebook - forgot key constraints mid-interview."
+      ],
+      "level_2": [
+        "Tip: For 'failure' questions, end with 'Now I always X' - shows growth."
+      ],
+      "level_3": [
+        "Mistake: Over-engineered a solution they wanted brute-force for MVP."
+      ],
+      "level_4": [
+        "Pro Tip: For board simulations, prepare 3 financial metrics for every tech decision."
+      ]
+    }
+  }
+}
