@@ -1,0 +1,166 @@
+{
+  "source": "Synthetic content generated using ChatGPT for educational use",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "synthetic_Source1_Generated",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Communication helps team members understand each other and complete tasks together.",
+        "In tech teams, we use words, chats, calls, and code comments to work smoothly.",
+        "When communication is clear, teams avoid confusion and mistakes.",
+        "Listening is just as important as speaking in a good team.",
+        "Even great code needs teamwork — and teamwork needs communication."
+      ],
+      "level_2": [
+        "Tech teams use async messages, standups, and documentation to stay in sync.",
+        "Good communication builds trust, avoids errors, and boosts collaboration.",
+        "Feedback should be clear, helpful, and respectful.",
+        "Miscommunication can delay the entire project.",
+        "Written communication is key for remote or hybrid teams."
+      ],
+      "level_3": [
+        "Developers must explain logic, ask doubts, and handle reviews with patience.",
+        "Meetings should have purpose, structure, and clear outcomes.",
+        "Constructive feedback includes praise and suggestions for improvement.",
+        "Documentation is a silent form of team communication.",
+        "Communication includes speaking, writing, listening, and follow-up."
+      ],
+      "level_4": [
+        "Senior devs lead by communicating clearly across product, design, and engineering.",
+        "Leaders create safe environments where everyone feels heard.",
+        "Crisis management depends on fast, calm, and honest communication.",
+        "Written updates and status reports help manage large distributed teams.",
+        "Great communicators align people, not just inform them."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Telling your friend you're stuck and asking for help.",
+        "Explaining your code during a group project.",
+        "Writing daily updates on a shared class sheet."
+      ],
+      "level_2": [
+        "Commenting on someone’s pull request politely.",
+        "Writing proper commit messages and clear PR titles.",
+        "Giving positive and useful feedback in team reviews."
+      ],
+      "level_3": [
+        "Sharing your ideas in a meeting with confidence.",
+        "Running a team retro to improve future work.",
+        "Handling team questions in group chat without being rude."
+      ],
+      "level_4": [
+        "Leading a project meeting with cross-functional members.",
+        "Communicating goals and blockers to team and management.",
+        "Resolving misunderstandings by listening and mediating."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns explain tasks done in daily reports.",
+        "Junior devs ask mentors for support and clarity."
+      ],
+      "level_2": [
+        "Team members write and reply to sprint tickets.",
+        "Peers review each other's work and suggest changes."
+      ],
+      "level_3": [
+        "Developers maintain documentation and onboarding guides.",
+        "Tech teams resolve bugs and features using async tools."
+      ],
+      "level_4": [
+        "Leads communicate vision and feedback across departments.",
+        "CTOs use written plans and meetings to align long-term goals."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What do I want to say?",
+        "Will others understand this clearly?"
+      ],
+      "level_2": [
+        "Is my message respectful and useful?",
+        "Do I need to explain more for clarity?"
+      ],
+      "level_3": [
+        "Is my feedback improving the team or blaming someone?",
+        "Is this the right time and way to say it?"
+      ],
+      "level_4": [
+        "Am I building alignment or confusion?",
+        "Is my tone building trust and clarity?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not asking for help when stuck.",
+        "Using rude or unclear language in chat."
+      ],
+      "level_2": [
+        "Ignoring someone’s feedback or suggestions.",
+        "Giving feedback in public that could be shared privately."
+      ],
+      "level_3": [
+        "Not documenting important decisions or tasks.",
+        "Speaking over others in meetings or chats."
+      ],
+      "level_4": [
+        "Assuming others know your intent without clear messaging.",
+        "Delaying updates, causing confusion across teams."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is one way to improve team communication?",
+        "Why should you reply to your teammate respectfully?"
+      ],
+      "level_2": [
+        "What is async communication?",
+        "How can feedback be made useful?"
+      ],
+      "level_3": [
+        "Why is documentation important in a team?",
+        "What makes a meeting effective?"
+      ],
+      "level_4": [
+        "What’s the impact of good communication in leadership?",
+        "How does communication style affect team culture?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a proper update about your task for a shared doc."
+      ],
+      "level_2": [
+        "Review a classmate’s code and leave a kind, helpful comment.",
+        "Write a commit message and a 3-line summary of your code."
+      ],
+      "level_3": [
+        "Host a mock team meeting and share a summary.",
+        "Create a feedback form and test it with peers."
+      ],
+      "level_4": [
+        "Design a team communication SOP using Notion or Google Docs.",
+        "Run a retrospective on how your team communicated during a project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t be rude — be calm and kind.",
+        "Avoid unclear replies — be specific."
+      ],
+      "level_2": [
+        "Don’t ignore team messages — always acknowledge.",
+        "Avoid giving blunt feedback — add care and reason."
+      ],
+      "level_3": [
+        "Don’t dominate team discussions — listen too.",
+        "Avoid hidden updates — write everything down."
+      ],
+      "level_4": [
+        "Don’t hold back feedback out of fear — share it respectfully.",
+        "Avoid complex words — focus on clarity, not smartness."
+      ]
+    }
+  }
+}
