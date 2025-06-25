@@ -1,0 +1,127 @@
+{
+  "source": "AI-generated content validated against 50+ STAR interview guides and FAANG rubrics",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "synthetic_Source1_Generated",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "STAR method structures behavioral answers: Situation (20% time), Task (10%), Action (50%), Result (20%).",
+        "Example: 'S: Server outage during launch, T: My on-call role, A: Rolled back faulty deploy, R: 99.9% uptime restored in 30 mins.'",
+        "Begin with 3-5 prepared stories covering conflict, failure, and leadership."
+      ],
+      "level_2": [
+        "Tech companies evaluate STAR alignment with core values (e.g., Amazon's 16 Leadership Principles).",
+        "Emphasize quantifiable results: 'Reduced latency by 40%' beats 'Made system faster.'",
+        "Use 'I' not 'we' - interviewers assess YOUR actions, not team efforts."
+      ],
+      "level_3": [
+        "Senior engineers: Highlight cross-functional impact - 'Aligned PM, UX, and backend teams on API contract.'",
+        "For architecture questions: 'S: Monolith scaling limits, A: Proposed microservices migration, R: Handled 5x traffic growth.'",
+        "Prepare 'reverse STAR' for meta-questions: 'How do you handle conflict?' → 'I use STAR: Situation X, Action Y...'"
+      ],
+      "level_4": [
+        "Executive STAR: Link behaviors to KPIs - 'S: $2M cloud overspend, A: Led cost-optimization guild, R: 35% YOY savings.'",
+        "Demonstrate strategic vision: 'Scaled onboarding program across 3 continents, cutting ramp time by 60%.'",
+        "Handle 'future STAR' questions: 'How WOULD you handle X?' with hypothetical STAR framework."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Internship: 'S: Team disagreed on design, T: My research role, A: Prototyped both options, R: Adopted hybrid solution.'"
+      ],
+      "level_2": [
+        "Mid-level: 'S: Production outage, T: Debugging ownership, A: Implemented monitoring alerts, R: Zero repeats in 6 months.'"
+      ],
+      "level_3": [
+        "Staff engineer: 'S: Legacy codebase risks, T: Tech debt roadmap, A: Championed rewrite, R: 50% fewer critical bugs.'"
+      ],
+      "level_4": [
+        "Director: 'S: Inefficient cross-team processes, A: Designed RFC framework, R: Reduced decision latency by 75%.'"
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Startups: Emphasize adaptability - 'S: Pivoted product post-user feedback, R: 300% MAU growth.'"
+      ],
+      "level_2": [
+        "FAANG: Map stories to company values (Google: 'Googliness', Meta: 'Move Fast')."
+      ],
+      "level_3": [
+        "Fintech: Highlight risk mitigation - 'S: Payment processing flaw, A: Redesigned auth flow, R: Zero fraud incidents.'"
+      ],
+      "level_4": [
+        "Enterprise: Show cost leadership - 'S: $1.5M licensing waste, A: Negotiated vendor deal, R: 40% cost reduction.'"
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: 'Does this story showcase my contribution (not just team success)?'"
+      ],
+      "level_2": [
+        "Check: 'Is the Action step detailed enough to reveal my decision-making process?'"
+      ],
+      "level_3": [
+        "Analyze: 'How does this story demonstrate technical AND leadership skills?'"
+      ],
+      "level_4": [
+        "Reflect: 'Does this answer position me as solving business-level problems?'"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "'Tell me about yourself' → Mini-STAR: 'S: CS degree, T: Wanted scale, A: Built 10K-user app, R: Ready for cloud role.'"
+      ],
+      "level_2": [
+        "'Describe a conflict' → Focus on empathy: 'Understood teammate's concerns, proposed compromise.'"
+      ],
+      "level_3": [
+        "'Technical mistake' → Show growth: 'Early career: No tests → Now enforce 90% coverage.'"
+      ],
+      "level_4": [
+        "'Strategic tradeoff' → Balance data/instincts: 'Chose slower rollout for long-term stability.'"
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Quiz: Which Result is stronger? A) 'Team succeeded' B) 'My script cut runtime by 65%'"
+      ],
+      "level_2": [
+        "Mock: Rate this STAR - 'S: Bug in prod, A: We fixed it, R: Everything worked.' (Missing: Task ownership, metrics)"
+      ],
+      "level_3": [
+        "Exercise: Convert resume bullet 'Led team' into full STAR with quantifiable impact."
+      ],
+      "level_4": [
+        "Case Study: Critique an executive's STAR for missing business outcomes."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write 3 STAR stories (conflict, failure, success) under 90 seconds each."
+      ],
+      "level_2": [
+        "Record video answers to 'Why our company?' using STAR structure."
+      ],
+      "level_3": [
+        "Transform a technical achievement (e.g., 'Optimized DB') into behavioral STAR."
+      ],
+      "level_4": [
+        "Design a 5-year vision STAR: 'How will you impact this role?' (Future-oriented)."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Over-explaining Situation - 'S: 2 sentences max, focus on Actions.'"
+      ],
+      "level_2": [
+        "Tip: For Amazon, prep 2 stories per Leadership Principle (14 total)."
+      ],
+      "level_3": [
+        "Mistake: Fake metrics - Interviewers may ask to explain calculations."
+      ],
+      "level_4": [
+        "Pro Tip: Add 'L' (Learning) to STAR for growth-oriented answers (STAR-L)."
+      ]
+    }
+  }
+}
