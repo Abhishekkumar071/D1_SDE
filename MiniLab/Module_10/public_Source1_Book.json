@@ -1,0 +1,162 @@
+{
+        "introduction": {
+            "level_1": [
+                "Everyone makes mistakes while learning or coding.",
+                "Mistakes are not failures, they are signs of effort.",
+                "Books say the best way to grow is by learning from what went wrong.",
+                "Mistake recovery means identifying the issue and improving your method.",
+                "You grow faster when you reflect on what didn’t work."
+            ],
+            "level_2": [
+                "A growth plan turns a mistake into a learning opportunity.",
+                "Books recommend tracking mistakes and reviewing them weekly.",
+                "Recovery mindset means you don’t quit after failure — you retry smarter.",
+                "Mistakes show where your understanding was weak — and how to fix it.",
+                "Smart learners take notes on bugs and wrong logic to avoid repeating them."
+            ],
+            "level_3": [
+                "Books like 'Atomic Habits' suggest habit stacking after failure — link a mistake to a retry plan.",
+                "Reflection journals are used to write: mistake, impact, fix, prevention.",
+                "In tech, recovery plans involve debugging, root cause analysis, and documentation.",
+                "You improve faster when you teach others what you learned from failure.",
+                "Mistake analysis is a key part of retrospectives and personal growth reviews."
+            ],
+            "level_4": [
+                "Top performers build growth systems: weekly reflection, skill gaps review, retry strategy.",
+                "Books like 'Mindset' emphasize resilience — not avoiding mistakes but learning from them.",
+                "Recovery plans include emotional regulation, technical retry, and long-term vision reset.",
+                "Professionals use mistake logs to find patterns and optimize workflows.",
+                "Self-improvement is not about being perfect — it’s about being adaptable."
+            ]
+        },
+        "realWorldUseCases": {
+            "level_1": [
+                "Not understanding a concept and reading it again with help.",
+                "Trying a wrong logic and fixing it by checking documentation.",
+                "Failing a coding test and practicing similar problems later."
+            ],
+            "level_2": [
+                "Tracking wrong answers in a journal and re-solving weekly.",
+                "Reviewing why a project didn’t complete on time.",
+                "Writing 'What I learned' after every project or mistake."
+            ],
+            "level_3": [
+                "Documenting a postmortem after a failed module or hackathon.",
+                "Using GitHub issues to reflect on bugs and improvement.",
+                "Building a retry checklist after a poor mock interview."
+            ],
+            "level_4": [
+                "Running monthly growth reviews using data and reflection.",
+                "Creating a Notion board for skill gaps and retry timelines.",
+                "Writing failure case studies for your portfolio."
+            ]
+        },
+        "industryApplications": {
+            "level_1": [
+                "Interns write error logs and share what they fixed.",
+                "Junior devs reflect on code review feedback to improve."
+            ],
+            "level_2": [
+                "Teams use retrospectives to discuss what didn’t work.",
+                "Engineers write postmortems after failed deployments."
+            ],
+            "level_3": [
+                "Startups run failure analysis for product or release delays.",
+                "Managers create skill upgrade plans after feedback sessions."
+            ],
+            "level_4": [
+                "CTOs mentor devs using their own mistake journals.",
+                "Consultants document growth plans after audit reviews."
+            ]
+        },
+        "thinkingPattern": {
+            "level_1": [
+                "Ask: What went wrong? Why did it happen?",
+                "What can I do differently next time?"
+            ],
+            "level_2": [
+                "Break down the mistake — was it logic, time, or understanding?",
+                "Build a retry plan and test it on similar problems."
+            ],
+            "level_3": [
+                "Reflect: What habits led to this mistake?",
+                "Change the environment or triggers that caused it."
+            ],
+            "level_4": [
+                "Use failure logs to spot patterns across weeks or projects.",
+                "Make a system that rewards retry, not just success."
+            ]
+        },
+        "problemTypes": {
+            "level_1": [
+                "Ignoring mistakes and moving on quickly.",
+                "Repeating the same error in every assignment."
+            ],
+            "level_2": [
+                "Feeling guilty instead of fixing the root cause.",
+                "Not noting down what failed or why."
+            ],
+            "level_3": [
+                "Overcorrecting without understanding the original mistake.",
+                "Avoiding feedback due to fear of criticism."
+            ],
+            "level_4": [
+                "Blaming tools, teammates, or topics instead of reflecting.",
+                "No personal system for growth or mistake review."
+            ]
+        },
+        "assessmentsAndQuizzes": {
+            "level_1": [
+                "Why is it okay to make mistakes in learning?",
+                "What’s one way to recover from a coding error?"
+            ],
+            "level_2": [
+                "What is a growth plan?",
+                "Why should you review your past errors?"
+            ],
+            "level_3": [
+                "What’s the benefit of writing failure reflections?",
+                "How can you use mistake data to grow faster?"
+            ],
+            "level_4": [
+                "What should a growth system include?",
+                "How do professionals track and recover from mistakes?"
+            ]
+        },
+        "miniProjects": {
+            "level_1": [
+                "Write 3 recent mistakes and how you fixed them."
+            ],
+            "level_2": [
+                "Create a personal 'bug journal' to log coding errors.",
+                "Reflect on a failed project and list learnings."
+            ],
+            "level_3": [
+                "Design a retry plan for a topic you failed before.",
+                "Document a past mistake as a blog or README note."
+            ],
+            "level_4": [
+                "Build a Notion or Excel-based growth tracker.",
+                "Host a peer session on 'My Top 5 Learning Failures'."
+            ]
+        },
+        "suggestionsAndMistakes": {
+            "level_1": [
+                "Don’t hide mistakes — face them calmly.",
+                "Avoid ignoring what caused the error."
+            ],
+            "level_2": [
+                "Don’t feel ashamed of failing — growth takes time.",
+                "Avoid only fixing — also reflect on what to change."
+            ],
+            "level_3": [
+                "Don’t overreact — mistake recovery needs balance.",
+                "Avoid skipping analysis — even small issues can teach a lot."
+            ],
+            "level_4": [
+                "Don’t chase perfection — focus on consistent recovery.",
+                "Avoid ignoring emotional impact — reflect holistically."
+            ]
+        }
+    }
+}
