@@ -1,0 +1,127 @@
+{
+  "source": "AI-generated content validated against GitHub Docs, OpenSource.guide, and 10+ OSS projects",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "synthetic_Source1_Generated",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "GitHub is a platform for hosting code and collaborating using Git.",
+        "Open source means anyone can view, modify, and distribute your code.",
+        "Basic terms: Repository (repo), Branch, Commit, Pull Request (PR)."
+      ],
+      "level_2": [
+        "GitHub enables version control (tracking changes) and team collaboration.",
+        "Open source projects rely on community contributions (bugs, features, docs).",
+        "Key workflows: Forking, Branching, Merging, and Rebasing."
+      ],
+      "level_3": [
+        "Advanced features: GitHub Actions (CI/CD), Projects (kanban), Pages (hosting).",
+        "Maintaining OSS requires handling issues, PR reviews, and governance.",
+        "Licenses (MIT, GPL) define how others can use/modify your code."
+      ],
+      "level_4": [
+        "Enterprise GitHub: SAML SSO, audit logs, and policy enforcement.",
+        "Leading OSS projects often have corporate backing (e.g., React by Meta).",
+        "Ethics in OSS: Sustainability, credit, and avoiding maintainer burnout."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Hosting a personal portfolio website using GitHub Pages."
+      ],
+      "level_2": [
+        "Contributing documentation fixes to a library like React or Vue."
+      ],
+      "level_3": [
+        "Automating tests with GitHub Actions for a Python package."
+      ],
+      "level_4": [
+        "Managing a large OSS project with 100+ contributors (e.g., VS Code)."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns: Use GitHub to showcase class projects and assignments."
+      ],
+      "level_2": [
+        "Startups: Host private repos for MVP development and team collaboration."
+      ],
+      "level_3": [
+        "Tech companies: InnerSource (internal open-source practices)."
+      ],
+      "level_4": [
+        "FAANG: Maintain public OSS projects (e.g., Google’s TensorFlow, Facebook’s React)."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Before coding: ‘Should I create a new branch for this change?’"
+      ],
+      "level_2": [
+        "When contributing: ‘Does my PR description explain the "why" and "how"?’"
+      ],
+      "level_3": [
+        "Reviewing PRs: ‘Does this follow the project’s coding style and tests?’"
+      ],
+      "level_4": [
+        "Governance: ‘How do we handle controversial contributions or licenses?’"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Resolving a merge conflict in a personal repo."
+      ],
+      "level_2": [
+        "Writing a clear bug report with steps to reproduce."
+      ],
+      "level_3": [
+        "Rebasing a feature branch to avoid merge commits."
+      ],
+      "level_4": [
+        "Designing a contributor onboarding workflow for a large project."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What command creates a new Git branch?"
+      ],
+      "level_2": [
+        "When should you squash commits in a PR?"
+      ],
+      "level_3": [
+        "How would you automate dependency updates using GitHub Actions?"
+      ],
+      "level_4": [
+        "Design a CODEOWNERS file for a monorepo with multiple teams."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a repo and upload a ‘Hello World’ script in your favorite language."
+      ],
+      "level_2": [
+        "Contribute a typo fix to a documentation repo (e.g., MDN Web Docs)."
+      ],
+      "level_3": [
+        "Build a CI pipeline to test a JavaScript library using GitHub Actions."
+      ],
+      "level_4": [
+        "Set up issue templates and a contribution guide for a community project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Pushing API keys to public repos. Always use `.gitignore`!"
+      ],
+      "level_2": [
+        "Tip: Link PRs to related issues for better context tracking."
+      ],
+      "level_3": [
+        "Mistake: Force-pushing to shared branches (breaks collaborators’ history)."
+      ],
+      "level_4": [
+        "Tip: Use DCO (Developer Certificate of Origin) for legal compliance in OSS."
+      ]
+    }
+  }
+}
