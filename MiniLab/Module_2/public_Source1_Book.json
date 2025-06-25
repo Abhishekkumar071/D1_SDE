@@ -1,0 +1,127 @@
+{
+  "source": "Book - 'Pro Git' by Scott Chacon & Ben Straub (2nd Ed.) + GitHub's 'Open Source Guides'",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Git is a distributed version control system that tracks changes to files.",
+        "GitHub is a platform built on Git for hosting and collaborating on code.",
+        "Basic commands: `git clone`, `git add`, `git commit`, `git push`."
+      ],
+      "level_2": [
+        "Branches allow parallel development without disrupting the main codebase.",
+        "Pull Requests (PRs) propose changes and enable code review before merging.",
+        "Open source licenses (MIT, Apache) define usage rights and responsibilities."
+      ],
+      "level_3": [
+        "Rebasing rewrites commit history for cleaner project timelines (use with care!).",
+        "Git Hooks automate actions like testing before commits or pushes.",
+        "Maintainers use `CHANGELOG.md` and semantic versioning (SemVer) for releases."
+      ],
+      "level_4": [
+        "Git internals: Objects (blobs, trees, commits), references (branches/tags).",
+        "Large-scale OSS governance: RFC processes, maintainer teams, and CLA/DCO.",
+        "Enterprise features: Protected branches, required status checks, and audit logs."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Tracking changes to a school project with Git commits."
+      ],
+      "level_2": [
+        "Using GitHub Issues to report bugs in an open-source library."
+      ],
+      "level_3": [
+        "Automating release notes with GitHub Actions and conventional commits."
+      ],
+      "level_4": [
+        "Linux Kernel development: 20K+ contributors via email patches and Git."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students: Showcasing projects on GitHub for internship applications."
+      ],
+      "level_2": [
+        "Startups: Using GitHub Projects for agile task tracking."
+      ],
+      "level_3": [
+        "Tech companies: InnerSource (internal open-source collaboration models)."
+      ],
+      "level_4": [
+        "FAANG: Managing monorepos with thousands of contributors (e.g., Google, Meta)."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Before committing: 'Are these changes logically grouped?'"
+      ],
+      "level_2": [
+        "When stuck: 'Is this documented in the project's README or Wiki?'"
+      ],
+      "level_3": [
+        "Reviewing code: 'Does this follow the project's style guide and testing standards?'"
+      ],
+      "level_4": [
+        "Designing workflows: 'How will this scale to 100+ concurrent contributors?'"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Accidentally committing sensitive data (e.g., passwords)."
+      ],
+      "level_2": [
+        "Resolving merge conflicts between feature branches."
+      ],
+      "level_3": [
+        "Rebasing a long-running feature branch with frequent upstream changes."
+      ],
+      "level_4": [
+        "Designing a CI/CD pipeline for a polyglot monorepo."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What command stages files for commit?"
+      ],
+      "level_2": [
+        "When should you create a new branch?"
+      ],
+      "level_3": [
+        "Explain the difference between `git merge` and `git rebase`."
+      ],
+      "level_4": [
+        "How would you enforce code review policies across an organization?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a repo with a `README.md` and license file."
+      ],
+      "level_2": [
+        "Submit a PR to fix a typo in documentation (e.g., MDN Web Docs)."
+      ],
+      "level_3": [
+        "Set up GitHub Actions to run tests on every push."
+      ],
+      "level_4": [
+        "Design a bot to automatically label incoming issues based on content."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Writing vague commit messages like 'fixed bug'. Use imperative mood: 'Fix navbar overflow'."
+      ],
+      "level_2": [
+        "Tip: Keep PRs small and focused (1 feature/bugfix per PR)."
+      ],
+      "level_3": [
+        "Mistake: Force-pushing to shared branches. Use `--force-with-lease` if absolutely necessary."
+      ],
+      "level_4": [
+        "Tip: Use `CODEOWNERS` to automatically request reviews from domain experts."
+      ]
+    }
+  }
+}
