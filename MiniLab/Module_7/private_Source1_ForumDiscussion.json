@@ -1,0 +1,166 @@
+{
+  "source": "Private discussion-style data from forums (e.g., Reddit, Discord, Quora, LinkedIn)",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "private_Source1_ForumDiscussion",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "I asked on Reddit if LinkedIn matters for students. Everyone said — YES!",
+        "In my college Discord, seniors told us to keep our LinkedIn updated even if we’re in 2nd year.",
+        "I posted a basic project on GitHub and someone starred it — felt amazing!",
+        "One person said: 'Think of GitHub as your coding diary — write regularly.'",
+        "A classmate got an internship because his GitHub had a clean README."
+      ],
+      "level_2": [
+        "In a Quora thread, someone said a good profile photo makes your LinkedIn 5x more clickable.",
+        "A mentor told me: 'You’re more visible when your profile looks alive.'",
+        "In our GDSC group, we reviewed each other’s LinkedIn — helped a lot!",
+        "One of us added LinkedIn links in their resume and got callbacks faster.",
+        "GitHub profiles with stars and clean repos get shared more in dev groups."
+      ],
+      "level_3": [
+        "On a Reddit AMA, a recruiter said: 'We check LinkedIn before the CV.'",
+        "In a Telegram group, people discussed how weekly posts improve visibility.",
+        "One friend posts a project update every Sunday — now has 2k+ LinkedIn followers.",
+        "Open-source mentors said: 'A well-structured GitHub is better than 10 certificates.'",
+        "GitHub readmes are like your pitch deck — show your thought process."
+      ],
+      "level_4": [
+        "A DevRel professional on Twitter said: 'Your personal brand is how people remember you.'",
+        "LinkedIn creators often suggest building in public — share progress, not just results.",
+        "One senior shared his resume, GitHub, and LinkedIn — all branded with one color and tone.",
+        "A top answer on Quora said: 'Be consistent, not perfect. That’s the secret to branding.'",
+        "A recruiter told me: 'I noticed you because of your weekly learning posts.'"
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Used my GitHub to show a calculator project in interview.",
+        "Sent my LinkedIn to a mentor during tech fest networking.",
+        "Posted a small project link in WhatsApp group and got feedback."
+      ],
+      "level_2": [
+        "Got a message from a recruiter who liked my pinned repos.",
+        "LinkedIn helped me get selected for an open-source event.",
+        "My GitHub profile was used to shortlist me for an internship."
+      ],
+      "level_3": [
+        "One of my posts got reshared by a senior — lots of views after that.",
+        "GitHub contributions shown during GSoC selection review.",
+        "LinkedIn recommendations helped me stand out during project pitches."
+      ],
+      "level_4": [
+        "Built personal branding so strong that someone referred me without asking.",
+        "Profile reviews by professionals helped me correct mistakes I never saw.",
+        "My LinkedIn newsletter helped me get invited to a developer podcast."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "LinkedIn links are now required in most internship forms.",
+        "GitHub is used during project evaluation in college too."
+      ],
+      "level_2": [
+        "Companies filter out students with no digital presence.",
+        "LinkedIn is a top platform for recruiters now."
+      ],
+      "level_3": [
+        "Startups search GitHub for active contributors.",
+        "Profiles with custom domain portfolios are preferred."
+      ],
+      "level_4": [
+        "Senior engineers are building personal brands to attract talent.",
+        "GitHub and LinkedIn branding is a standard in product teams now."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think of LinkedIn as your storybook and GitHub as your notebook.",
+        "Keep things simple, neat, and honest."
+      ],
+      "level_2": [
+        "Choose a tone for your bio — confident, not confusing.",
+        "Update achievements every 1-2 months."
+      ],
+      "level_3": [
+        "Use tools like shields.io, analytics, and badges to level up.",
+        "Your brand should answer: 'What are you known for?'"
+      ],
+      "level_4": [
+        "Build a journey — from learning to building to helping others.",
+        "Think long term — what will this profile say about you in a year?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No summary, no profile photo.",
+        "Dead GitHub with empty repos."
+      ],
+      "level_2": [
+        "Low-quality posts copied from others.",
+        "Projects uploaded with no explanation."
+      ],
+      "level_3": [
+        "Outdated bio that doesn’t match current skills.",
+        "Too many scattered interests confuse recruiters."
+      ],
+      "level_4": [
+        "Over-branding — too many hashtags, flashy claims.",
+        "Inconsistent tone across GitHub, LinkedIn, and portfolio."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is the purpose of a personal brand?",
+        "Which platforms help with visibility?"
+      ],
+      "level_2": [
+        "What should a good GitHub README include?",
+        "Why is consistency important in your posts?"
+      ],
+      "level_3": [
+        "What makes a LinkedIn profile recruiter-friendly?",
+        "Why do developers use pinned repositories?"
+      ],
+      "level_4": [
+        "How does branding impact long-term career growth?",
+        "Give 3 metrics to measure branding success."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload your class assignment to GitHub with README."
+      ],
+      "level_2": [
+        "Write your first LinkedIn post about what you're learning.",
+        "Pin your best GitHub project and explain it simply."
+      ],
+      "level_3": [
+        "Create a GitHub profile README with intro and badges.",
+        "Host a short portfolio and link it in your LinkedIn."
+      ],
+      "level_4": [
+        "Launch a content series — like 'Tech Tuesdays'.",
+        "Review 3 peer profiles and suggest improvements."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t leave your profile half-filled.",
+        "Use real name, clear photo, and proper links."
+      ],
+      "level_2": [
+        "Avoid copying others’ bios — write your unique story.",
+        "Keep your posts meaningful, not just trendy."
+      ],
+      "level_3": [
+        "Don’t focus only on projects — show your journey too.",
+        "Avoid exaggeration — truth builds real brand."
+      ],
+      "level_4": [
+        "Don’t brand randomly — plan your message and audience.",
+        "Keep improving — branding is never a one-time task."
+      ]
+    }
+  }
+}
