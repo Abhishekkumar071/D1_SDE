@@ -1,0 +1,165 @@
+{
+  "source": "Book-style content inspired by career and project development books like 'The Complete Software Developer's Career Guide', 'Show Your Work', and 'Cracking the Coding Interview'",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "A portfolio shows your projects and skills in one place.",
+        "It helps others see what you can build and how you think.",
+        "A portfolio can be a website or a GitHub profile.",
+        "It is useful when applying for internships or jobs.",
+        "Even beginners can start building a portfolio with small projects."
+      ],
+      "level_2": [
+        "Books suggest having 3-5 quality projects on GitHub or personal site.",
+        "A strong portfolio includes description, tech stack, and screenshots.",
+        "Each project should solve a real-world problem.",
+        "Keep your code clean and include README files.",
+        "Books recommend including both solo and team projects."
+      ],
+      "level_3": [
+        "Projects should show skills in frontend, backend, and databases.",
+        "Include hosted links using platforms like Vercel or Netlify.",
+        "Explain your thought process and learning in each project.",
+        "Books recommend open-source contributions as strong portfolio elements.",
+        "Add blog links, videos, or presentations if possible."
+      ],
+      "level_4": [
+        "Advanced developers use portfolios to demonstrate leadership and scalability.",
+        "Books suggest showcasing projects that align with target roles.",
+        "Add analytics, CI/CD pipelines, or custom APIs to impress.",
+        "Highlight impact: users reached, speed improvement, etc.",
+        "Portfolios should evolve — update it every 3–6 months."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Sharing your GitHub project link during a campus interview.",
+        "Sending your portfolio website to a recruiter on LinkedIn.",
+        "Using your portfolio to show what you learned in a course."
+      ],
+      "level_2": [
+        "Mentioning a portfolio in your resume for internship shortlisting.",
+        "Explaining a project during mock interview or coding bootcamp.",
+        "Uploading your work on platforms like Devfolio or Behance."
+      ],
+      "level_3": [
+        "Using a GitHub README to impress mentors with code structure.",
+        "Showing your project’s GitHub stars/forks during screening.",
+        "Blogging about your project journey and linking it in your portfolio."
+      ],
+      "level_4": [
+        "Building a personal brand by maintaining a tech blog + project repo.",
+        "Presenting portfolio projects in developer conferences.",
+        "Showcasing community-led projects or hackathon wins publicly."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Portfolios are required in college placements and internships.",
+        "Bootcamps and training institutes ask students to build portfolios."
+      ],
+      "level_2": [
+        "Startups hire based on GitHub profiles and live projects.",
+        "Recruiters shortlist candidates by scanning their public work."
+      ],
+      "level_3": [
+        "Product companies review portfolios during technical screening.",
+        "Hiring managers check real projects instead of just resumes."
+      ],
+      "level_4": [
+        "Top tech firms value open-source, high-impact public work.",
+        "Portfolios help in tech talks, leadership roles, and freelancing."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Start by picking simple problems to solve with code.",
+        "Focus on clean structure, not just working code."
+      ],
+      "level_2": [
+        "Think about the user – is your project helpful and clear?",
+        "Use feedback to improve your project and its presentation."
+      ],
+      "level_3": [
+        "Design projects with reuse and scalability in mind.",
+        "Use real data, APIs, or user inputs to make it realistic."
+      ],
+      "level_4": [
+        "Plan a roadmap for your portfolio growth.",
+        "Think like a product owner – what value does this bring?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Missing README files or unclear project names.",
+        "Projects with no screenshots or demo links."
+      ],
+      "level_2": [
+        "Same project repeated in different names.",
+        "Lack of explanation or comments in code."
+      ],
+      "level_3": [
+        "No version control, poor folder structure.",
+        "No deployment or hosting for live testing."
+      ],
+      "level_4": [
+        "Code lacks documentation, testing, or CI setup.",
+        "Project doesn’t show role clarity or measurable impact."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a portfolio?",
+        "Why do students need a project portfolio?"
+      ],
+      "level_2": [
+        "List 2 things a good GitHub project should have.",
+        "Why is a live demo link useful in your project?"
+      ],
+      "level_3": [
+        "How can you make your project stand out?",
+        "Why should you explain the tech stack used?"
+      ],
+      "level_4": [
+        "What metrics can prove a project's real-world value?",
+        "How does portfolio help in long-term tech branding?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Build a calculator and upload to GitHub with a README."
+      ],
+      "level_2": [
+        "Create a personal portfolio website with your projects listed."
+      ],
+      "level_3": [
+        "Build a full-stack blog site with login, post, and comments.",
+        "Write about your project journey on Medium or Hashnode."
+      ],
+      "level_4": [
+        "Create a portfolio template others can fork and use.",
+        "Document a public API or tool and include usage examples."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t leave empty repositories on GitHub.",
+        "Always add a README to every project."
+      ],
+      "level_2": [
+        "Avoid uploading too many half-finished projects.",
+        "Name folders and files clearly — it shows professionalism."
+      ],
+      "level_3": [
+        "Update your GitHub activity regularly.",
+        "Use markdown, images, and proper formatting in README."
+      ],
+      "level_4": [
+        "Avoid making everything private — show your best work.",
+        "Create a LinkedIn post summarizing your public project."
+      ]
+    }
+  }
+}
