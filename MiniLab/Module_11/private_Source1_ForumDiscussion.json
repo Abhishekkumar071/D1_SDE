@@ -1,0 +1,166 @@
+{
+  "source": "Private discussion-style data from forums like Reddit, Discord, LinkedIn, and Telegram",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "private_Source1_ForumDiscussion",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "In my first dev group, I didn’t speak up because I felt shy — but my task got delayed.",
+        "Someone on Discord said: 'If you don’t speak, people can’t help you.' That stuck with me.",
+        "A friend told me — 'Tech is 50% code, 50% communication'. Now I believe it.",
+        "In our team standup, I learned to say what’s done, what’s next, and what’s blocked.",
+        "One of our seniors said: 'Don’t just code in isolation — talk, clarify, contribute.'"
+      ],
+      "level_2": [
+        "We had a mess in our GitHub PRs once — just because no one explained the change properly.",
+        "On Telegram, we use emoji reactions to show we’ve read or agree — super helpful.",
+        "I saw someone give feedback harshly and the receiver felt bad. Since then, I soften my tone.",
+        "Our group made a rule: 'If it takes more than 3 texts to explain — call.'",
+        "I realized silence often causes more problems than asking early."
+      ],
+      "level_3": [
+        "Our GDSC project failed because we didn't clarify who was doing what.",
+        "After retrospectives, we now log next steps in a Notion board — it's clearer.",
+        "A friend uses Loom videos to explain logic — very useful for async teams.",
+        "One of our best decisions: using a shared format for daily progress + blockers.",
+        "LinkedIn comments taught me how to keep replies professional and friendly."
+      ],
+      "level_4": [
+        "Our team uses a doc template: Goal, Status, Dependencies, Questions — saves so much time.",
+        "I was told: 'Leaders are not loud — they’re clear'. That changed my communication style.",
+        "A startup founder shared: 'Team issues rarely start with tech — they start with poor clarity.'",
+        "I now write weekly updates like a newsletter — even my manager appreciates the format.",
+        "In our group, communication isn’t just task updates — it's about reducing mental load too."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Explaining your doubt properly in a group discussion.",
+        "Saying 'I’m stuck on X because of Y' in a team call.",
+        "Sharing which file you updated and why in the chat."
+      ],
+      "level_2": [
+        "Posting async updates every evening to keep the team informed.",
+        "Giving feedback that focuses on code, not the person.",
+        "Using simple formats for progress reports."
+      ],
+      "level_3": [
+        "Organizing a team doc with decision logs.",
+        "Running a feedback session and capturing next steps.",
+        "Explaining design trade-offs during team planning."
+      ],
+      "level_4": [
+        "Managing a multi-team project with shared async trackers.",
+        "Facilitating cross-functional updates between dev, design, and product.",
+        "Handling conflict calmly during high-pressure meetings."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns check in regularly during project work.",
+        "Freshers report blockers early in Slack or Teams."
+      ],
+      "level_2": [
+        "Engineers document setup steps for others.",
+        "Dev teams clarify scope before starting new tickets."
+      ],
+      "level_3": [
+        "Leads host retros to find and fix team process issues.",
+        "Senior devs support juniors through regular 1:1s."
+      ],
+      "level_4": [
+        "Engineering managers communicate vision + metrics in all-hands.",
+        "PMs and devs align sprint goals using async briefs."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What exactly am I trying to say?",
+        "Can I be simpler and more polite?"
+      ],
+      "level_2": [
+        "What’s the context? What outcome do I expect?",
+        "Should this be a message or a call?"
+      ],
+      "level_3": [
+        "Am I inviting feedback or just pushing opinions?",
+        "Is this update actionable for others?"
+      ],
+      "level_4": [
+        "Is my message helping the team move faster?",
+        "Am I creating space for others to contribute?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Giving updates that are too short or confusing.",
+        "Not responding when tagged in group discussions."
+      ],
+      "level_2": [
+        "Using blame instead of solution-oriented language.",
+        "Not clarifying who’s doing what in group tasks."
+      ],
+      "level_3": [
+        "Avoiding difficult conversations due to discomfort.",
+        "Replying with sarcasm or passive tone."
+      ],
+      "level_4": [
+        "Letting misalignment grow silently.",
+        "Over-communicating without clarifying decisions or actions."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What are 2 ways to communicate clearly in a tech team?",
+        "Why is it important to say when you’re blocked?"
+      ],
+      "level_2": [
+        "What’s the benefit of async updates?",
+        "How does tone affect written communication?"
+      ],
+      "level_3": [
+        "What is a standup? What should it include?",
+        "When should you move from chat to call?"
+      ],
+      "level_4": [
+        "What makes a good retrospective discussion?",
+        "How can you handle conflict without escalating?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a mock progress message to update your team."
+      ],
+      "level_2": [
+        "Write a sample polite message for asking help.",
+        "Record a 1-min explanation of your code logic."
+      ],
+      "level_3": [
+        "Run a feedback exchange session in your group.",
+        "Draft a changelog explaining a recent update."
+      ],
+      "level_4": [
+        "Design a team comms SOP (communication rulebook).",
+        "Create a retro board template with key sections."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t assume people understand half-written updates.",
+        "Avoid being silent when you’re lost — ask early."
+      ],
+      "level_2": [
+        "Don’t send angry messages — draft and review first.",
+        "Avoid making assumptions — confirm tasks and deadlines."
+      ],
+      "level_3": [
+        "Don’t talk over others — listen with patience.",
+        "Avoid giving feedback without offering help too."
+      ],
+      "level_4": [
+        "Don’t wait till the end — communicate early and often.",
+        "Avoid over-detailing when a summary will help more."
+      ]
+    }
+  }
+}
