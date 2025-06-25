@@ -1,0 +1,166 @@
+{
+  "source": "Public blog-style content inspired by developer growth stories and learning blogs",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source2_Blog",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "I once failed to submit a college project on time. It was painful — but it taught me planning.",
+        "After failing a coding round, I listed my weak topics and made a plan to revise them.",
+        "I wrote a blog titled 'My Top 3 Mistakes as a Beginner Coder'. It helped me grow — and others too.",
+        "Mistakes are part of the journey. The key is what you do after them.",
+        "Every time I fail, I pause, reflect, and plan my next move."
+      ],
+      "level_2": [
+        "I missed an internship opportunity because I didn’t follow up. Now I maintain a weekly outreach log.",
+        "After messing up my first GitHub pull request, I learned to test before submitting.",
+        "A senior told me: 'Failures are just feedback from reality.' That changed how I learn.",
+        "I started a 'learning journal' where I write weekly mistakes + what I’d do better next time.",
+        "One blog post said: 'Don’t fix the mistake — fix the system that caused it.' Powerful."
+      ],
+      "level_3": [
+        "I failed a hackathon badly. But during post-event reflection, I realized what skills I lacked — and made a 3-month plan.",
+        "Growth plans are not just ideas — they are habits, checklists, and calendars.",
+        "Sharing failure stories builds trust. My blog about flunking DSA got more engagement than my project post.",
+        "Each Sunday, I write: what went wrong, what surprised me, what to change.",
+        "Recovering from mistakes isn’t about getting it right — it’s about bouncing back with clarity."
+      ],
+      "level_4": [
+        "I turned my failed startup pitch into a detailed retrospective — it helped me land a better role later.",
+        "Growth systems include time audits, skill gap reviews, and self-check-ins.",
+        "One of my best-performing blogs was: 'How 3 Failures Made Me a Better Developer'.",
+        "In interviews, I share a 'fail → learn → upgrade' story — and it always connects.",
+        "Mistakes are mirrors — they show who you are and who you can become."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Missing an assignment deadline → making a daily study schedule.",
+        "Failing a test → identifying weak topics for re-study.",
+        "Getting stuck in code → re-reading logic and commenting the fix."
+      ],
+      "level_2": [
+        "Messing up Git commits → learning how to use branches properly.",
+        "Failing in DSA → practicing 3 problems per day consistently.",
+        "Losing a project due to miscommunication → starting daily standups with the team."
+      ],
+      "level_3": [
+        "Creating a 'mistake recovery' blog series.",
+        "Starting weekly team retros in a student dev group.",
+        "Building a Notion template for growth reviews."
+      ],
+      "level_4": [
+        "Publishing a growth portfolio with lessons from each project.",
+        "Sharing monthly reflections on LinkedIn for accountability.",
+        "Running peer check-ins for skill gap mapping and recovery tracking."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns write about what went wrong during onboarding and how they solved it.",
+        "Beginners fix simple bugs and explain it to peers."
+      ],
+      "level_2": [
+        "Junior devs do retros after projects to list blockers and improvement areas.",
+        "Coding mentors guide learners using recovery stories."
+      ],
+      "level_3": [
+        "Teams use sprint retros to build action plans post-failure.",
+        "Product teams share postmortems of missed deadlines."
+      ],
+      "level_4": [
+        "Founders write failure case studies to show resilience and pivot mindset.",
+        "Engineering managers use 1:1s to co-create learning recovery plans."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What went wrong? What caused it?",
+        "What would I try differently next time?"
+      ],
+      "level_2": [
+        "Was it a time issue, skill issue, or misunderstanding?",
+        "What habit can I build to avoid this?"
+      ],
+      "level_3": [
+        "What repeated mistakes can I spot from the past month?",
+        "How do I build a checklist or system for it?"
+      ],
+      "level_4": [
+        "How can I make failure part of my learning workflow?",
+        "Can I mentor others with the same issue now?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Ignoring errors without understanding what happened.",
+        "Feeling embarrassed instead of learning."
+      ],
+      "level_2": [
+        "Trying again without changing approach.",
+        "Repeating same logic bugs or forgetting review steps."
+      ],
+      "level_3": [
+        "Blaming circumstances without tracking actions.",
+        "Having no reflection system or error log."
+      ],
+      "level_4": [
+        "No visibility of patterns — repeating history silently.",
+        "Fearing feedback instead of using it for clarity."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is one benefit of reflecting on a mistake?",
+        "Why are mistakes important for learning?"
+      ],
+      "level_2": [
+        "What does a growth plan include?",
+        "How does writing about failures help?"
+      ],
+      "level_3": [
+        "What is a retrospective? How can it improve future projects?",
+        "What kind of system prevents repeating the same errors?"
+      ],
+      "level_4": [
+        "Name 2 tools that help you document and track learning failures.",
+        "Why are failure blogs or stories powerful in job interviews?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write about one coding mistake and how you fixed it."
+      ],
+      "level_2": [
+        "Create a personal growth log (Google Docs or Notion).",
+        "Post a recovery plan after your next failed attempt."
+      ],
+      "level_3": [
+        "Write a blog on 3 mistakes you made in a recent project.",
+        "Create a checklist to avoid repeating the same bug or habit."
+      ],
+      "level_4": [
+        "Make a case study showing how you recovered from a major blocker.",
+        "Record a video or write a carousel post titled: 'What I’d tell my past self'."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t hide your mistakes — share them with people who can help.",
+        "Avoid jumping to solutions without understanding root causes."
+      ],
+      "level_2": [
+        "Don’t try to forget the error — document and grow from it.",
+        "Avoid fear — it blocks learning from failure."
+      ],
+      "level_3": [
+        "Don’t repeat failure without review — build reflection time.",
+        "Avoid rushing recovery — understand, reflect, and retry."
+      ],
+      "level_4": [
+        "Don’t skip tracking — write down what you’re learning from each challenge.",
+        "Avoid fake positivity — honest growth stories are more powerful."
+      ]
+    }
+  }
+}
