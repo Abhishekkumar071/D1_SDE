@@ -1,0 +1,152 @@
+{
+    "source": "Synthetic content generated using ChatGPT for educational use",
+    "module": "Module 5: Mock Peer Reviews & Feedback",
+    "file_type": "synthetic_Source1_Generated",
+    "segments": {
+        "introduction": {
+            "level_1": [
+                "Peer review means checking each other's work.",
+                "It helps us find mistakes and learn from others.",
+                "In real jobs, teams always review each other's code.",
+                "Feedback is a way to improve together.",
+                "Good review is kind and helpful."
+            ],
+            "level_2": [
+                "In programming, we review code written by friends or teammates.",
+                "Review helps make code clean, readable, and bug-free.",
+                "You should always explain what can be improved.",
+                "Feedback is not personal, it's about work.",
+                "Use simple language to suggest changes."
+            ],
+            "level_3": [
+                "Advanced reviews focus on logic, performance, and structure.",
+                "You must understand the goal before suggesting changes.",
+                "Use tools like linters and formatters to assist.",
+                "Leave detailed comments and ask clarifying questions.",
+                "Suggest alternatives, not just corrections."
+            ],
+            "level_4": [
+                "Experts lead review culture in teams.",
+                "They give feedback on code, design, and even team habits.",
+                "They handle conflicts and keep tone respectful.",
+                "They build review systems using GitHub or Jira.",
+                "They teach others how to give good feedback."
+            ]
+        },
+        "realWorldUseCases": {
+            "level_1": [
+                "Checking a friend’s assignment before submission.",
+                "Reviewing a teammate’s project in college.",
+                "Giving suggestions on a friend's app UI."
+            ],
+            "level_2": [
+                "GitHub pull request review.",
+                "Intern giving weekly feedback to mentor.",
+                "Group project feedback meeting."
+            ],
+            "level_3": [
+                "Code review in a professional team using Git.",
+                "QA giving feedback on feature behavior.",
+                "Retrospective meetings in Agile teams."
+            ],
+            "level_4": [
+                "Tech leads reviewing architecture and system designs.",
+                "Senior devs reviewing security and scalability.",
+                "360-degree feedback during performance reviews."
+            ]
+        },
+        "industryApplications": {
+            "level_1": ["Training programs use peer review to teach teamwork."],
+            "level_2": ["Startups use peer reviews for fast learning."],
+            "level_3": ["MNCs like Infosys and TCS use it for quality control."],
+            "level_4": ["FAANG companies require strict peer reviews before code merge."]
+        },
+        "thinkingPattern": {
+            "level_1": [
+                "Read the whole code before commenting.",
+                "Try to understand what the writer wanted to do."
+            ],
+            "level_2": [
+                "Highlight both good and bad points.",
+                "Use examples to explain your suggestion."
+            ],
+            "level_3": [
+                "Think how your suggestion improves the product.",
+                "Focus on user impact, not just code style."
+            ],
+            "level_4": [
+                "Think from team and project level impact.",
+                "Encourage best practices through feedback."
+            ]
+        },
+        "problemTypes": {
+            "level_1": [
+                "Point out spelling errors or missing comments.",
+                "Mention if output is not coming as expected."
+            ],
+            "level_2": [
+                "Spot repeated logic or unused variables.",
+                "Identify areas where code can be simplified."
+            ],
+            "level_3": [
+                "Detect performance issues in loops or queries.",
+                "Suggest code splitting for better modularity."
+            ],
+            "level_4": [
+                "Identify scalability or security concerns.",
+                "Challenge design patterns that don’t fit use case."
+            ]
+        },
+        "assessmentsAndQuizzes": {
+            "level_1": [
+                "What is peer review?",
+                "True or False: Feedback should always be positive."
+            ],
+            "level_2": [
+                "Name two things to check during code review.",
+                "What is one benefit of peer feedback?"
+            ],
+            "level_3": [
+                "Why is respectful language important in reviews?",
+                "What if you don’t understand a code segment?"
+            ],
+            "level_4": [
+                "How can peer reviews improve team quality?",
+                "Name a tool used for managing code reviews."
+            ]
+        },
+        "miniProjects": {
+            "level_1": [
+                "Review a friend’s short program and write 3 suggestions."
+            ],
+            "level_2": [
+                "Use GitHub to do a pull request review with comments."
+            ],
+            "level_3": [
+                "Pair up with someone and do cross-code review.",
+                "Write a review document for a group project."
+            ],
+            "level_4": [
+                "Create a feedback framework for a small development team."
+            ]
+        },
+        "suggestionsAndMistakes": {
+            "level_1": [
+                "Don’t say ‘this is bad’ — be kind and specific.",
+                "Listen to feedback from others too."
+            ],
+            "level_2": [
+                "Avoid long comments — keep it simple.",
+                "Don’t force your opinion — suggest instead."
+            ],
+            "level_3": [
+                "Avoid personal remarks in feedback.",
+                "Encourage open discussion on points."
+            ],
+            "level_4": [
+                "Don’t skip reviewing large commits.",
+                "Promote review culture in team meetings."
+            ]
+        }
+    }
+}
