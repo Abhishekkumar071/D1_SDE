@@ -1,0 +1,127 @@
+{
+  "source": "Book - 'Designing Data-Intensive Applications' (Martin Kleppmann) + 'System Design Interview' (Alex Xu)",
+  "module": "Module 4: Software Engineering & System Design",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "System design is about building scalable and reliable applications.",
+        "Key metrics: Latency (response time), Throughput (requests/second), Availability (% uptime).",
+        "Example: A small app might handle 100 QPS, while Twitter handles 300K+ QPS."
+      ],
+      "level_2": [
+        "Understand tradeoffs: Consistency vs. Availability (CAP Theorem).",
+        "Database types: SQL (ACID transactions) vs. NoSQL (horizontal scaling).",
+        "Load balancing distributes traffic across servers (e.g., Round Robin, Least Connections)."
+      ],
+      "level_3": [
+        "Advanced patterns: Caching strategies (LRU, TTL), Database sharding (horizontal partitioning).",
+        "Microservices: Decompose by business capability (e.g., Auth Service, Payment Service).",
+        "Event-driven architectures: Kafka for real-time data pipelines."
+      ],
+      "level_4": [
+        "Distributed systems challenges: Network partitions, clock skew, consensus algorithms (Raft, Paxos).",
+        "Case study: Google Spanner (global consistency with TrueTime API).",
+        "Failure modes: Cascading failures, retry storms, and circuit breakers."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "URL shorteners (Bit.ly): Generate short codes and redirect to long URLs."
+      ],
+      "level_2": [
+        "Instagram: Migrated from Redis to sharded PostgreSQL for feed storage."
+      ],
+      "level_3": [
+        "Uber: Geospatial indexing with QuadTrees for ride matching."
+      ],
+      "level_4": [
+        "Netflix: Multi-region active-active deployment for fault tolerance."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Startups: Use managed services (AWS RDS, DynamoDB) to avoid ops overhead."
+      ],
+      "level_2": [
+        "Mid-size companies: Implement caching (Redis) to reduce database load."
+      ],
+      "level_3": [
+        "FAANG: Custom solutions (Google’s Bigtable, Facebook’s TAO)."
+      ],
+      "level_4": [
+        "Fintech: Strong consistency (banking transactions) vs. retail (eventual consistency)."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Start with requirements: QPS, storage, latency needs."
+      ],
+      "level_2": [
+        "Sketch high-level components: Clients, APIs, DBs, caches."
+      ],
+      "level_3": [
+        "Identify bottlenecks: Single-point failures, hot keys, network hops."
+      ],
+      "level_4": [
+        "Plan for scale: Sharding, replication, graceful degradation."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Design a basic key-value store (like Redis)."
+      ],
+      "level_2": [
+        "Scale a chat app to 1M users (WebSockets + message queues)."
+      ],
+      "level_3": [
+        "Design a distributed rate limiter (token bucket algorithm)."
+      ],
+      "level_4": [
+        "Build a globally consistent inventory system (e.g., Amazon)."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Quiz: What does ACID stand for in databases?"
+      ],
+      "level_2": [
+        "Estimate storage for 1B tweets (assume 280 chars + metadata)."
+      ],
+      "level_3": [
+        "Design a fault-tolerant leader election system."
+      ],
+      "level_4": [
+        "Compare Cassandra (AP) vs. PostgreSQL (CP) for a banking app."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Build a URL shortener with Flask + SQLite."
+      ],
+      "level_2": [
+        "Implement a Redis-like cache with LRU eviction."
+      ],
+      "level_3": [
+        "Design a sharded key-value store with consistent hashing."
+      ],
+      "level_4": [
+        "Simulate a multi-region database with conflict resolution."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: No caching layer → DB crashes under load."
+      ],
+      "level_2": [
+        "Tip: Use connection pooling to avoid DB connection overhead."
+      ],
+      "level_3": [
+        "Mistake: Over-sharding → Complex joins become impossible."
+      ],
+      "level_4": [
+        "Tip: Implement backpressure (e.g., Kafka consumers) to avoid overload."
+      ]
+    }
+  }
+}
