@@ -1,0 +1,77 @@
+{
+  "source": "Blog - Curated from 'The Muse', 'Interviewing.io', and FAANG engineer blogs",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source2_Blog",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Behavioral interviews assess how you handle work scenarios, not just technical skills.",
+        "STAR method structures answers: Situation, Task, Action, Result.",
+        "Example: 'Tell me about a time you failed' → Use STAR to stay concise."
+      ],
+      "level_2": [
+        "Companies like Amazon use STAR to evaluate Leadership Principles.",
+        "Focus on actions YOU took (not the team) and measurable outcomes.",
+        "Practice 5-10 stories covering common themes (conflict, deadlines)."
+      ],
+      "level_3": [
+        "Senior roles: Emphasize cross-functional impact and mentorship.",
+        "Tailor stories to company values (e.g., Google’s 'Googliness').",
+        "Use 'We' sparingly - interviewers want your individual contribution."
+      ],
+      "level_4": [
+        "Executive-level: Link stories to business outcomes (revenue, user growth).",
+        "Demonstrate strategic thinking (e.g., scaling processes, org design).",
+        "Handle curveballs: 'What would you do differently now?' with humility."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Internship interview: 'Describe a group project conflict' → Show listening skills."
+      ],
+      "level_2": [
+        "Mid-level: 'How did you improve code quality?' → Highlight code reviews/testing."
+      ],
+      "level_4": [
+        "Director-level: 'How did you align teams on a technical decision?' → Show influence."
+      ]
+    },
+    "industryApplications": {
+      "level_2": [
+        "Amazon: Stories must map to Leadership Principles (e.g., 'Customer Obsession')."
+      ],
+      "level_3": [
+        "Startups: Emulate adaptability (e.g., 'How you pivoted under pressure')."
+      ]
+    },
+    "thinkingPattern": {
+      "level_2": [
+        "Ask: 'Does this story showcase my unique role (not just the team)?'"
+      ],
+      "level_4": [
+        "Reflect: 'How does this story align with the company’s core mission?'"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "'Tell me about yourself' → 2-minute STAR-based pitch."
+      ],
+      "level_3": [
+        "'Describe a time you disagreed with a manager' → Focus on constructive resolution."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_2": [
+        "Quiz: Rate this STAR response - 'We shipped a feature (no 'I' statements).'"
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Mistake: Rambling without Result. Always end with impact ('Reduced latency by 30%')."
+      ],
+      "level_3": [
+        "Tip: For 'failure' questions, spend 20% on Situation, 80% on lessons/improvements."
+      ]
+    }
+  }
+}
