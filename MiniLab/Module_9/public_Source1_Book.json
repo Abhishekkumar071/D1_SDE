@@ -1,0 +1,166 @@
+{
+  "source": "Book-style content inspired by interview prep and technical storytelling books",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Problem-solving narrative means telling how you solved a coding or logic problem.",
+        "It is not just about writing code — it's about explaining the thought process.",
+        "This helps others understand your logic and also builds your confidence.",
+        "You can use this in interviews, resume writing, or while presenting a project.",
+        "Good narratives show what problem you faced, how you thought, and what you did."
+      ],
+      "level_2": [
+        "Books suggest using STAR (Situation, Task, Action, Result) to explain solutions.",
+        "You should explain the problem in simple words first.",
+        "Then share your steps and why you chose that approach.",
+        "Mention the outcome or results you got.",
+        "This shows you can solve and explain — both important skills."
+      ],
+      "level_3": [
+        "Books like 'Decode and Conquer' use frameworks like CAR (Challenge, Action, Result) for behavioral rounds.",
+        "In coding, this helps structure your answer when you're asked to explain a problem.",
+        "You also become better at writing blogs and documentation.",
+        "It shows clarity, ownership, and learning from each challenge.",
+        "You learn to communicate your thinking like a team player."
+      ],
+      "level_4": [
+        "Top candidates turn real challenges into strong personal stories.",
+        "They connect their project goals, roadblocks, actions, and final outcomes.",
+        "They use measurable impact and technical insights.",
+        "Books say your 'narrative' helps the listener remember you.",
+        "Clear story + honest lessons = powerful impression."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Explaining how you solved a bug in your college project.",
+        "Sharing a small coding challenge on LinkedIn with your approach.",
+        "Describing how you built your to-do app step by step."
+      ],
+      "level_2": [
+        "Answering interview questions using STAR format.",
+        "Presenting your GitHub project with story and process.",
+        "Writing a blog post about your project journey."
+      ],
+      "level_3": [
+        "Contributing to open-source and explaining your pull request.",
+        "Making a video walkthrough of a difficult feature you built.",
+        "Helping peers by sharing how you debugged a complex issue."
+      ],
+      "level_4": [
+        "Creating a portfolio with challenge-based stories.",
+        "Speaking at tech events about your solution-building mindset.",
+        "Using narratives in team retros to reflect and grow."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers are often asked to explain their approach in interviews.",
+        "Interns use problem stories in their project reports."
+      ],
+      "level_2": [
+        "Engineers document bugs and solutions in task trackers.",
+        "Junior devs use retrospectives to improve their problem thinking."
+      ],
+      "level_3": [
+        "Blog posts by developers explain features or solutions they’ve built.",
+        "Product teams rely on narratives to understand dev workflows."
+      ],
+      "level_4": [
+        "Senior devs use narratives in design docs and project pitches.",
+        "Leaders tell stories to show growth, challenges, and decision-making."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: What was the problem? What did I try?",
+        "Break the issue into parts and note what helped."
+      ],
+      "level_2": [
+        "Reflect: Why did I choose this method?",
+        "What worked? What didn’t?"
+      ],
+      "level_3": [
+        "Think: How would I explain this to someone new?",
+        "Could I make this easier next time?"
+      ],
+      "level_4": [
+        "Analyze: What was the impact of my decision?",
+        "How can I structure this story to show my skill + learning?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Saying only 'I solved it' without explanation.",
+        "Forgetting to share the problem context."
+      ],
+      "level_2": [
+        "Explaining too much code and missing the thought process.",
+        "Jumping to solution without problem clarity."
+      ],
+      "level_3": [
+        "Missing out on challenges faced or lessons learned.",
+        "Not connecting result to user impact or outcome."
+      ],
+      "level_4": [
+        "Telling a flat story without any structure.",
+        "Sounding overconfident without showing humility or growth."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a problem-solving narrative?",
+        "Name one reason it is useful."
+      ],
+      "level_2": [
+        "What does STAR stand for?",
+        "Why is 'result' important in a story?"
+      ],
+      "level_3": [
+        "Compare STAR vs CAR format.",
+        "How can a narrative improve interview performance?"
+      ],
+      "level_4": [
+        "What makes a strong story in a tech blog?",
+        "Why do leaders use storytelling in technical presentations?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a short story on how you fixed a simple bug."
+      ],
+      "level_2": [
+        "Use STAR method to explain how you built a mini project.",
+        "Record yourself explaining your DSA solution verbally."
+      ],
+      "level_3": [
+        "Write a blog or LinkedIn post using CAR format.",
+        "Create a project README with a narrative section."
+      ],
+      "level_4": [
+        "Build a video case study showing your problem-solving style.",
+        "Teach juniors how to explain their coding journey."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip the explanation — process matters more than answer.",
+        "Avoid only saying 'I used Python' — share what you did."
+      ],
+      "level_2": [
+        "Don’t over-explain — keep it structured and clear.",
+        "Avoid missing the result — always end with what happened."
+      ],
+      "level_3": [
+        "Don’t fake challenges — be honest and specific.",
+        "Don’t talk only about tools — focus on decisions."
+      ],
+      "level_4": [
+        "Avoid making the story about only you — show team or user impact.",
+        "Don’t forget to share what you learned or would do better."
+      ]
+    }
+  }
+}
