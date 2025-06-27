@@ -1,0 +1,128 @@
+{
+  "source": "Public YouTube video – “Complete Software Engineer Career Roadmap in 2024+”",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://www.youtube.com/watch?v=DmGuiZuM1Wc",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "The video explains what career roadmapping is and why planning your engineering career is important.",
+        "Beginners learn that choosing the right role helps avoid confusion and burnout."
+      ],
+      "level_2": [
+        "It shows how to identify short-term (intern) vs long-term (staff engineer) roles.",
+        "Explains how to match your interests (like backend, AI) to job roles."
+      ],
+      "level_3": [
+        "Discusses building a multi-year roadmap with milestones like projects, promotions, and skill upgrades.",
+        "Highlights role-matching: junior → mid → senior based on responsibilities and impact."
+      ],
+      "level_4": [
+        "Shows how to align career roadmap with company goals and industry trends like AI.",
+        "Explains how senior/junior roles evolve based on roadmap and business objectives."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Choosing an internship aligned with your interest area.",
+        "Deciding between frontend or backend early in your learning."
+      ],
+      "level_2": [
+        "Planning to build 2–3 small projects before applying for junior roles.",
+        "Mapping your roadmap: 6 months – learn DSA; 1 year – open-source contribution."
+      ],
+      "level_3": [
+        "Creating a role-matching plan: moving from junior to mid-level via project leadership.",
+        "Adjusting roadmap based on mid-career interest shifts (e.g., shifting to AI)."
+      ],
+      "level_4": [
+        "Adjust roadmap every quarter based on industry trends like microservices or distributed systems.",
+        "Mentoring others to align their roadmaps with team goals."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "College students use roadmaps to choose internships."
+      ],
+      "level_2": [
+        "Early devs set growth milestones—DSA, coding proficiency."
+      ],
+      "level_3": [
+        "Mid-level mids plan transition to senior or full-stack roles."
+      ],
+      "level_4": [
+        "Tech leads align team career development with company strategy."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: What role do I want next?"
+      ],
+      "level_2": [
+        "Plan: What skills or projects do I need?"
+      ],
+      "level_3": [
+        "Evaluate: Are my milestones realistic and measurable?"
+      ],
+      "level_4": [
+        "Align: Does my roadmap support business/industry direction?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not choosing a clear path—leading to scattered learning."
+      ],
+      "level_2": [
+        "Ignoring roadmap timelines—missing growth targets."
+      ],
+      "level_3": [
+        "Creating a roadmap without feedback—resulting in misalignment."
+      ],
+      "level_4": [
+        "Sticking to a static roadmap—ignoring external changes."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a career roadmap?"
+      ],
+      "level_2": [
+        "Why match a role to your strengths?"
+      ],
+      "level_3": [
+        "How do milestones help reach your next role?"
+      ],
+      "level_4": [
+        "How do you align your roadmap with company goals?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "List 3 career roles you’re interested in."
+      ],
+      "level_2": [
+        "Create a 1-year roadmap with learning goals."
+      ],
+      "level_3": [
+        "Draft a 3-year career growth plan and share with a mentor."
+      ],
+      "level_4": [
+        "Help a peer build a roadmap aligned with their team objectives."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip planning your first career step."
+      ],
+      "level_2": [
+        "Avoid setting vague goals—use measurable milestones."
+      ],
+      "level_3": [
+        "Don’t ignore mentor or peer feedback on your roadmap."
+      ],
+      "level_4": [
+        "Avoid rigid roadmaps—review and revise quarterly."
+      ]
+    }
+  }
+}
