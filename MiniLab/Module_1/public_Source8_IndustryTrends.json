@@ -1,0 +1,127 @@
+{
+  "source": "Public Industry Trends – LinkedIn Insights & HackerRank Developer Survey",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source8_IndustryTrends",
+  "trends": [
+    "Rising importance of algorithmic thinking in hiring – LinkedIn 2024 Insights",
+    "HackerRank Developer Skills Report: Top patterns used in tech interviews"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Industry reports say many companies test coding patterns during interviews.",
+        "Beginners learn that knowing patterns like two pointers or sliding window is expected."
+      ],
+      "level_2": [
+        "LinkedIn data shows 70% of devs say algorithmic patterns helped them clear interviews.",
+        "HackerRank report names hash-based and windowing patterns as most used."
+      ],
+      "level_3": [
+        "Trends show mid-level devs apply patterns to optimize backend systems too.",
+        "Pattern recognition is used in live coding environments, not just interviews."
+      ],
+      "level_4": [
+        "Senior devs use patterns in designing scalable systems like microservices.",
+        "Recruiters use pattern-based benchmarks to evaluate candidate readiness."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Interviewers ask two-sum or palindrome problems to check understanding."
+      ],
+      "level_2": [
+        "Dev teams use sliding-window logic to detect performance issues in streams."
+      ],
+      "level_3": [
+        "Data engineers apply graph patterns to ETL pipelines and analytics."
+      ],
+      "level_4": [
+        "System architects use distributed patterns like consistent hashing in cloud services."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Entry-level jobs expect you to solve basic pattern problems on platforms."
+      ],
+      "level_2": [
+        "Junior roles often require knowledge of hash maps and sliding windows."
+      ],
+      "level_3": [
+        "Mid-level engineers optimize APIs with pattern-based caching."
+      ],
+      "level_4": [
+        "Senior devs architect systems using pattern libraries and performance metrics."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Is this problem asking me to find pairs or handle substrings?"
+      ],
+      "level_2": [
+        "Ask: Can I turn this into a sliding window or hash tracking?"
+      ],
+      "level_3": [
+        "Plan: How will this pattern affect performance in real use?"
+      ],
+      "level_4": [
+        "Evaluate: Is this pattern scalable for production systems?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Forgetting common edge cases in pattern problems."
+      ],
+      "level_2": [
+        "Using brute force when a pattern would be better."
+      ],
+      "level_3": [
+        "Applying patterns without considering production data scale."
+      ],
+      "level_4": [
+        "Using interview patterns naively in live systems without testing."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name one coding pattern frequently asked."
+      ],
+      "level_2": [
+        "Why is sliding window preferred over nested loops?"
+      ],
+      "level_3": [
+        "How is hash-based pattern used in session tracking?"
+      ],
+      "level_4": [
+        "Describe using patterns in designing scalable services."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Solve 5 two-pointer problems for practice."
+      ],
+      "level_2": [
+        "Create a tool that detects substring patterns in text."
+      ],
+      "level_3": [
+        "Build a backend API that uses caching with hash patterns."
+      ],
+      "level_4": [
+        "Design a microservice using sliding window logic for real-time alerts."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t ignore basic coding patterns during prep."
+      ],
+      "level_2": [
+        "Avoid jumping into brute-force solutions."
+      ],
+      "level_3": [
+        "Ensure patterns handle large input and edge cases."
+      ],
+      "level_4": [
+        "Test patterns in real-world environments before deploying."
+      ]
+    }
+  }
+}
