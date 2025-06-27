@@ -1,0 +1,137 @@
+{
+  "source": "Public YouTube video – “How to Contribute to Open Source | Git & GitHub Best Practices” by The Net Ninja",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://www.youtube.com/watch?v=1dcH7mN5JPU",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This video introduces GitHub as a platform for collaborating on code with others around the world.",
+        "Beginners are taught how to make a simple pull request to fix a typo or update documentation.",
+        "It explains that GitHub is not only for hosting code but also for learning version control basics."
+      ],
+      "level_2": [
+        "It covers branching strategies: why you should create a new branch for each small change instead of committing directly to `main`.",
+        "Explains how pull requests (PRs) allow others to review and comment on your code before merging.",
+        "Shows the importance of writing clear commit messages like 'fix typo in README' or 'add validation to signup form'."
+      ],
+      "level_3": [
+        "Discusses fork vs branch workflows for contributing to open-source repositories you don't own.",
+        "Highlights etiquette: always read the CONTRIBUTING.md and follow coding style guidelines of the repo.",
+        "Explains how to respond to PR review feedback professionally—e.g., 'Thanks for pointing that out, fixed it!'"
+      ],
+      "level_4": [
+        "Talks about building a contributor reputation: consistent small contributions show reliability over big one-time efforts.",
+        "Advises on how to write detailed issue reports with steps to reproduce, expected behavior, and logs/screenshots.",
+        "Covers advanced collaboration practices: topic branches, PR review checklist, tagging issues, and managing releases."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Fixing typos or grammar errors in open-source documentation as your first contribution.",
+        "Adding missing semicolons or linting fix in code under a beginner label."
+      ],
+      "level_2": [
+        "Creating a feature branch to add a small enhancement, like a new UI message or helper function.",
+        "Opening a PR for a forked repo to fix a bug, then following up on feedback."
+      ],
+      "level_3": [
+        "Reporting an issue with clear steps, logging, and a reproducible demo link.",
+        "Helping review someone else's PR by commenting: 'Found a typo here' or 'Can we add a test for this edge case?'"
+      ],
+      "level_4": [
+        "Maintaining an active open-source project with tagged labels, PR templates, release notes, and community discussion.",
+        "Organizing a monthly community contribution drive with mentoring sessions for first-timers."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "New interns use GitHub issues to report small project bugs or typos."
+      ],
+      "level_2": [
+        "Junior developers create feature branches and submit PRs for code changes."
+      ],
+      "level_3": [
+        "Mid-level engineers review PRs, enforce coding standards, and merge changes after feedback."
+      ],
+      "level_4": [
+        "Senior devs or tech leads manage release branches, automate CI/CD hooks, and set up contribution guidelines for community contributions."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: What small change can I contribute safely without breaking anything?"
+      ],
+      "level_2": [
+        "Consider: Should I fork the repo or create a branch directly?"
+      ],
+      "level_3": [
+        "Think: Does my commit message clearly explain the 'why' and 'what'?"
+      ],
+      "level_4": [
+        "Reflect: How will this PR impact downstream modules and existing contributors?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Committing directly to main without branch—leads to conflicts or forced reverts."
+      ],
+      "level_2": [
+        "PRs with unclear commit messages—hard to track changes later."
+      ],
+      "level_3": [
+        "Ignoring community review comments, leaving conversations unresolved."
+      ],
+      "level_4": [
+        "Skipping contribution guidelines—leading to rejected PRs or duplicate efforts."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a pull request?",
+        "Why should beginners use branches?"
+      ],
+      "level_2": [
+        "Name two benefits of creating feature branches.",
+        "What should a clear commit message include?"
+      ],
+      "level_3": [
+        "How do you respond to PR feedback politely?",
+        "Why is CONTRIBUTING.md file important?"
+      ],
+      "level_4": [
+        "What practices help build a trusted open-source contributor profile?",
+        "How do you set up a PR review checklist?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Fork a repo and fix a README typo."
+      ],
+      "level_2": [
+        "Create a feature branch and add a helper function, then open a PR."
+      ],
+      "level_3": [
+        "Report a bug with detailed steps and replicate set up instructions.",
+        "Participate in reviewing another contributor’s PR."
+      ],
+      "level_4": [
+        "Set up clear contribution guidelines and templates in your own open-source project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t commit large chunks of code in one PR—keep changes small."
+      ],
+      "level_2": [
+        "Avoid vague commit messages like 'fix stuff'."
+      ],
+      "level_3": [
+        "Don’t ignore review comments—address them or ask clarifying questions."
+      ],
+      "level_4": [
+        "Avoid merging PRs without running tests or checks—always use CI/CD pipelines."
+      ]
+    }
+  }
+}
