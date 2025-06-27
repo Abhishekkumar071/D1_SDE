@@ -1,0 +1,155 @@
+{
+    "source": "Perplexity AI-generated content for Mock Peer Reviews & Feedback, beginner to expert",
+    "module": "Module 5: Mock Peer Reviews & Feedback",
+    "file_type": "synthetic_Source2_perplexity_Generated.json",
+    "segments": {
+        "introduction": {
+            "level_1": [
+                "Peer review means having your code or work checked by teammates before it goes live.",
+                "It helps catch mistakes early and makes your code better.",
+                "You’ll learn to give and receive feedback in a positive way.",
+                "Mock reviews are practice sessions to build your skills.",
+                "Peer reviews are common in real software jobs."
+            ],
+            "level_2": [
+                "Peer reviews can be formal, with roles and structure, or informal, like asking a friend to check your work.",
+                "You’ll practice reviewing code for errors, clarity, and style.",
+                "Learning to explain your suggestions clearly is important.",
+                "You’ll also learn how to accept feedback and improve your work.",
+                "Mock reviews help you get comfortable with the process."
+            ],
+            "level_3": [
+                "Advanced reviews involve checking for design quality, maintainability, and compliance with standards.",
+                "You’ll learn to use checklists and review tools for consistency.",
+                "Providing actionable, respectful feedback is key.",
+                "You’ll practice leading review meetings and documenting findings.",
+                "Mock reviews simulate real-world team scenarios."
+            ],
+            "level_4": [
+                "Experts mentor others in review best practices and set team standards.",
+                "They design structured review processes and tools.",
+                "They resolve conflicts and foster a culture of continuous improvement.",
+                "They analyze metrics from reviews to improve team performance.",
+                "They contribute to open source and industry-wide review standards."
+            ]
+        },
+        "realWorldUseCases": {
+            "level_1": [
+                "Ask a classmate to check your code for errors.",
+                "Review a friend’s documentation for clarity."
+            ],
+            "level_2": [
+                "Participate in a team code review before merging changes.",
+                "Give feedback on a peer’s test cases."
+            ],
+            "level_3": [
+                "Lead a formal review session using a checklist.",
+                "Review and approve pull requests in a shared repository."
+            ],
+            "level_4": [
+                "Establish code review guidelines for a large project.",
+                "Mentor new team members on effective review habits."
+            ]
+        },
+        "industryApplications": {
+            "level_1": [
+                "Used in student projects and coding bootcamps for learning collaboration."
+            ],
+            "level_2": [
+                "Applied in startups and small teams to ensure code quality."
+            ],
+            "level_3": [
+                "Essential for large organizations to maintain standards and reduce bugs."
+            ],
+            "level_4": [
+                "Drives quality and innovation in open source and enterprise software."
+            ]
+        },
+        "thinkingPattern": {
+            "level_1": [
+                "Look for simple mistakes and help your peer fix them.",
+                "Be kind and specific in your feedback."
+            ],
+            "level_2": [
+                "Check for code readability and adherence to guidelines.",
+                "Suggest improvements, not just point out problems."
+            ],
+            "level_3": [
+                "Analyze code for maintainability and scalability.",
+                "Balance thoroughness with respect for your peer’s time."
+            ],
+            "level_4": [
+                "Promote a culture of constructive feedback and learning.",
+                "Continuously refine review processes for better outcomes."
+            ]
+        },
+        "problemTypes": {
+            "level_1": [
+                "Find and fix a typo in a peer’s code.",
+                "Suggest a better variable name."
+            ],
+            "level_2": [
+                "Identify a bug or logic error in a teammate’s function.",
+                "Review a test case for completeness."
+            ],
+            "level_3": [
+                "Check a pull request for adherence to coding standards.",
+                "Lead a review meeting and summarize findings."
+            ],
+            "level_4": [
+                "Design a code review checklist for your team.",
+                "Analyze review feedback to improve team practices."
+            ]
+        },
+        "assessmentsAndQuizzes": {
+            "level_1": [
+                "What is the goal of a peer review?",
+                "Why is feedback important in software development?"
+            ],
+            "level_2": [
+                "List two differences between formal and informal peer reviews.",
+                "How should you respond to constructive criticism?"
+            ],
+            "level_3": [
+                "What are the key elements of a good code review?",
+                "How can peer reviews improve team knowledge sharing?"
+            ],
+            "level_4": [
+                "Describe how to resolve a disagreement during a review.",
+                "How would you measure the effectiveness of your team’s review process?"
+            ]
+        },
+        "miniProjects": {
+            "level_1": [
+                "Pair up and review each other’s code for a small assignment."
+            ],
+            "level_2": [
+                "Conduct a mock code review session using a checklist."
+            ],
+            "level_3": [
+                "Lead a group review and document feedback and action items."
+            ],
+            "level_4": [
+                "Develop a peer review guide for your class or team."
+            ]
+        },
+        "suggestionsAndMistakes": {
+            "level_1": [
+                "Don’t take feedback personally—use it to improve.",
+                "Be polite and specific when giving feedback."
+            ],
+            "level_2": [
+                "Avoid vague comments—explain your suggestions.",
+                "Review the whole work, not just the obvious errors."
+            ],
+            "level_3": [
+                "Don’t skip documentation—record findings and decisions.",
+                "Encourage open discussion and learning from mistakes."
+            ],
+            "level_4": [
+                "Continuously update review practices based on team needs.",
+                "Promote a supportive, feedback-driven team culture."
+            ]
+        }
+    }
+}
