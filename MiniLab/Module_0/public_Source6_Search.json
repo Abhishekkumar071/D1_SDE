@@ -1,0 +1,127 @@
+{
+  "source": "Public Search – medium.com & coursera.org career path articles",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source6_Search",
+  "links": [
+    "Software Engineering Jobs: A Deep Dive into Career Options – Medium", 
+    "Software Engineer Career Path 2025 – Coursera"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Search results show that SDE roles include positions like front‑end, back‑end, DevOps, and full‑stack.",
+        "They emphasize that software engineers solve problems using code and tools."
+      ],
+      "level_2": [
+        "Articles explain the path from intern → junior → mid‑level roles, with responsibilities growing over time.",
+        "They highlight the importance of picking a specialization early."
+      ],
+      "level_3": [
+        "They discuss mapping out milestones like mastering algorithms, contributing to open‑source, and taking ownership of features.",
+        "Explain that the role evolves into owning systems and mentoring teammates."
+      ],
+      "level_4": [
+        "Senior engineers are described as architects who align code and design with business goals.",
+        "Search sources advise continued growth through research, leadership, and industry visibility."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "A student searching learns about front‑end vs back‑end roles."
+      ],
+      "level_2": [
+        "A junior plans to build sample apps and deploy on cloud to prepare for interviews."
+      ],
+      "level_3": [
+        "A mid‑level developer sets goals like leading a project or getting a certification."
+      ],
+      "level_4": [
+        "A senior aligns team skill growth based on industry trends and company needs."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Entry postings often list technologies like Python, JavaScript, and SQL"
+      ],
+      "level_2": [
+        "Organizations expect juniors to handle small features and bug fixes"
+      ],
+      "level_3": [
+        "Mid‑level engineers design modules and improve code quality"
+      ],
+      "level_4": [
+        "Senior engineers architect systems and define technical strategy"
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Which tech role fits me best?"
+      ],
+      "level_2": [
+        "Plan: What steps will move me to the next role?"
+      ],
+      "level_3": [
+        "Evaluate: Am I meeting benchmarks like project delivery and feedback?"
+      ],
+      "level_4": [
+        "Align: Does my work support team and business goals?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing which role to choose early on"
+      ],
+      "level_2": [
+        "Missing milestones for a career path"
+      ],
+      "level_3": [
+        "Not adjusting goals based on feedback"
+      ],
+      "level_4": [
+        "Staying in a role too long without progression"
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name two types of SDE roles"
+      ],
+      "level_2": [
+        "What skills are expected from a junior engineer?"
+      ],
+      "level_3": [
+        "What milestones define a mid‑level engineer?"
+      ],
+      "level_4": [
+        "How does a senior engineer contribute to business outcomes?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "List different SDE roles and their skills"
+      ],
+      "level_2": [
+        "Draft your 1‑year plan: e.g., learn data structures and build a project"
+      ],
+      "level_3": [
+        "Design a 3‑year roadmap including open‑source contributions"
+      ],
+      "level_4": [
+        "Create a mock career development template for your peers"
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t jump roles too early—focus on learning basics"
+      ],
+      "level_2": [
+        "Avoid ignoring specialization—choose early"
+      ],
+      "level_3": [
+        "Don't ignore feedback—refine your plan often"
+      ],
+      "level_4": [
+        "Avoid static plans—update your roadmap with changing business needs"
+      ]
+    }
+  }
+}
