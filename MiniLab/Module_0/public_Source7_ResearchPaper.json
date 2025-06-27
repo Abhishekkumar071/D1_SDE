@@ -1,0 +1,127 @@
+{
+  "source": "Public Research Papers – ArXiv on Research Software Engineers and soft skills",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source7_ResearchPaper",
+  "papers": [
+    "Foundational Competencies and Responsibilities of a Research Software Engineer – ArXiv",
+    "Soft Skills and Software Development – ArXiv"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "These papers explain that software engineering isn't just coding—communication and teamwork are key.",
+        "They show beginners that even strong coding needs soft skills to succeed."
+      ],
+      "level_2": [
+        "They list competencies like problem-solving and clear documentation besides coding.",
+        "Explain that real-world engineers balance technical and interpersonal responsibilities."
+      ],
+      "level_3": [
+        "These studies define roles, responsibilities, and growth paths in software and research teams.",
+        "They recommend continuous learning in both hard and soft skills."
+      ],
+      "level_4": [
+        "Senior-level responsibilities include mentoring, setting team norms, and bridging business-technical gaps.",
+        "They also note engineers should adapt to evolving team and organizational dynamics."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Noticing unclear code—teams fix it through pair programming"
+      ],
+      "level_2": [
+        "Documenting system design to ensure others can understand"
+      ],
+      "level_3": [
+        "Mentoring newcomers through code reviews and pair sessions"
+      ],
+      "level_4": [
+        "Leading team workshops on communication and architectural practices"
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns learn soft skills alongside coding basics"
+      ],
+      "level_2": [
+        "Junior engineers write documentation and attend standups"
+      ],
+      "level_3": [
+        "Mid-level engineers mentor juniors and lead small projects"
+      ],
+      "level_4": [
+        "Senior engineers shape team culture and processes"
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: How can I explain this code so others understand?"
+      ],
+      "level_2": [
+        "Think: Is my solution clear and well-documented?"
+      ],
+      "level_3": [
+        "Consider: How can I improve team collaboration?"
+      ],
+      "level_4": [
+        "Reflect: How does this code contribute to team goals and values?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Writing code only you can understand"
+      ],
+      "level_2": [
+        "Skipping documentation or tests"
+      ],
+      "level_3": [
+        "Not giving feedback to peers"
+      ],
+      "level_4": [
+        "Neglecting team morale or growth areas"
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name one soft skill needed by engineers"
+      ],
+      "level_2": [
+        "Why document your code?"
+      ],
+      "level_3": [
+        "How can mentoring improve code quality?"
+      ],
+      "level_4": [
+        "What role does communication play in senior engineering"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a simple doc explaining a code snippet"
+      ],
+      "level_2": [
+        "Run a peer programming session"
+      ],
+      "level_3": [
+        "Lead a small group review and document suggestions"
+      ],
+      "level_4": [
+        "Organize a team workshop on communication and code best practices"
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't ignore the value of soft skills"
+      ],
+      "level_2": [
+        "Avoid skipping documentation"
+      ],
+      "level_3": [
+        "Don't hesitate to mentor others"
+      ],
+      "level_4": [
+        "Avoid ignoring team culture and continuous improvement"
+      ]
+    }
+  }
+}
