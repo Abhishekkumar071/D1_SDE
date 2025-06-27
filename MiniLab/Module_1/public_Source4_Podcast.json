@@ -1,0 +1,129 @@
+{
+  "source": "Public Podcast – Algorithms with Reuven",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source4_Podcast",
+  "episode": "Mastering Coding Patterns: Two Pointers, Sliding Window, Hashing",
+  "url": "https://open.spotify.com/episode/12345-algo-patterns",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Hosts introduce popular coding patterns like two pointers and sliding window.",
+        "They explain why patterns are helpful for problem-solving."
+      ],
+      "level_2": [
+        "They walk through examples: fixing duplicates, optimizing subarrays.",
+        "They show how pattern thinking speeds up coding interviews."
+      ],
+      "level_3": [
+        "The hosts discuss when to switch patterns based on time and space needs.",
+        "They compare hashing vs pointers for string frequency problems."
+      ],
+      "level_4": [
+        "They explore pattern use in streaming systems and real-time data.",
+        "Senior engineers often adapt these patterns for large-scale systems."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using two pointers to find paired elements in arrays.",
+        "Applying sliding window to compute moving average in lists."
+      ],
+      "level_2": [
+        "Hash map for counting character occurrences in strings.",
+        "Depth-first search for exploring tree structures."
+      ],
+      "level_3": [
+        "Combining sliding window and hashing for substring problems.",
+        "Applying backtracking for combinatorial search."
+      ],
+      "level_4": [
+        "Using patterns in live stream analytics for buffering data.",
+        "Pattern-based solutions in distributed fetching and caching systems."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs use patterns to debug simple code."
+      ],
+      "level_2": [
+        "Mid-level devs apply patterns in feature and API development."
+      ],
+      "level_3": [
+        "Senior engineers use combined patterns for backend logic."
+      ],
+      "level_4": [
+        "Engineering leads design pattern-based architecture for scale."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What shape does this problem take?"
+      ],
+      "level_2": [
+        "Which pattern fits this scenario?"
+      ],
+      "level_3": [
+        "Can multiple patterns be combined for efficiency?"
+      ],
+      "level_4": [
+        "How will this scale or integrate in systems?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not recognizing the right pattern."
+      ],
+      "level_2": [
+        "Applying patterns without edge-case thinking."
+      ],
+      "level_3": [
+        "Overusing patterns for simple tasks."
+      ],
+      "level_4": [
+        "Misusing patterns in large system design."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name one common coding pattern."
+      ],
+      "level_2": [
+        "Why use hashing in string problems?"
+      ],
+      "level_3": [
+        "When is sliding window better than brute-force?"
+      ],
+      "level_4": [
+        "How would you use patterns in a streaming service?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Implement a two-pointer solution to remove duplicates."
+      ],
+      "level_2": [
+        "Write code to find max average subarray using sliding window."
+      ],
+      "level_3": [
+        "Combine two patterns to solve a medium LeetCode problem."
+      ],
+      "level_4": [
+        "Design a small streaming simulator using pattern logic."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip pattern-learning — start simple."
+      ],
+      "level_2": [
+        "Avoid jumping to patterns too early."
+      ],
+      "level_3": [
+        "Always consider edge cases after choosing a pattern."
+      ],
+      "level_4": [
+        "Don’t assume interview patterns apply directly to production code."
+      ]
+    }
+  }
+}
