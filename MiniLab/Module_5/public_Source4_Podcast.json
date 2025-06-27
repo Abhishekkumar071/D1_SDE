@@ -1,0 +1,129 @@
+{
+  "source": "Public Podcast – Software Engineering Radio: Episode 500 – ‘Building Effective Code Reviews’",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source4_Podcast",
+  "episode": "Building Effective Code Reviews",
+  "url": "https://www.se-radio.net/2024/11/episode-500-building-effective-code-reviews/",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This podcast discusses why code reviews are important for quality and learning.",
+        "Beginners learn the basics: code is reviewed by peers to catch mistakes early."
+      ],
+      "level_2": [
+        "It explains how to give balanced feedback—mention what’s good then suggest changes.",
+        "Discusses the value of using tools like code outline, diff viewer, and reviewer checklists."
+      ],
+      "level_3": [
+        "Covers structuring reviews: test coverage, readability, performance, and side-effects analysis.",
+        "Explains how reviewing with context-of-change helps maintain consistency across codebase."
+      ],
+      "level_4": [
+        "Senior engineers discuss measuring review effectiveness: time to merge, defect escape rate.",
+        "They highlight culture building via continual review training and feedback loops."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Point out a typo or missing documentation in a code change.",
+        "Highlight unnecessary console logs before merging."
+      ],
+      "level_2": [
+        "Suggest replacing a loop with a map or filter for readability.",
+        "Recommend adding error handling or edge-case coverage."
+      ],
+      "level_3": [
+        "Identify performance hotspots and suggest benchmarking.",
+        "Advise adding integration tests or API usage validation."
+      ],
+      "level_4": [
+        "Create team-wide review templates and best-practice workshops.",
+        "Run metrics dashboards to analyse review quality and cycle time."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "New developers learn standard styles and practices through review feedback."
+      ],
+      "level_2": [
+        "Junior engineers apply review learning to prevent bugs in their own code."
+      ],
+      "level_3": [
+        "Mid-level devs mentor others by giving meaningful review comments."
+      ],
+      "level_4": [
+        "Engineering leads define review KPIs and coach teams accordingly."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Is the code correct and readable?"
+      ],
+      "level_2": [
+        "Ask: Are edge cases handled or missing?"
+      ],
+      "level_3": [
+        "Ask: Is test coverage sufficient and meaningful?"
+      ],
+      "level_4": [
+        "Ask: How will this change impact maintainability and future dev?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Spelling mistakes or formatting issues."
+      ],
+      "level_2": [
+        "Poor variable names or unclear function intent."
+      ],
+      "level_3": [
+        "Lack of unit/integration tests or logging."
+      ],
+      "level_4": [
+        "Overlooking architectural implications or module dependencies."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is the purpose of a code review?"
+      ],
+      "level_2": [
+        "Why is balanced feedback important?"
+      ],
+      "level_3": [
+        "What should you check besides correctness?"
+      ],
+      "level_4": [
+        "How can review metrics improve code quality over time?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a peer’s pull request and give positive and corrective comments."
+      ],
+      "level_2": [
+        "Use a review checklist to evaluate a medium-sized change."
+      ],
+      "level_3": [
+        "Create a code review template for your team."
+      ],
+      "level_4": [
+        "Lead a review session and track improvements over time."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t just criticize—point out good changes too."
+      ],
+      "level_2": [
+        "Avoid vague feedback—be specific and actionable."
+      ],
+      "level_3": [
+        "Don’t skip testing in your reviews."
+      ],
+      "level_4": [
+        "Avoid ignoring review results—ensure changes are tracked and improved."
+      ]
+    }
+  }
+}
