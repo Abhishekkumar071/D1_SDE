@@ -1,0 +1,124 @@
+{
+  "source": "Public Research Paper – “Managing Open Source Contributions for Software Project Sustainability” by Sethanandha, Massey, Jones",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source7_ResearchPaper",
+  "paper": "Managing Open Source Contributions for Software Project Sustainability",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This study explains that open source projects need a clear contribution process for code and docs.",
+        "Beginners learn there is more to contributing than coding—process and etiquette matter."
+      ],
+      "level_2": [
+        "It introduces patch workflows: creating, publishing, reviewing, and merging changes.",
+        "Searchers can see that both technical steps (like branch creation) and social steps (like polite comments) matter."
+      ],
+      "level_3": [
+        "The paper dives into technical and social barriers new contributors face on large projects.",
+        "Mid-level learners read that structured review processes help reduce errors and maintain quality."
+      ],
+      "level_4": [
+        "Advanced sections explain how strong processes improve project sustainability and trust.",
+        "Leads learn how consistent etiquette practices can lower the barrier for future contributions."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "New contributors submit small patches (like typo fixes) and see how the review works."
+      ],
+      "level_2": [
+        "Forking a repo, submitting a patch, and waiting for maintainers to respond."
+      ],
+      "level_3": [
+        "Maintainers review patches using checklists and community guidelines."
+      ],
+      "level_4": [
+        "Organizations run regular review sprints to onboard new contributors efficiently."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Beginners learn how to submit patches with minimal steps."
+      ],
+      "level_2": [
+        "Junior developers use documented processes to make contributions reliably."
+      ],
+      "level_3": [
+        "Mid-level engineers enforce patch workflows and review guidelines."
+      ],
+      "level_4": [
+        "Project leads design processes to support thousands of contributors sustainably."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Where do I submit my change—branch or fork?"
+      ],
+      "level_2": [
+        "Plan: Does my patch follow the contribution template?"
+      ],
+      "level_3": [
+        "Evaluate: Have maintainers responded, and is my patch improving?"
+      ],
+      "level_4": [
+        "Reflect: Can this process scale and adapt as the project grows?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Patches without clear steps or instructions."
+      ],
+      "level_2": [
+        "Missing communication—no comments or follow-ups after submission."
+      ],
+      "level_3": [
+        "Large patches that don't follow review guidelines; difficult to review."
+      ],
+      "level_4": [
+        "No sustainable review process leads to backlog and contributor drop-off."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a patch in open source?"
+      ],
+      "level_2": [
+        "Why do we need a review checklist?"
+      ],
+      "level_3": [
+        "How do social practices (like waiting politely) matter in contribution?"
+      ],
+      "level_4": [
+        "How do structured workflows improve project sustainability?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Submit a typo-fix patch to a public repo."
+      ],
+      "level_2": [
+        "Follow a project's patch workflow: fork, branch, PR, follow-up."
+      ],
+      "level_3": [
+        "Create a checklist for patch submission based on your review."
+      ],
+      "level_4": [
+        "Help your team run a mock open-source contribution event."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip reading contribution rules before patching."
+      ],
+      "level_2": [
+        "Avoid submitting without a clear description or context."
+      ],
+      "level_3": [
+        "Don’t overwhelm maintainers with huge patches; break them down."
+      ],
+      "level_4": [
+        "Avoid process gaps—set up clear guidelines and community roles."
+      ]
+    }
+  }
+}
