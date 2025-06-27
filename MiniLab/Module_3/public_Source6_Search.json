@@ -1,0 +1,127 @@
+{
+  "source": "Public Search – Google, LinkedIn Learning, Indeed career advice articles",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source6_Search",
+  "links": [
+    "https://www.themuse.com/advice/star-interview-method",
+    "https://www.linkedin.com/learning/behavioural-interview-techniques",
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "STAR is a way to answer behavioral questions by telling a clear story.",
+        "Beginner learners find it useful to stay organized during interviews."
+      ],
+      "level_2": [
+        "Articles explain that STAR stands for Situation, Task, Action, Result.",
+        "They show beginners how to structure short, complete answers."
+      ],
+      "level_3": [
+        "Career guides suggest adding metrics or lessons learned to the Result part.",
+        "Mid-level candidates are advised to customize their examples to the job."
+      ],
+      "level_4": [
+        "Advanced advice talks about tying your Result back to company goals.",
+        "Shows senior professionals how to use STAR to highlight leadership impact."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Example: 'Tell me about a time you missed a deadline' – explained with STAR."
+      ],
+      "level_2": [
+        "Example: 'Describe a challenge you faced during a group project'."
+      ],
+      "level_3": [
+        "Example: 'Share a time you improved a process or fixed a bug in code.'"
+      ],
+      "level_4": [
+        "Example: 'Explain how you led a team to deliver a product feature.'"
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Entry-level interviewers use STAR to feel confident and prepared."
+      ],
+      "level_2": [
+        "Junior devs use STAR examples from internships or projects."
+      ],
+      "level_3": [
+        "Mid-level engineers use STAR to talk about team improvements or impact."
+      ],
+      "level_4": [
+        "Senior candidates use STAR to explain leadership, strategy, or conflict resolution."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: What situation happened?"
+      ],
+      "level_2": [
+        "Ask: What was your exact responsibility?"
+      ],
+      "level_3": [
+        "Ask: What did you do, step by step?"
+      ],
+      "level_4": [
+        "Ask: What result did you bring, and what did you learn?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Giving long answers without structure."
+      ],
+      "level_2": [
+        "Mentioning the situation but skipping results."
+      ],
+      "level_3": [
+        "Using examples that don’t match the job role."
+      ],
+      "level_4": [
+        "Lacking measurable impact or leadership insight."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What does the 'A' in STAR stand for?"
+      ],
+      "level_2": [
+        "Why structure answers with STAR?"
+      ],
+      "level_3": [
+        "How can you add metrics to your STAR story?"
+      ],
+      "level_4": [
+        "How should senior candidates frame leadership stories?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a STAR response for a simple teamwork example."
+      ],
+      "level_2": [
+        "Prepare STAR stories for two common interview questions."
+      ],
+      "level_3": [
+        "Draft a STAR story with metrics and feedback from a peer."
+      ],
+      "level_4": [
+        "Create three STAR stories that showcase leadership and impact."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t ramble—stick to the point."
+      ],
+      "level_2": [
+        "Always include a clear Result in your answer."
+      ],
+      "level_3": [
+        "Pick examples relevant to the job you’re applying for."
+      ],
+      "level_4": [
+        "Highlight both the result and what you learned as a leader."
+      ]
+    }
+  }
+}
