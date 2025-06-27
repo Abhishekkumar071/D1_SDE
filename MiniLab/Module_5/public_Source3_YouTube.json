@@ -1,0 +1,128 @@
+{
+  "source": "Public YouTube video – “How to Give Effective Code Review Feedback” by GitPrime",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://www.youtube.com/watch?v=1Zfi0F3kCl4",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This video teaches how code reviews help catch bugs and improve code quality.",
+        "Beginners learn that a peer review is checking someone’s code and suggesting fixes."
+      ],
+      "level_2": [
+        "It explains the value of respectful feedback: focus on code, not people.",
+        "Shows how to phrase feedback: start with positives and then suggest improvements."
+      ],
+      "level_3": [
+        "Covers advanced practices: standardizing review checklists and test coverage checks.",
+        "Explains how to use metrics like defect rate reduction over time."
+      ],
+      "level_4": [
+        "Highlights how senior devs shape review culture by mentoring reviewers proactively.",
+        "Discusses building a peer-feedback loop to scale across large codebases."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Pointing out a missing semicolon or typo in a new commit.",
+        "Noting inconsistent function naming to match team style."
+      ],
+      "level_2": [
+        "Suggesting refactor where a loop can be simplified.",
+        "Advising on adding unit tests for edge cases."
+      ],
+      "level_3": [
+        "Helping the author add performance benchmarks or logging.",
+        "Recommending modularization for reusable components."
+      ],
+      "level_4": [
+        "Creating team templates for PR reviews with standard checklists.",
+        "Leading monthly feedback workshops to improve code review skills."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns learn best practices by reviewing peers’ simple changes."
+      ],
+      "level_2": [
+        "Junior devs use reviews to catch bugs early before merging."
+      ],
+      "level_3": [
+        "Mid-level engineers facilitate peer reviews and enforce CI checks."
+      ],
+      "level_4": [
+        "Senior engineers set review culture, track quality metrics, and mentor others."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Is this code readable and correct?"
+      ],
+      "level_2": [
+        "Ask: Can this function handle edge cases?"
+      ],
+      "level_3": [
+        "Ask: Does it follow architecture and performance standards?"
+      ],
+      "level_4": [
+        "Ask: How will this change impact future maintainability?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Missing semicolons or wrong indentation."
+      ],
+      "level_2": [
+        "Poor variable names or unclear logic."
+      ],
+      "level_3": [
+        "Lack of tests or error handling."
+      ],
+      "level_4": [
+        "Ignoring system-level implications or cross-module impacts."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a code review?"
+      ],
+      "level_2": [
+        "Why start feedback with positives?"
+      ],
+      "level_3": [
+        "What belongs in a review checklist?"
+      ],
+      "level_4": [
+        "How do you measure review impact in a team?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a friend’s simple code and suggest minor improvements."
+      ],
+      "level_2": [
+        "Create a PR review comment with positive feedback and suggestions."
+      ],
+      "level_3": [
+        "Design a code review checklist for your project."
+      ],
+      "level_4": [
+        "Organize mock review sessions and track improvement metrics."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t criticize the person—focus on the code."
+      ],
+      "level_2": [
+        "Avoid vague comments like ‘make it better’—be specific."
+      ],
+      "level_3": [
+        "Don’t skip testing advice—suggest tests for edge cases."
+      ],
+      "level_4": [
+        "Avoid ignoring follow-up—ensure suggestions get addressed."
+      ]
+    }
+  }
+}
