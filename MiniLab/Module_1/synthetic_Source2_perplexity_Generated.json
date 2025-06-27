@@ -1,0 +1,159 @@
+{
+    "source": "Perplexity AI-generated content for Programming Foundations, beginner to expert",
+    "module": "Module 1: Programming Foundations",
+    "file_type": "synthetic_Source2_perplexity_Generated.json",
+    "segments": {
+        "introduction": {
+            "level_1": [
+                "Programming foundations are the basic building blocks for writing software.",
+                "You’ll learn about variables, data types, and how to make computers follow instructions.",
+                "Programming is like giving step-by-step directions to a very literal robot.",
+                "Anyone can start coding with patience and practice.",
+                "Small programs help you understand how computers think."
+            ],
+            "level_2": [
+                "Intermediate learners use functions and loops to organize code efficiently.",
+                "Understanding error messages and debugging is key at this stage.",
+                "You’ll write programs that take user input and produce useful output.",
+                "Learning about code readability and simple testing becomes important.",
+                "You start to see how different programming languages have similar foundations."
+            ],
+            "level_3": [
+                "Advanced programmers focus on modular code and best practices.",
+                "You’ll learn about recursion, exception handling, and code optimization.",
+                "Writing reusable functions and using libraries becomes routine.",
+                "You begin to understand memory management and performance considerations.",
+                "Designing small projects from scratch is expected at this level."
+            ],
+            "level_4": [
+                "Expert programmers master multiple languages and paradigms.",
+                "They write highly efficient, maintainable, and scalable code.",
+                "They contribute to open-source, review others’ code, and mentor beginners.",
+                "They understand advanced debugging, profiling, and optimization tools.",
+                "Experts often design coding standards and best practices for teams."
+            ]
+        },
+        "realWorldUseCases": {
+            "level_1": [
+                "Create a program that adds two numbers.",
+                "Write a script to greet the user by name.",
+                "Build a simple calculator for basic operations."
+            ],
+            "level_2": [
+                "Develop a temperature converter (Celsius to Fahrenheit).",
+                "Write a program to check if a number is even or odd.",
+                "Build a command-line quiz game."
+            ],
+            "level_3": [
+                "Create a contact book using file storage.",
+                "Develop a text-based adventure game.",
+                "Implement a basic password generator."
+            ],
+            "level_4": [
+                "Build a code linter for a programming language.",
+                "Implement a custom scripting language interpreter.",
+                "Create a performance benchmarking tool for scripts."
+            ]
+        },
+        "industryApplications": {
+            "level_1": [
+                "Used in school assignments, coding bootcamps, and online tutorials."
+            ],
+            "level_2": [
+                "Applied in automation scripts and small business tools."
+            ],
+            "level_3": [
+                "Forms the basis for backend services, data processing, and app development."
+            ],
+            "level_4": [
+                "Enables contributions to large-scale open-source projects and enterprise software."
+            ]
+        },
+        "thinkingPattern": {
+            "level_1": [
+                "Think step by step: what should the computer do first, next, and last?",
+                "Break big problems into smaller, manageable tasks."
+            ],
+            "level_2": [
+                "Plan code using flowcharts or pseudocode.",
+                "Start considering how to make code reusable."
+            ],
+            "level_3": [
+                "Anticipate possible errors and handle them gracefully.",
+                "Optimize code for readability and efficiency."
+            ],
+            "level_4": [
+                "Predict performance bottlenecks and design for scalability.",
+                "Balance code clarity with advanced optimization techniques."
+            ]
+        },
+        "problemTypes": {
+            "level_1": [
+                "Print a multiplication table.",
+                "Find the largest of three numbers."
+            ],
+            "level_2": [
+                "Check if a string is a palindrome.",
+                "Count the frequency of words in a sentence."
+            ],
+            "level_3": [
+                "Implement a recursive factorial function.",
+                "Write a program to parse and evaluate mathematical expressions."
+            ],
+            "level_4": [
+                "Build a mini shell that executes user commands.",
+                "Create a code formatter for a specific language."
+            ]
+        },
+        "assessmentsAndQuizzes": {
+            "level_1": [
+                "What is a variable? Give an example.",
+                "Name three basic data types."
+            ],
+            "level_2": [
+                "What is a loop? Write a for loop example.",
+                "Explain the difference between a function and a variable."
+            ],
+            "level_3": [
+                "How does recursion differ from iteration?",
+                "What is exception handling and why is it useful?"
+            ],
+            "level_4": [
+                "Describe how memory management works in your favorite language.",
+                "How would you optimize a slow-running script?"
+            ]
+        },
+        "miniProjects": {
+            "level_1": [
+                "Build a number guessing game."
+            ],
+            "level_2": [
+                "Create a simple to-do list app in the console."
+            ],
+            "level_3": [
+                "Develop a contact manager with file-based storage."
+            ],
+            "level_4": [
+                "Implement a basic interpreter for a custom scripting language."
+            ]
+        },
+        "suggestionsAndMistakes": {
+            "level_1": [
+                "Don’t worry about making mistakes—debugging is part of learning.",
+                "Practice writing code by hand to build confidence."
+            ],
+            "level_2": [
+                "Avoid writing long, unorganized code—use functions to break it up.",
+                "Test your code with different inputs."
+            ],
+            "level_3": [
+                "Don’t ignore error messages—use them to improve your code.",
+                "Refactor code regularly for better readability."
+            ],
+            "level_4": [
+                "Document your code and share knowledge with others.",
+                "Stay updated on language changes and best practices."
+            ]
+        }
+    }
+}
