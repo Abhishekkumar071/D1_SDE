@@ -1,0 +1,128 @@
+{
+  "source": "Public Search – GeeksforGeeks, FreeCodeCamp, and Dev.to articles on CP patterns",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source6_Search",
+  "links": [
+    "https://www.geeksforgeeks.org/15-common-coding-patterns/",
+    "https://www.freecodecamp.org/news/coding-patterns-explained/",
+    "https://dev.to/algo-patterns-intro"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "What are coding patterns? They are common ways to solve groups of problems fast.",
+        "Beginners learn that sliding window, two pointers, hash map, DFS, and BFS are key patterns."
+      ],
+      "level_2": [
+        "These articles explain that recognizing a pattern saves time and avoids brute force.",
+        "They show simple examples like finding pairs or maximum subarrays."
+      ],
+      "level_3": [
+        "Search content dives deeper into combining patterns—like two pointers with hashing.",
+        "They explain when to use recursion or iterative approaches."
+      ],
+      "level_4": [
+        "Advanced guides show how patterns map to system design and live data processing.",
+        "They compare performance trade-offs and edge-case considerations."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Finding pairs in sorted arrays, e.g., two-sum problem."
+      ],
+      "level_2": [
+        "Sliding window used to calculate moving averages in a data stream."
+      ],
+      "level_3": [
+        "DFS and BFS for navigating file systems or analyzing networks."
+      ],
+      "level_4": [
+        "Combining DP and sliding window for real-time stock data processing."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs use two pointers to write quick string solutions in tests."
+      ],
+      "level_2": [
+        "Developers use hash maps for user session tracking."
+      ],
+      "level_3": [
+        "Graph patterns used in search engines and recommendations."
+      ],
+      "level_4": [
+        "Pattern logic applied in streaming platforms and microservices."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Is this array sorted? Two pointers could help."
+      ],
+      "level_2": [
+        "Ask: Is there a substring or fixed window I can slide?"
+      ],
+      "level_3": [
+        "Ask: Does this graph need BFS or DFS? Is it weighted?"
+      ],
+      "level_4": [
+        "Ask: How does this pattern scale in a real system or pipeline?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Using brute force O(n²) when two pointers is enough."
+      ],
+      "level_2": [
+        "Overlooking edge cases in window sliding (like empty arrays)."
+      ],
+      "level_3": [
+        "Missing cycle detection in DFS/BFS leading to infinite loops."
+      ],
+      "level_4": [
+        "Applying a pattern that doesn't hold for distributed or streaming data."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is two pointers used for?"
+      ],
+      "level_2": [
+        "How does sliding window improve efficiency over brute force?"
+      ],
+      "level_3": [
+        "When should you favor DFS over BFS in graphs?"
+      ],
+      "level_4": [
+        "How would you adapt sliding window logic for real-time analytics?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Use two pointers to solve ‘Two Sum II’ on LeetCode."
+      ],
+      "level_2": [
+        "Build a sliding-window app that calculates max average per minute."
+      ],
+      "level_3": [
+        "Create a graph visualizer that uses BFS/DFS traversal."
+      ],
+      "level_4": [
+        "Simulate a real-time streaming analyzer combining DP + windowing."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t try brute force first—recognize simple patterns."
+      ],
+      "level_2": [
+        "Always handle window edge cases like start/end boundaries."
+      ],
+      "level_3": [
+        "Avoid stack overflow—check for deep recursion in DFS."
+      ],
+      "level_4": [
+        "Don’t ignore latency and throughput when extending patterns to systems."
+      ]
+    }
+  }
+}
