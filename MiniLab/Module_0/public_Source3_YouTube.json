@@ -1,0 +1,128 @@
+{
+  "source": "Public YouTube video by Gaurav Sen",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://www.youtube.com/watch?v=x9nkpgV-wcI",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "An SDE writes code to build software and solve real problems.",
+        "They fix bugs and make software run well."
+      ],
+      "level_2": [
+        "At SDE‑1, you're learning code, collaborating with team, and completing tickets.",
+        "You start understanding code structure and simple design."
+      ],
+      "level_3": [
+        "As you grow, you take ownership of components, mentor juniors, and improve architecture.",
+        "You bridge between junior code and senior design."
+      ],
+      "level_4": [
+        "At SDE‑3 or beyond, you set technical direction, own large systems, and influence product roadmap.",
+        "You lead design discussions and make system‑level decisions."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Fixing small bugs assigned by seniors.",
+        "Implementing basic features with guidance."
+      ],
+      "level_2": [
+        "Building components end‑to‑end with peer reviews.",
+        "Optimizing simple functions for efficiency."
+      ],
+      "level_3": [
+        "Designing modules used across teams.",
+        "Reviewing code architecture for performance."
+      ],
+      "level_4": [
+        "Leading cross‑team technical designs.",
+        "Setting standards for code quality and scalability."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior engineers learn by completing tickets and writing tests."
+      ],
+      "level_2": [
+        "Mid‑level SDEs improve features and mentor newer devs."
+      ],
+      "level_3": [
+        "Senior SDEs design modules and improve team processes."
+      ],
+      "level_4": [
+        "Staff engineers drive tech vision and align architecture."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What does this feature need to do?"
+      ],
+      "level_2": [
+        "How can I write code that others understand?"
+      ],
+      "level_3": [
+        "What patterns make this component scalable?"
+      ],
+      "level_4": [
+        "How does this change affect the whole system?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Broken code or failing tests."
+      ],
+      "level_2": [
+        "Incomplete features or edge‑case bugs."
+      ],
+      "level_3": [
+        "Architecture inefficiencies or performance bottlenecks."
+      ],
+      "level_4": [
+        "System design flaws or cross‑team dependencies."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What does an SDE do?"
+      ],
+      "level_2": [
+        "What's the difference between SDE‑1 and SDE‑2?"
+      ],
+      "level_3": [
+        "How does component design improve scalability?"
+      ],
+      "level_4": [
+        "What responsibilities do seniors have beyond coding?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Fix two small issues in an existing project."
+      ],
+      "level_2": [
+        "Implement a feature from UI to backend with tests."
+      ],
+      "level_3": [
+        "Refactor a module for better reuse and readability."
+      ],
+      "level_4": [
+        "Design and document a new system component end‑to‑end."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t copy code without understanding it."
+      ],
+      "level_2": [
+        "Avoid writing features without tests."
+      ],
+      "level_3": [
+        "Don’t skip design reviews."
+      ],
+      "level_4": [
+        "Avoid neglecting cross‑team impacts."
+      ]
+    }
+  }
+}
