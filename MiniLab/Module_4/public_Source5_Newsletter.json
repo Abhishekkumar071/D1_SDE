@@ -1,0 +1,131 @@
+{
+  "source": "Public newsletters – CareerCup & CareerFoundry Insights",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source5_Newsletter",
+  "newsletters": [
+    { "name": "CareerCup Newsletter", "platform": "CareerCup.com" },
+    { "name": "CareerFoundry Blog Digest", "platform": "CareerFoundry" }
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "These newsletters define what career roadmapping means for software engineers.",
+        "They explain how to match your strengths and interests to the right engineering role."
+      ],
+      "level_2": [
+        "Readers learn to list out short-term (intern, junior) vs long-term (senior, staff) roles.",
+        "They provide easy steps to map skill gaps needed for each stage."
+      ],
+      "level_3": [
+        "Mid-level guidance shows how to build a multi-year roadmap with yearly milestones.",
+        "They offer tips on pivoting roles—like going from frontend to backend or data engineering."
+      ],
+      "level_4": [
+        "Senior-level articles explain aligning your roadmap with company goals and emerging tech areas.",
+        "They highlight mentoring juniors as part of your leadership journey."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "A student picks an internship in mobile Dev based on interest.",
+        "Beginners create a simple checklist of languages and tools."
+      ],
+      "level_2": [
+        "Junior devs set goals like building two side projects in one year.",
+        "They list courses to take and certifications required annually."
+      ],
+      "level_3": [
+        "Mid-level devs draft role-matching plans for advancing to senior engineer.",
+        "They include mentorship, open-source, and certification milestones."
+      ],
+      "level_4": [
+        "Leads create team-wide career frameworks aligning to company strategy.",
+        "They set up mentorship programs tied to those roadmaps."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Internship roadmaps help students prepare for tech internships."
+      ],
+      "level_2": [
+        "Junior developers follow framework newsletters to plan first year."
+      ],
+      "level_3": [
+        "Mid-level professionals create multi-year plans for promotions."
+      ],
+      "level_4": [
+        "Engineering managers support team career growth using roadmap tools."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Which role interests me the most?"
+      ],
+      "level_2": [
+        "List: What skills do I need to reach that role?"
+      ],
+      "level_3": [
+        "Plan: Are these milestones achievable in two years?"
+      ],
+      "level_4": [
+        "Align: Does this roadmap tie in with company and tech trends?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No clear target role—leading to aimless progress."
+      ],
+      "level_2": [
+        "Setting vague goals without milestones."
+      ],
+      "level_3": [
+        "Not revisiting your roadmap regularly."
+      ],
+      "level_4": [
+        "Roadmaps that ignore industry changes or feedback."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Define career roadmapping."
+      ],
+      "level_2": [
+        "Why set milestones for your engineering path?"
+      ],
+      "level_3": [
+        "How do you match a role to your strengths?"
+      ],
+      "level_4": [
+        "How can your roadmap influence team-wide growth strategies?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a 1‑page career roadmap for next 6 months."
+      ],
+      "level_2": [
+        "Draft a 1‑year plan listing skills and projects."
+      ],
+      "level_3": [
+        "Design a 3‑year roadmap with tech, soft skills, and mentoring goals."
+      ],
+      "level_4": [
+        "Build a career framework template to help teammates plan."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t ignore planning—start small."
+      ],
+      "level_2": [
+        "Avoid vague timelines like 'get better'."
+      ],
+      "level_3": [
+        "Never skip mentor feedback on your roadmap."
+      ],
+      "level_4": [
+        "Avoid rigid plans—update quarterly based on changes."
+      ]
+    }
+  }
+}
