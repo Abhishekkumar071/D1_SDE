@@ -1,0 +1,123 @@
+{
+  "source": "Public Industry Trends – Business Insider & fullscale.io",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source8_IndustryTrends",
+  "trends": [
+    "Google Staff Engineer compensation and career growth without PhD",
+    "Common software engineer title hierarchy and specialization"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Industry news shows engineers can reach high-paying roles through performance."
+      ],
+      "level_2": [
+        "Articles explain career titles like SDE I, II, Senior, Principal and their pay ranges."
+      ],
+      "level_3": [
+        "Reports show that competitive coding and research internships help career growth."
+      ],
+      "level_4": [
+        "Trends include reading research papers regularly, contributing to emerging fields like AI."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Story of engineer from IIT reaching Google Staff (L6)"
+      ],
+      "level_2": [
+        "Hierarchy of roles shows growth path from junior to principal"
+      ],
+      "level_3": [
+        "Engineers using reading groups to stay updated"
+      ],
+      "level_4": [
+        "Senior staff leading paper reviews and pushing AI initiatives"
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Entry SDE I roles for fresh grads"
+      ],
+      "level_2": [
+        "SDE II roles for coding efficiency and project ownership"
+      ],
+      "level_3": [
+        "Senior staff lead system design and cross-team initiatives"
+      ],
+      "level_4": [
+        "Staff engineer leads AI product strategy and mentorship"
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Where do I start in the software career ladder?"
+      ],
+      "level_2": [
+        "Ask: How can I move to the next level with projects or study?"
+      ],
+      "level_3": [
+        "Think: Which industry trend should I follow (AI, cloud)?"
+      ],
+      "level_4": [
+        "Reflect: How can I contribute to company strategy and innovation?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing what titles mean or require"
+      ],
+      "level_2": [
+        "Missing career-growth initiatives"
+      ],
+      "level_3": [
+        "Not staying current with industry trends"
+      ],
+      "level_4": [
+        "Ignoring strategic or team-level impact"
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is SDE I?"
+      ],
+      "level_2": [
+        "What defines promotion to Senior engineer?"
+      ],
+      "level_3": [
+        "Why read research papers as an engineer?"
+      ],
+      "level_4": [
+        "How can engineers build strategic influence?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Research and list role titles and levels in top tech companies"
+      ],
+      "level_2": [
+        "Track salary and path info for SDE II to Senior roles"
+      ],
+      "level_3": [
+        "Join a reading group or start one on research papers"
+      ],
+      "level_4": [
+        "Pitch an innovation idea linking your role to industry trends"
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't assume all roles are the same across companies"
+      ],
+      "level_2": [
+        "Avoid ignoring title and role differences"
+      ],
+      "level_3": [
+        "Don't skip continuous learning like paper reviews"
+      ],
+      "level_4": [
+        "Avoid working only on code—focus on business impact"
+      ]
+    }
+  }
+}
