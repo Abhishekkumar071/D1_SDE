@@ -1,0 +1,132 @@
+{
+  "source": "Public Newsletters for software engineers",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source5_Newsletter",
+  "newsletters": [
+    {"name": "The Pragmatic Engineer", "platform": "Substack"},
+    {"name": "Big Tech Digest", "platform": "Substack"}
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Newsletters like The Pragmatic Engineer share stories about engineering career growth.",
+        "Big Tech Digest overviews software engineering roles across different companies."
+      ],
+      "level_2": [
+        "They explain how SDE roles differ at junior vs senior levels.",
+        "They describe what skills are needed at each stage."
+      ],
+      "level_3": [
+        "Newsletters often include real examples: 'SDE-1 writes tests, SDE-2 reviews them, SDE-3 owns modules.'",
+        "They highlight role transitions and promotions."
+      ],
+      "level_4": [
+        "Senior-focused articles dive into engineering leadership responsibilities.",
+        "They discuss how senior engineers align architecture and company goals."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Reading newsletter summaries to understand daily SDE tasks.",
+        "Learning about career paths from junior to senior."
+      ],
+      "level_2": [
+        "Applying tips like writing tests or mentoring juniors based on content.",
+        "Mapping your growth milestones with career-level checklists."
+      ],
+      "level_3": [
+        "Using newsletter case studies to shape your learning plan.",
+        "Comparing company-level career tracks."
+      ],
+      "level_4": [
+        "Applying leadership guidance to align projects with company roadmap.",
+        "Using newsletters to prepare for cross-team SDE functions."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior readers learn basic dev responsibilities from newsletters."
+      ],
+      "level_2": [
+        "Mid-level engineers use stories to strengthen their mentorship habits."
+      ],
+      "level_3": [
+        "Senior engineers improve process and architecture from newsletter insights."
+      ],
+      "level_4": [
+        "Tech leaders use newsletter frameworks to build team growth plans."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What does SDE‑1 vs SDE‑2 do each day?"
+      ],
+      "level_2": [
+        "What skills move someone to a higher SDE level?"
+      ],
+      "level_3": [
+        "How can I reflect on my role's growth path using these examples?"
+      ],
+      "level_4": [
+        "How do senior engineering responsibilities shape business outcomes?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing the typical responsibilities at each SDE level."
+      ],
+      "level_2": [
+        "Confusion over skills needed for promotion."
+      ],
+      "level_3": [
+        "Difficulty aligning personal growth with industry standards."
+      ],
+      "level_4": [
+        "Not understanding architecture leadership requirements."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name one software engineering newsletter.",
+        "Why read them?"
+      ],
+      "level_2": [
+        "What differences exist between SDE‑1 and SDE‑2?"
+      ],
+      "level_3": [
+        "How can newsletters help mapping a growth plan?"
+      ],
+      "level_4": [
+        "What insights do senior engineers gain from newsletters?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Subscribe to The Pragmatic Engineer for a week."
+      ],
+      "level_2": [
+        "Summarize one newsletter issue with role‑level takeaways."
+      ],
+      "level_3": [
+        "Create a personal growth plan based on newsletter guidance."
+      ],
+      "level_4": [
+        "Write your own newsletter-style case study for your career progress."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip reading career newsletters."
+      ],
+      "level_2": [
+        "Avoid copying advice without reflecting on your role."
+      ],
+      "level_3": [
+        "Don’t ignore senior-level guidance — apply it thoughtfully."
+      ],
+      "level_4": [
+        "Avoid outdated advice — check current newsletter trends."
+      ]
+    }
+  }
+}
