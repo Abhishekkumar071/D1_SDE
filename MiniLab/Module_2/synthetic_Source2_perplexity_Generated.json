@@ -1,154 +1,154 @@
 {
-    "source": "Perplexity AI-generated content for Software Requirements & Development Methodologies, beginner to expert",
-    "module": "Module 2: Software Requirements & Development Methodologies",
+    "source": "Perplexity AI-generated content for GitHub & Open Source Etiquette, beginner to expert",
+    "module": "Module 2: GitHub & Open Source Etiquette",
     "file_type": "synthetic_Source2_perplexity_Generated.json",
     "segments": {
         "introduction": {
             "level_1": [
-                "Software development follows a step-by-step process called the Software Development Life Cycle (SDLC).",
-                "The first step is understanding what the user needs—these are called requirements.",
-                "Requirements are written down so everyone on the team knows what to build.",
-                "Different methods, like Waterfall or Agile, help teams organize their work.",
-                "Good planning helps avoid confusion and wasted effort."
+                "GitHub is a platform for sharing and collaborating on code projects using version control.",
+                "You can create repositories to store your code and track changes over time.",
+                "Open source means anyone can view, use, and contribute to a project.",
+                "Good etiquette helps everyone work together smoothly.",
+                "You’ll learn to use branches, commits, and pull requests to contribute safely."
             ],
             "level_2": [
-                "Requirements can be functional (what the software does) or non-functional (how well it works).",
-                "Teams use models and diagrams to visualize how the system will work.",
-                "Process models like Waterfall, Spiral, and Agile each have their own strengths and weaknesses.",
-                "Writing a clear Software Requirements Specification (SRS) is essential for success.",
-                "Testing and feedback are built into most modern development processes."
+                "Git is the tool that tracks changes; GitHub is where you share your work online.",
+                "You’ll practice making pull requests, reviewing code, and resolving conflicts.",
+                "Following contribution guidelines and writing clear commit messages is important.",
+                "Respectful communication and prompt responses build a healthy community.",
+                "Understanding licenses and permissions is part of open source participation."
             ],
             "level_3": [
-                "Advanced teams select process models based on project needs—some prefer Agile for flexibility, others use Waterfall for predictability.",
-                "Requirements engineering includes elicitation, analysis, validation, and management.",
-                "System modeling uses context, data, and behavioral diagrams to clarify requirements.",
-                "Feasibility studies help decide if a project is worth pursuing.",
-                "Continuous improvement and adaptation are key in modern methodologies."
+                "Advanced users help review others' code and maintain project documentation.",
+                "They manage issues, triage bugs, and guide new contributors.",
+                "Maintainers enforce code standards and resolve disputes.",
+                "They automate workflows with GitHub Actions and protect main branches.",
+                "They encourage diversity and inclusion in open source communities."
             ],
             "level_4": [
-                "Experts design custom hybrid methodologies tailored to organizational goals.",
-                "They lead complex requirement engineering efforts and manage large, distributed teams.",
-                "They ensure alignment between business strategy and technical execution.",
-                "They assess and mitigate risks throughout the SDLC.",
-                "They contribute to standards, best practices, and process innovation in the industry."
+                "Experts lead large open source projects and set community standards.",
+                "They mentor contributors, organize events, and manage project governance.",
+                "They handle security disclosures and ensure compliance with licenses.",
+                "They create templates for issues, PRs, and codes of conduct.",
+                "They advocate for open source best practices at conferences and in publications."
             ]
         },
         "realWorldUseCases": {
             "level_1": [
-                "Write a list of features for a school management app.",
-                "Draw a simple flowchart showing how a user logs in."
+                "Create a personal project repository and share it with friends.",
+                "Fix a typo in a public project’s README file."
             ],
             "level_2": [
-                "Document requirements for an online shopping cart.",
-                "Create a use case diagram for a ticket booking system."
+                "Submit a pull request to add a new feature to an open source tool.",
+                "Review someone else’s code and suggest improvements."
             ],
             "level_3": [
-                "Develop an SRS for a hospital management system.",
-                "Model data flow and user interactions for a banking app."
+                "Manage issues and discussions for a growing open source project.",
+                "Automate code checks with GitHub Actions."
             ],
             "level_4": [
-                "Design a requirements process for a multi-team enterprise project.",
-                "Lead Agile transformation for a global software company."
+                "Lead a global open source initiative with hundreds of contributors.",
+                "Organize virtual hackathons and onboarding sessions for new contributors."
             ]
         },
         "industryApplications": {
             "level_1": [
-                "Used in student projects and small business apps to clarify what needs to be built."
+                "Used in student projects and coding bootcamps for collaboration."
             ],
             "level_2": [
-                "Applied in startups to quickly gather and adapt requirements."
+                "Applied in startups for team-based development and open source contributions."
             ],
             "level_3": [
-                "Essential for regulated industries like finance and healthcare, where clear documentation is required."
+                "Essential for large software companies and open source foundations."
             ],
             "level_4": [
-                "Drives digital transformation and innovation in large organizations."
+                "Drives innovation and community in tech giants and non-profits."
             ]
         },
         "thinkingPattern": {
             "level_1": [
-                "Ask what the user wants and why.",
-                "Break big goals into smaller, clear requirements."
+                "Think about how your changes affect others’ work.",
+                "Be clear and respectful when communicating online."
             ],
             "level_2": [
-                "Visualize workflows with diagrams.",
-                "Think about both what the software does and how well it must perform."
+                "Follow project guidelines and respect code review feedback.",
+                "Ask questions if you’re unsure about contribution steps."
             ],
             "level_3": [
-                "Anticipate changes and plan for feedback loops.",
-                "Balance detail with flexibility in documentation."
+                "Anticipate merge conflicts and plan for collaborative workflows.",
+                "Balance project goals with community needs."
             ],
             "level_4": [
-                "Align technical requirements with business strategy.",
-                "Continuously refine processes based on outcomes and feedback."
+                "Promote inclusive and sustainable open source practices.",
+                "Continuously improve project processes and documentation."
             ]
         },
         "problemTypes": {
             "level_1": [
-                "List the steps for a user to reset their password.",
-                "Write a simple requirement for a calculator app."
+                "Create a new repository and add a README file.",
+                "Make your first commit and push it to GitHub."
             ],
             "level_2": [
-                "Draw a use case diagram for an ATM system.",
-                "Identify non-functional requirements for a video streaming service."
+                "Open a pull request to fix a bug in someone else’s project.",
+                "Resolve a simple merge conflict."
             ],
             "level_3": [
-                "Write an SRS section for a ride-sharing platform.",
-                "Model the data flow in an inventory management system."
+                "Review and merge a complex pull request.",
+                "Set up branch protection rules and automated checks."
             ],
             "level_4": [
-                "Design a requirements management process for a distributed team.",
-                "Evaluate the risks of changing requirements in a large project."
+                "Design a contributor onboarding guide for a large project.",
+                "Develop a code of conduct and enforce community standards."
             ]
         },
         "assessmentsAndQuizzes": {
             "level_1": [
-                "What is a software requirement?",
-                "Name two phases of the SDLC."
+                "What is a repository on GitHub?",
+                "Why should you write clear commit messages?"
             ],
             "level_2": [
-                "What is the difference between functional and non-functional requirements?",
-                "Give an example of a process model."
+                "What is a pull request and why is it important?",
+                "Name two ways to resolve a merge conflict."
             ],
             "level_3": [
-                "How does Agile differ from Waterfall in handling changes?",
-                "What is the purpose of an SRS document?"
+                "How do you review code constructively?",
+                "What is the purpose of a LICENSE file in a repository?"
             ],
             "level_4": [
-                "Describe how you would manage conflicting requirements from stakeholders.",
-                "Explain the benefits and drawbacks of hybrid process models."
+                "How would you handle a code of conduct violation?",
+                "Describe strategies for scaling open source project governance."
             ]
         },
         "miniProjects": {
             "level_1": [
-                "Write requirements for a simple to-do list app."
+                "Create and share a simple project on GitHub."
             ],
             "level_2": [
-                "Create a use case and basic SRS for a library management system."
+                "Contribute a documentation improvement to an open source repo."
             ],
             "level_3": [
-                "Develop a requirements document and process model for an online learning platform."
+                "Set up automated testing for a collaborative project."
             ],
             "level_4": [
-                "Design a requirements engineering workflow for a large-scale healthcare system."
+                "Organize a virtual open source sprint and onboard new contributors."
             ]
         },
         "suggestionsAndMistakes": {
             "level_1": [
-                "Don’t skip requirement gathering—unclear goals cause problems later.",
-                "Ask questions if requirements are confusing."
+                "Don’t be afraid to ask for help—open source is about learning.",
+                "Always write a clear description for your pull requests."
             ],
             "level_2": [
-                "Avoid vague requirements—be specific and measurable.",
-                "Keep requirements organized and updated."
+                "Avoid making large, unrelated changes in one commit.",
+                "Respect project maintainers’ time and feedback."
             ],
             "level_3": [
-                "Don’t ignore feedback—validate requirements with users.",
-                "Document changes and communicate with the team."
+                "Don’t ignore community guidelines—read and follow them.",
+                "Help triage issues and support new contributors."
             ],
             "level_4": [
-                "Never assume requirements are static—plan for change.",
-                "Balance thoroughness with flexibility in process design."
+                "Document processes and encourage knowledge sharing.",
+                "Foster a welcoming and inclusive community culture."
             ]
         }
     }
