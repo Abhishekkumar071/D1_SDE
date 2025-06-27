@@ -1,0 +1,131 @@
+{
+  "source": "Public newsletters – GitHub Changelog & Reviewable Insights",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source5_Newsletter",
+  "newsletters": [
+    { "name": "GitHub Changelog", "platform": "GitHub Blog" },
+    { "name": "Reviewable Insights Digest", "platform": "Reviewable.io" }
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "These newsletters explain why peer reviews are crucial for code quality.",
+        "They teach beginners that early feedback helps catch common mistakes."
+      ],
+      "level_2": [
+        "They show how to use code review platforms and leave precise comments.",
+        "Explain the 'compliment-suggestion' feedback model."
+      ],
+      "level_3": [
+        "Detail how to create and use custom review checklists for consistency.",
+        "Share advice on reviewing large changes by splitting into smaller PRs."
+      ],
+      "level_4": [
+        "Talk about measuring review outcomes through defect escape rates.",
+        "Discuss building an organizational review culture with mentoring and retros."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Spotting missing semicolons or typos in a pull request.",
+        "Adding a short positive comment to appreciate effort."
+      ],
+      "level_2": [
+        "Pointing out a better variable name or code style issue.",
+        "Suggesting a unit test for a new method."
+      ],
+      "level_3": [
+        "Recommending splitting a large refactor into smaller commits.",
+        "Adding edge-case tests based on code logic."
+      ],
+      "level_4": [
+        "Setting up periodic peer-review clinics and tracking improvements.",
+        "Creating internal docs or guides based on common review feedback."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "New developers learn formatting and small code standards."
+      ],
+      "level_2": [
+        "Juniors apply checklist feedback to improve their own code."
+      ],
+      "level_3": [
+        "Mid-level devs mentor peers using review tools and tracked comments."
+      ],
+      "level_4": [
+        "Tech leads define review best-practice playbooks and measure impact."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Is this change correct or broken?"
+      ],
+      "level_2": [
+        "Ask: Will it handle unexpected inputs or edge cases?"
+      ],
+      "level_3": [
+        "Ask: Does this follow style, architecture, and patterns?"
+      ],
+      "level_4": [
+        "Ask: How will this affect maintainability and team understanding?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Missed typos or simple syntax errors."
+      ],
+      "level_2": [
+        "Poor naming or unclear logic in PR."
+      ],
+      "level_3": [
+        "Lack of tests or missing error handling."
+      ],
+      "level_4": [
+        "Ignoring long-term impacts like tech debt."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why are peer reviews helpful?"
+      ],
+      "level_2": [
+        "What is the compliment-suggestion model?"
+      ],
+      "level_3": [
+        "Why use checklists for reviews?"
+      ],
+      "level_4": [
+        "How do you measure review effectiveness?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a friend’s PR and leave one positive and one corrective comment."
+      ],
+      "level_2": [
+        "Use a simple checklist to review a medium-sized change."
+      ],
+      "level_3": [
+        "Draft a review guide or template for your study group."
+      ],
+      "level_4": [
+        "Host a peer-review workshop and gather feedback statistics."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t only point out errors—appreciate good code too."
+      ],
+      "level_2": [
+        "Avoid vague feedback—make it specific and actionable."
+      ],
+      "level_3": [
+        "Don’t ignore edge cases—mention missing tests or conditions."
+      ],
+      "level_4": [
+        "Avoid letting review feedback go untracked—ensure follow-through."
+      ]
+    }
+  }
+}
