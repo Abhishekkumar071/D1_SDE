@@ -1,0 +1,132 @@
+{
+  "source": "Public YouTube video – “The STAR Framework: Nail Your Interview” by Matt Susskind",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://www.youtube.com/watch?v=d2AnPgnCNZM",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "STAR helps you structure your answer in four clear parts.",
+        "You tell a Situation, explain the Task, describe your Action, and share the Result."
+      ],
+      "level_2": [
+        "Beginner interviewers can use STAR to avoid rambling or missing key details.",
+        "It helps keep your story focused and easy to follow."
+      ],
+      "level_3": [
+        "Use STAR to highlight skills like leadership, teamwork, or problem-solving.",
+        "You adapt each section based on the job you’re interviewing for."
+      ],
+      "level_4": [
+        "Experienced professionals use STAR to frame impact in metrics and outcomes.",
+        "They tie stories back to business goals and show measurable success."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Explaining a time you helped a friend fix code.",
+        "Describing how you met a deadline for a project at college."
+      ],
+      "level_2": [
+        "Talking about a time you solved a bug during your internship.",
+        "Describing how you learned a new tool to complete a task."
+      ],
+      "level_3": [
+        "Sharing a story on improving a feature that increased user satisfaction.",
+        "Describing leading a study group to help classmates succeed."
+      ],
+      "level_4": [
+        "Explaining when you led a project that delivered business results.",
+        "Sharing how you mentored others and improved team performance."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students use STAR in interviews for internships.",
+        "Newcomers use it for interview practice sessions."
+      ],
+      "level_2": [
+        "Juniors use STAR to explain task ownership during interviews.",
+        "They practice with STAR stories in mock interviews."
+      ],
+      "level_3": [
+        "Mid-level candidates use STAR to talk about project impact and challenges.",
+        "They include metrics and teamwork examples."
+      ],
+      "level_4": [
+        "Senior engineers use STAR to discuss leadership, system design initiatives, and stakeholder collaboration.",
+        "They frame stories around business metrics and strategic outcomes."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Identify a clear example with a beginning (Situation)."
+      ],
+      "level_2": [
+        "Define your role (Task) and the challenge you faced."
+      ],
+      "level_3": [
+        "Focus on your specific actions and thinking process."
+      ],
+      "level_4": [
+        "Connect results back to company goals and lessons learned."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Rambling answers without clarity."
+      ],
+      "level_2": [
+        "Skipping the 'Action' and focusing only on what happened."
+      ],
+      "level_3": [
+        "Forgetting to add measurable outcomes or impact."
+      ],
+      "level_4": [
+        "Using vague language without business relevance."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What does STAR stand for?"
+      ],
+      "level_2": [
+        "Why is structure important in behavioral answers?"
+      ],
+      "level_3": [
+        "How can you include metrics in your STAR story?"
+      ],
+      "level_4": [
+        "How do senior-level stories differ in framing and impact?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a STAR answer for 'Tell me about a time you fixed something.'"
+      ],
+      "level_2": [
+        "Create STAR stories for teamwork and problem-solving."
+      ],
+      "level_3": [
+        "Draft a STAR story that includes metrics and challenges."
+      ],
+      "level_4": [
+        "Prepare a portfolio of STAR stories showing leadership, innovation, and impact."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't skip any part of the STAR frame."
+      ],
+      "level_2": [
+        "Avoid vague situations — be specific."
+      ],
+      "level_3": [
+        "Don't forget measurable results."
+      ],
+      "level_4": [
+        "Avoid storytelling that lacks business alignment."
+      ]
+    }
+  }
+}
