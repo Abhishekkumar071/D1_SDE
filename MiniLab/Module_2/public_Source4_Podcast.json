@@ -1,0 +1,129 @@
+{
+  "source": "Public Podcast – The ReadME Podcast: “More than meets the pull request”",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source4_Podcast",
+  "episode": "More than meets the pull request: maintainers talk contributions",
+  "url": "https://github.blog/open-source/maintainers/more-than-meets-the-pull-request-maintainers-talk-contributions/",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This episode dives into how maintainers manage open-source contributions effectively.",
+        "It explains the basic etiquette: be polite, follow guidelines, and respect maintainers’ time."
+      ],
+      "level_2": [
+        "Maintainers advise reading CONTRIBUTING.md and issue templates before starting work.",
+        "It's important to open clear, well-described issues instead of random questions."
+      ],
+      "level_3": [
+        "They discuss handling community dynamics—when to enforce rules or be flexible.",
+        "Maintainers recommend good first issues for newcomers to build trust."
+      ],
+      "level_4": [
+        "Advanced etiquette includes mentoring, managing community norms, and scaling contributions.",
+        "Senior maintainers share strategies for balancing openness and project quality."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Submitting a typo fix after reading project guidelines.",
+        "Tagging your PR as 'good first issue' when you're new."
+      ],
+      "level_2": [
+        "Reporting a bug with clear steps and attaching logs/screenshots.",
+        "Asking maintainers for context before starting big work."
+      ],
+      "level_3": [
+        "Maintainers triaging PRs, labeling them, and inviting review.",
+        "Organizing contribution sprints to onboard newcomers."
+      ],
+      "level_4": [
+        "Leading community events like hacktoberfest or mentor programs.",
+        "Setting up policies for code-of-conduct and issue escalation."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns submit small docs fixes to get started."
+      ],
+      "level_2": [
+        "Teams use CONTRIBUTING.md as onboarding docs for external contributors."
+      ],
+      "level_3": [
+        "Maintainers use community forums to guide contributor growth."
+      ],
+      "level_4": [
+        "Open-source leaders design contributor-friendly governance systems."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: What does the project want from me?"
+      ],
+      "level_2": [
+        "Check: Does my issue follow the template?"
+      ],
+      "level_3": [
+        "Plan: How will maintainers review my PR efficiently?"
+      ],
+      "level_4": [
+        "Build: How can I contribute to project standards and community?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Submitting PRs without reading guidelines."
+      ],
+      "level_2": [
+        "Creating issues without clear repro steps."
+      ],
+      "level_3": [
+        "Ignoring review feedback and repeating mistakes."
+      ],
+      "level_4": [
+        "Enforcing rules too strictly and discouraging contributions."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why read CONTRIBUTING.md before contributing?"
+      ],
+      "level_2": [
+        "What makes a good issue report?"
+      ],
+      "level_3": [
+        "How should maintainers triage PRs?"
+      ],
+      "level_4": [
+        "How to balance openness and code quality?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Submit a docs fix PR to an open-source repo."
+      ],
+      "level_2": [
+        "Report a bug with steps in a repo’s issue tracker."
+      ],
+      "level_3": [
+        "Help triage issues or review a beginner PR."
+      ],
+      "level_4": [
+        "Organize a mini open-source sprint or contribution day."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip the contribution guidelines."
+      ],
+      "level_2": [
+        "Avoid vague or one-line issue descriptions."
+      ],
+      "level_3": [
+        "Don’t ignore feedback—respond respectfully."
+      ],
+      "level_4": [
+        "Don’t close community without explaining decisions."
+      ]
+    }
+  }
+}
