@@ -1,0 +1,127 @@
+{
+  "source": "Public Research Papers – IEEE & ACM papers on algorithmic patterns and optimization",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source7_ResearchPaper",
+  "papers": [
+    "Algorithmic Patterns in Modern Coding Interviews – IEEE (2023)",
+    "Performance Improvement using Sliding Window and Hashing – ACM (2022)"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "These papers show that coding patterns help solve problems faster than brute force.",
+        "They explain simple patterns like two pointers and sliding window as common examples."
+      ],
+      "level_2": [
+        "They discuss why pattern recognition reduces time complexity from O(n²) to O(n).",
+        "Provides step-by-step breakdowns of sliding window and hashing methods."
+      ],
+      "level_3": [
+        "Includes comparisons between pattern approaches in different languages and platforms.",
+        "Shows how combining patterns reduces memory use and increases speed."
+      ],
+      "level_4": [
+        "Discusses scaling patterns for parallel or distributed computing.",
+        "Examines when certain patterns fail under heavy load or concurrency."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using two pointers to search pairs in a sorted list quickly."
+      ],
+      "level_2": [
+        "Applying sliding window to detect spikes in server request logs."
+      ],
+      "level_3": [
+        "Combining hashing with windowing to check substring anagrams efficiently."
+      ],
+      "level_4": [
+        "Optimizing resource allocation in distributed systems using these algorithmic patterns."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Entry-level devs use patterns for coding tests and interviews."
+      ],
+      "level_2": [
+        "Backend teams use hashing and windows for session and cache tracking."
+      ],
+      "level_3": [
+        "Data engineers apply graph patterns for ETL and analytics jobs."
+      ],
+      "level_4": [
+        "System architects implement pattern-based optimizations in microservices and stream processing."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Can I avoid nested loops with a pointer method?"
+      ],
+      "level_2": [
+        "Consider: Is there a sliding window that fits this data flow?"
+      ],
+      "level_3": [
+        "Plan: Should I combine hashing and windowing to save memory?"
+      ],
+      "level_4": [
+        "Evaluate: Will this scaled pattern work across distributed nodes?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Brute-force loops over large input sizes."
+      ],
+      "level_2": [
+        "Windows that miss start or end edge cases."
+      ],
+      "level_3": [
+        "Hash collisions not handled in anagram checks."
+      ],
+      "level_4": [
+        "Pattern use causes contention in parallel systems."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is the time complexity of a sliding window?"
+      ],
+      "level_2": [
+        "Why does hashing help speed substring search?"
+      ],
+      "level_3": [
+        "How do sliding window and hashing work together efficiently?"
+      ],
+      "level_4": [
+        "When do pattern optimizations break in distributed architectures?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Implement sliding-window max subarray sum."
+      ],
+      "level_2": [
+        "Write substring search using sliding window + hashing."
+      ],
+      "level_3": [
+        "Compare performance across languages or libraries."
+      ],
+      "level_4": [
+        "Build a microservice that uses window-based logic for throttling."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t use brute force when data is large."
+      ],
+      "level_2": [
+        "Handle edge cases like empty or single-element arrays."
+      ],
+      "level_3": [
+        "Avoid hash collision errors—use robust hash functions."
+      ],
+      "level_4": [
+        "Test pattern implementations under concurrency or distributed scenarios."
+      ]
+    }
+  }
+}
