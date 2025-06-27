@@ -1,0 +1,128 @@
+{
+  "source": "Public YouTube video – “LeetCode Was HARD until I Learned these 15 Patterns”",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://www.youtube.com/watch?v=DjYZk8nrXVY",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This video introduces 15 common LeetCode patterns to solve many coding problems.",
+        "Patterns like sliding window or two pointers help beginners recognize solutions faster."
+      ],
+      "level_2": [
+        "It explains how identifying patterns cuts down solution time in contests.",
+        "Shows simple array examples using hash maps and two pointers effectively."
+      ],
+      "level_3": [
+        "It dives deeper into when to switch between patterns based on constraints.",
+        "Highlights edge-case handling and pattern optimizations for mid-level DSA."
+      ],
+      "level_4": [
+        "Discusses scaling these patterns for large inputs and production-level systems.",
+        "Explains how these algorithmic patterns form the base of system design logic."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using two pointers to find pairs adding to target in sorted arrays.",
+        "Sliding window to find max sum subarray of fixed size."
+      ],
+      "level_2": [
+        "Applying hash map pattern to count frequencies in string problems.",
+        "Depth-first search pattern for simple tree traversals."
+      ],
+      "level_3": [
+        "Combining two-pointer and hashing to optimize subarray uniqueness problems.",
+        "Pattern switching: DFS to BFS based on tree depth and breadth trade-offs."
+      ],
+      "level_4": [
+        "Streaming data: sliding window meets two-pointer in live data scenarios.",
+        "Real-time analytics pipelines use pattern logic for chunked processing."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs use patterns to debug algorithmic code."
+      ],
+      "level_2": [
+        "Mid-level devs apply patterns in feature implementation for performance."
+      ],
+      "level_3": [
+        "Senior engineers combine patterns for complex data workflows."
+      ],
+      "level_4": [
+        "Staff-level devs design scalable systems using pattern logic."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Recognize the shape of the problem: is it array, tree, or graph?"
+      ],
+      "level_2": [
+        "Map the problem structure to a known pattern."
+      ],
+      "level_3": [
+        "Decide if combining patterns will yield better performance."
+      ],
+      "level_4": [
+        "Think how pattern choices affect architecture and scale."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Missing simple pattern hints in problem statement."
+      ],
+      "level_2": [
+        "Using wrong pattern leading to inefficient solution."
+      ],
+      "level_3": [
+        "Applying pattern without handling edge cases."
+      ],
+      "level_4": [
+        "Over-optimizing pattern usage for small-scale problems."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name one common coding pattern."
+      ],
+      "level_2": [
+        "Why is sliding window useful?"
+      ],
+      "level_3": [
+        "When should you switch from DFS to BFS?"
+      ],
+      "level_4": [
+        "How would you apply these patterns in system design?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write two-pointer code to find target sum in an array."
+      ],
+      "level_2": [
+        "Solve a sliding window problem for max average subarray."
+      ],
+      "level_3": [
+        "Combine patterns to solve a real mid-complexity LeetCode problem."
+      ],
+      "level_4": [
+        "Design a small data pipeline using pattern-based chunk processing."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t ignore basic patterns — they solve most problems."
+      ],
+      "level_2": [
+        "Avoid wrong pattern choices — analyze first."
+      ],
+      "level_3": [
+        "Handle boundary conditions explicitly."
+      ],
+      "level_4": [
+        "Don’t assume patterns scale — test on large data or production-like cases."
+      ]
+    }
+  }
+}
