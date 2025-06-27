@@ -1,0 +1,129 @@
+{
+  "source": "Public Podcast — Software Engineering Daily",
+  "module": "Module 0: Designation Deep Dive (SDE Overview)",
+  "file_type": "public_Source4_Podcast",
+  "episode": "The Career Path of a Software Engineer",
+  "url": "https://softwareengineeringdaily.com/2025/01/15/the-career-path-of-a-software-engineer/",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Software engineers write code, fix bugs, and build software to solve problems.",
+        "Many start as junior devs and grow over time into senior roles."
+      ],
+      "level_2": [
+        "At SDE‑1, you focus on tasks assigned by seniors, learn code structure and team workflow.",
+        "You gradually start contributing to real features and writing tests."
+      ],
+      "level_3": [
+        "At SDE‑2/SDE‑3, engineers design parts of the system, mentor juniors, and improve architecture.",
+        "They lead technical discussions and refactor existing modules."
+      ],
+      "level_4": [
+        "Senior engineers shape system strategy, lead design decisions, and influence cross-team initiatives.",
+        "They mentor across levels and connect code to business goals."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Fixing simple bugs in a web app under guidance.",
+        "Writing unit tests and small features."
+      ],
+      "level_2": [
+        "Developing features end‑to‑end in microservices.",
+        "Collaborating with UX and QA teams."
+      ],
+      "level_3": [
+        "Architecting a scalable logging system used by multiple services.",
+        "Overseeing code reviews and maintaining quality."
+      ],
+      "level_4": [
+        "Designing API contracts across teams.",
+        "Setting team engineering standards and improving reliability."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior engineers onboarded with small tickets and mentorship."
+      ],
+      "level_2": [
+        "Mid-level engineers accountable for feature delivery and testing."
+      ],
+      "level_3": [
+        "Senior devs optimize performance and architecture."
+      ],
+      "level_4": [
+        "Staff engineers lead cross-team design initiatives."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "What task am I working on, and how do I complete it?"
+      ],
+      "level_2": [
+        "How do I make this feature reliable and testable?"
+      ],
+      "level_3": [
+        "What design choices improve system maintainability?"
+      ],
+      "level_4": [
+        "How does this decision support long-term goals and team alignment?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Syntax or logical errors in code."
+      ],
+      "level_2": [
+        "Edge‑case issues or integration bugs."
+      ],
+      "level_3": [
+        "Scaling problems or code architecture mismatches."
+      ],
+      "level_4": [
+        "Cross-system reliability issues or long-term scalability gaps."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is the role of a junior software engineer?"
+      ],
+      "level_2": [
+        "Why is writing tests important?"
+      ],
+      "level_3": [
+        "What are architectural trade-offs in system design?"
+      ],
+      "level_4": [
+        "How do senior engineers influence business strategy through code?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Fix a small bug and add a relevant test case."
+      ],
+      "level_2": [
+        "Build a feature end‑to‑end with automated tests."
+      ],
+      "level_3": [
+        "Refactor a component to improve reliability."
+      ],
+      "level_4": [
+        "Design a cross-team API and document its use."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t start coding without understanding requirements."
+      ],
+      "level_2": [
+        "Avoid skipping tests — they catch edge cases early."
+      ],
+      "level_3": [
+        "Don’t ignore performance issues until they become serious."
+      ],
+      "level_4": [
+        "Avoid architecture decisions without team alignment."
+      ]
+    }
+  }
+}
