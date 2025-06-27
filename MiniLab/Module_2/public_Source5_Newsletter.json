@@ -1,0 +1,147 @@
+{
+  "source": "Public newsletter – GitHub Changelog & Open Source Insights",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source5_Newsletter",
+  "newsletter": {
+    "name": "GitHub Changelog & Open Source Insights",
+    "platform": "GitHub Blog / Newsletter"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This newsletter highlights how contributors can start with simple changes like typo fixes.",
+        "It explains basic etiquette such as following contribution templates and writing clear commit messages."
+      ],
+      "level_2": [
+        "It teaches contributors how to create feature branches and work on pull requests properly.",
+        "Provides guidance on writing descriptive PR titles and linking issues when submitting your work."
+      ],
+      "level_3": [
+        "Discusses best practices on responding to code-review feedback in a collaborative and professional tone.",
+        "Explains fork-workflow vs branch-direct approaches and when to use each."
+      ],
+      "level_4": [
+        "Explores guidelines on becoming a repeat contributor and maintaining contributor reputation.",
+        "Advises on writing detailed issue reports with reproduction steps, logs, and tests to improve maintainability."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Correcting a typo in README to learn the PR workflow.",
+        "Submitting small docs updates using the ‘good first issue’ tag."
+      ],
+      "level_2": [
+        "Opening a PR to add a helper function or small feature.",
+        "Linking your PR to a tagged issue and adding explanations in the description."
+      ],
+      "level_3": [
+        "Actively participating in code review, suggesting tests or refactors.",
+        "Labeling pull requests, tagging reviewers, and closing issues when merged."
+      ],
+      "level_4": [
+        "Creating contribution guidelines and templates in your own project.",
+        "Organizing review days, mentoring new contributors, and tracking issues as a maintainer."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Beginners learn GitHub flow using newsletters as guides.",
+        "They follow step-by-step etiquette shared in open source posts."
+      ],
+      "level_2": [
+        "Teams adopt PR etiquette instructions—like commit message conventions—from official project newsletters.",
+        "Developers apply those rules daily when working on internal or public repos."
+      ],
+      "level_3": [
+        "Open-source maintainers set up contribution guidelines and automated checks using newsletter insights.",
+        "They track contributor progress and engagement over time."
+      ],
+      "level_4": [
+        "Tech leads build community reputation systems, recognizing frequent and high-quality contributions.",
+        "Companies publish open-source playbooks based on newsletter best practices."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think: How can I make a small fix to contribute safely?"
+      ],
+      "level_2": [
+        "Ask: Does my PR include a clear description and link to an issue?"
+      ],
+      "level_3": [
+        "Plan: How will I respond to feedback and iterate professionally?"
+      ],
+      "level_4": [
+        "Strategize: How can I scale contributions and mentor others effectively?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Submitting changes without using a branch.",
+        "PRs with no description or unclear changes."
+      ],
+      "level_2": [
+        "Including irrelevant files or formatting errors in commits.",
+        "Not linking PRs to issues or templates."
+      ],
+      "level_3": [
+        "Ignoring review comments or failing to update PRs.",
+        "Misusing fork vs branch flow and causing conflicts."
+      ],
+      "level_4": [
+        "Maintaining low-quality contribution guidelines or failing to onboard new devs.",
+        "Allowing unreviewed or untested code into main branches."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why should you use branches for PRs?",
+        "Name one thing to include in commit messages."
+      ],
+      "level_2": [
+        "What is the purpose of linking PRs to issues?",
+        "What etiquette is taught by naming your branch properly?"
+      ],
+      "level_3": [
+        "How should you reply to PR reviews?",
+        "Why follow fork-based contribution over direct branches sometimes?"
+      ],
+      "level_4": [
+        "What creates a strong open-source contributor profile?",
+        "How do contribution templates improve community collaboration?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Fork a repo and fix a typo in its docs."
+      ],
+      "level_2": [
+        "Create a feature branch, add a comment or helper function, and open a PR."
+      ],
+      "level_3": [
+        "Report an issue with a screenshot, steps, and a demo link in a repo."
+      ],
+      "level_4": [
+        "Add PR and issue templates to any repo and guide first-time contributors."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't skip reading CONTRIBUTING.md before you start.",
+        "Avoid submitting PRs without a clear title or description."
+      ],
+      "level_2": [
+        "Use clean commit messages — no ‘fix stuff’ or ‘bug’ only.",
+        "Avoid including unrelated formatting or style changes."
+      ],
+      "level_3": [
+        "Respond to review comments respectfully and iterate quickly.",
+        "Avoid bypassing the review process by forcing merges."
+      ],
+      "level_4": [
+        "Don't let PR templates collect dust — keep them updated as code evolves.",
+        "Avoid turning contribution into a bottleneck—provide mentorship and clarity."
+      ]
+    }
+  }
+}
