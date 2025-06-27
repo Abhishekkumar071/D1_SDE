@@ -1,0 +1,131 @@
+{
+  "source": "Public newsletter – DesignGurus Grokking the Coding Interview Patterns",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source5_Newsletter",
+  "newsletter": {
+    "name": "DesignGurus – Grokking the Coding Interview Patterns",
+    "platform": "DesignGurus.io"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Newsletters introduce common algorithm patterns like sliding window, two pointers, and DFS.",
+        "They explain how each pattern covers a set of coding problems."
+      ],
+      "level_2": [
+        "Examples show how patterns match problem types (e.g., two pointers for sum matching).",
+        "Readers learn practical code solutions step-by-step."
+      ],
+      "level_3": [
+        "Advanced issues include pattern variations: variable window, bi-directional pointers.",
+        "They compare pattern efficiency in different scenarios."
+      ],
+      "level_4": [
+        "Deep dives show how patterns integrate into scalable system logic.",
+        "Senior articles discuss using patterns in data pipelines and distributed services."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using two pointers to detect duplicates in sorted lists.",
+        "Applying sliding window for average computation."
+      ],
+      "level_2": [
+        "Using hash-pattern for frequency-based string problems.",
+        "Applying DFS for tree traversal challenges."
+      ],
+      "level_3": [
+        "Combining hashing with sliding window for substring problems.",
+        "Using two-pointer combined with sorting for pair sum."
+      ],
+      "level_4": [
+        "Pattern use in real-time data processing systems.",
+        "Pattern-based logic in backend search services."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs practice patterns for coding interview prep."
+      ],
+      "level_2": [
+        "Mid-level devs apply patterns in project feature development."
+      ],
+      "level_3": [
+        "Senior engineers use pattern combos for performance-critical modules."
+      ],
+      "level_4": [
+        "Tech leads architect systems using pattern-based algorithms."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Identify the problem structure and choose a matching pattern."
+      ],
+      "level_2": [
+        "Match constraints (size/time) with appropriate pattern."
+      ],
+      "level_3": [
+        "Consider combining patterns to solve complex cases."
+      ],
+      "level_4": [
+        "Scale pattern logic into system-level design."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing which pattern applies to a problem."
+      ],
+      "level_2": [
+        "Misusing patterns and getting inefficient code."
+      ],
+      "level_3": [
+        "Combining patterns without handling all edge cases."
+      ],
+      "level_4": [
+        "Applying interview patterns directly in production without optimization."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Name one common coding pattern."
+      ],
+      "level_2": [
+        "When would you use sliding window?"
+      ],
+      "level_3": [
+        "How can you combine two patterns for efficiency?"
+      ],
+      "level_4": [
+        "How do coding patterns scale to system-level logic?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Implement two-pointer solution to find a target sum."
+      ],
+      "level_2": [
+        "Write code using sliding window for max subarray sum."
+      ],
+      "level_3": [
+        "Solve a medium LeetCode problem using pattern combination."
+      ],
+      "level_4": [
+        "Design a pipeline that uses windowing logic on a data feed."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip learning basic patterns."
+      ],
+      "level_2": [
+        "Avoid selecting patterns without analysing constraints."
+      ],
+      "level_3": [
+        "Handle edge cases after implementing patterns."
+      ],
+      "level_4": [
+        "Don’t over-engineer patterns in simple use-cases."
+      ]
+    }
+  }
+}
