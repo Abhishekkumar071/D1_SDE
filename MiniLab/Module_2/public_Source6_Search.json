@@ -1,0 +1,128 @@
+{
+  "source": "Public Search – GitHub Docs, Atlassian Tutorials, DEV.to articles",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source6_Search",
+  "links": [
+    "https://docs.github.com/en/get-started/quickstart/contributing-to-projects",
+    "https://www.atlassian.com/git/tutorials/comparing-workflows",
+    "https://dev.to/opensource/open-source-etiquette-guide"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "GitHub is a platform where people collaborate on code together.",
+        "Beginners learn how to make simple pull requests and fix small issues."
+      ],
+      "level_2": [
+        "Articles explain the branch–PR workflow vs forking a repo you don’t own.",
+        "You see how to read instructions in CONTRIBUTING.md before starting."
+      ],
+      "level_3": [
+        "Search guides show etiquette: write clear commit messages and use PR templates.",
+        "They explain how to respond to review comments professionally."
+      ],
+      "level_4": [
+        "Advanced sections discuss building reputation by fixing bugs and reviewing others.",
+        "They share how to manage labels, run community events, and maintain review consistency."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Fixing a typo in a README and sending a pull request."
+      ],
+      "level_2": [
+        "Forking a repo, making changes in a branch, and opening a PR."
+      ],
+      "level_3": [
+        "Using PR templates and assigning reviewers before submitting."
+      ],
+      "level_4": [
+        "Leading an open-source contribution day and guiding multiple contributors."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns help tidy up documentation or comment code in projects."
+      ],
+      "level_2": [
+        "Junior devs follow PR workflows to submit features or fixes."
+      ],
+      "level_3": [
+        "Mid-level devs review others' code, enforce guidelines, and merge."
+      ],
+      "level_4": [
+        "Tech leads set up community governance, review metrics, and contributor recognition."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Have I forked the repo and created a branch?"
+      ],
+      "level_2": [
+        "Ask: Does my PR follow naming and description guidelines?"
+      ],
+      "level_3": [
+        "Ask: Did I address all review comments and update tests?"
+      ],
+      "level_4": [
+        "Ask: Can this workflow scale across many contributors?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Trying to commit directly to main instead of working on a branch."
+      ],
+      "level_2": [
+        "Submitting PR without clear title or description."
+      ],
+      "level_3": [
+        "Ignoring review feedback and pushing outdated code."
+      ],
+      "level_4": [
+        "No review process in place—leading to inconsistent quality."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a pull request?"
+      ],
+      "level_2": [
+        "Why should you fork a project you don’t own?"
+      ],
+      "level_3": [
+        "How do you properly respond to feedback in a PR?"
+      ],
+      "level_4": [
+        "What should a review process include to scale well?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Fix a typo in a public repo’s README via PR."
+      ],
+      "level_2": [
+        "Fork a project and create a feature branch with changes."
+      ],
+      "level_3": [
+        "Use a PR template and tag reviewers in your PR."
+      ],
+      "level_4": [
+        "Organize a mini open-source sprint and guide PR reviews."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t push directly to the main branch."
+      ],
+      "level_2": [
+        "Avoid vague commit messages like ‘fix issue’—be specific."
+      ],
+      "level_3": [
+        "Always address review comments, even minor ones."
+      ],
+      "level_4": [
+        "Set up review checklists and event schedules for consistency."
+      ]
+    }
+  }
+}
