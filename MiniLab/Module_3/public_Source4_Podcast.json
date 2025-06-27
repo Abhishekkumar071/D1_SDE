@@ -1,0 +1,129 @@
+{
+  "source": "Public Podcast – Strategy Simplified",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source4_Podcast",
+  "episode": "S7E25: STAR Method Interview Questions and Answers",
+  "url": "https://podcasts.apple.com/podcast/s7e25-star-method-interview-questions-and-answers/id1509069589?i=1000571325485",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This episode explains the four parts of STAR—Situation, Task, Action, Result—to help structure behavioral answers.",
+        "It teaches beginners why interviewing with a clear story helps avoid rambling."
+      ],
+      "level_2": [
+        "Explains how STAR keeps each answer focused, complete, and relevant to the question.",
+        "Discusses the importance of briefly describing each part without going off track."
+      ],
+      "level_3": [
+        "Suggests integrating metrics and outcomes to make STAR stories stronger.",
+        "It shows mid-level candidates how to add depth by reflecting on challenges and learning."
+      ],
+      "level_4": [
+        "Discusses advanced tips like linking each STAR story back to business or role impact.",
+        "Listeners learn to polish stories to highlight leadership and strategic thinking."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Describing how you met a project deadline in college.",
+        "Explaining how you fixed a minor bug during an internship."
+      ],
+      "level_2": [
+        "Talking about learning a new tool to solve a problem quickly.",
+        "Describing how you worked in a team to complete a task."
+      ],
+      "level_3": [
+        "Sharing a story about improving a feature that boosted team efficiency.",
+        "Explaining leading a small project with outlined steps and results."
+      ],
+      "level_4": [
+        "Describing how you mentored juniors, resulting in measurable team improvements.",
+        "Talking about resolving a cross-functional conflict with successful project delivery."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students use STAR answers to stand out in internship interviews."
+      ],
+      "level_2": [
+        "Junior devs prepare STAR stories to show ownership and problem solving."
+      ],
+      "level_3": [
+        "Mid-level engineers measure impact and reflect on project outcomes using STAR."
+      ],
+      "level_4": [
+        "Senior candidates articulate leadership and strategic contributions through STAR."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: What situation am I talking about?"
+      ],
+      "level_2": [
+        "Ask: What exactly was my role and responsibility?"
+      ],
+      "level_3": [
+        "Ask: What specific actions did *I* take?"
+      ],
+      "level_4": [
+        "Ask: How did this affect the project or business results?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Giving answers without structure."
+      ],
+      "level_2": [
+        "Focusing only on situation and task—skipping results/metrics."
+      ],
+      "level_3": [
+        "Not linking actions to outcomes or learning."
+      ],
+      "level_4": [
+        "STAR stories lacking strategic context or business value."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What does STAR stand for?"
+      ],
+      "level_2": [
+        "Why should you include 'Action' in your answer?"
+      ],
+      "level_3": [
+        "How can STAR improve your interview reputation?"
+      ],
+      "level_4": [
+        "How do you link STAR stories to business impact?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a STAR answer for solving a group study challenge."
+      ],
+      "level_2": [
+        "Prepare STAR stories for teamwork and problem-solving anecdotes."
+      ],
+      "level_3": [
+        "Draft a STAR answer that includes metrics like time saved or errors reduced."
+      ],
+      "level_4": [
+        "Create a portfolio of STAR stories showing leadership, strategy, and impact."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip components—Situation, Task, Action, Result."
+      ],
+      "level_2": [
+        "Avoid vague tasks—be specific about your role."
+      ],
+      "level_3": [
+        "Don’t forget the result or growth you achieved."
+      ],
+      "level_4": [
+        "Avoid STAR stories without measurable or business outcomes."
+      ]
+    }
+  }
+}
