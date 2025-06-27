@@ -1,0 +1,129 @@
+{
+  "source": "Public Podcast – Tech Career Talks: “Planning Your Engineer Career Path”",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source4_Podcast",
+  "episode": "Career Blueprint for Software Engineers",
+  "url": "https://open.spotify.com/episode/tech-career-blueprint",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This episode explains why mapping your career as an engineer matters early on.",
+        "It introduces the idea of short-term goals (intern, junior dev) and bigger goals (senior, lead)."
+      ],
+      "level_2": [
+        "Hosts highlight defining milestones like mastering a language or building a project before a year ends.",
+        "They suggest picking roles that align with your interests—like mobile, backend, or ML."
+      ],
+      "level_3": [
+        "Speakers describe designing a multi-year roadmap including tech skills, soft skills, and leadership development.",
+        "They discuss pivoting roles — e.g. transitioning from frontend to full-stack or backend."
+      ],
+      "level_4": [
+        "Leads talk about aligning personal roadmaps with company goals and evolving industry trends like microservices or edge computing.",
+        "They discuss mentoring others and creating team-wide career templates."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "A student chooses a summer internship in web development to gain relevant experience.",
+        "A beginner draws a timeline marking language learning and small app builds."
+      ],
+      "level_2": [
+        "A junior dev sets a 6-month project goal like deploying a live app on cloud.",
+        "They track monthly progress and adjust if needed."
+      ],
+      "level_3": [
+        "A mid-level engineer plans a 2-year path to become a tech lead or system architect.",
+        "They include mentorship, open-source contributions, and certifications."
+      ],
+      "level_4": [
+        "A senior maps a team-building roadmap, identifying team skills gaps and planning workshops.",
+        "They create career progression tracks for their direct reports."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Interns follow roadmaps during onboarding programs."
+      ],
+      "level_2": [
+        "Companies encourage juniors to set quarterly goals with their managers."
+      ],
+      "level_3": [
+        "Mid-level devs develop personal growth plans tied to performance reviews."
+      ],
+      "level_4": [
+        "Leaders design department-wide career frameworks aligned to business objectives."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Where do I see myself in 6 months?"
+      ],
+      "level_2": [
+        "Plan: What project or tool will help me reach that role?"
+      ],
+      "level_3": [
+        "Evaluate: Is this roadmap achievable and flexible?"
+      ],
+      "level_4": [
+        "Align: Does this plan match company strategy and technology trends?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not planning anything and getting lost."
+      ],
+      "level_2": [
+        "Setting unrealistic timelines without concrete steps."
+      ],
+      "level_3": [
+        "Ignoring feedback from mentors or peers on roadmap ideas."
+      ],
+      "level_4": [
+        "Sticking to a plan that no longer fits industry or team direction."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a career roadmap?"
+      ],
+      "level_2": [
+        "Name one milestone you can set for year one."
+      ],
+      "level_3": [
+        "Why include mentorship in a mid-career plan?"
+      ],
+      "level_4": [
+        "How do you align your roadmap with business goals?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Draw your 6-month learning roadmap."
+      ],
+      "level_2": [
+        "Write a project plan to launch an app this quarter."
+      ],
+      "level_3": [
+        "Draft a 2-year career growth plan including leadership goals."
+      ],
+      "level_4": [
+        "Design a career framework for your team or study group."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip planning—start with a small goal."
+      ],
+      "level_2": [
+        "Avoid vague plans like 'get better at coding'."
+      ],
+      "level_3": [
+        "Never ignore feedback—review your roadmap regularly."
+      ],
+      "level_4": [
+        "Avoid fixed plans—update based on team and industry changes."
+      ]
+    }
+  }
+}
