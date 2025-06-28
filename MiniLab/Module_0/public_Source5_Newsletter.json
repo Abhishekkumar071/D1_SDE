@@ -1,131 +1,183 @@
 {
-  "source": "Public Newsletters for software engineers",
-  "module": "Module 0: Designation Deep Dive (SDE Overview)",
-  "file_type": "public_Source5_Newsletter",
-  "newsletters": [
-    {"name": "The Pragmatic Engineer", "platform": "Substack"},
-    {"name": "Big Tech Digest", "platform": "Substack"}
+  "designation": "SDE",
+  "lab": "Career Readiness & Personal Strategy",
+  "module_id": "designation-deep-dive",
+  "module_title": "Module 0: Designation Deep Dive (SDE Overview)",
+  "difficulty": "Beginner to Expert",
+  "last_updated": "2025-06-28",
+  "tags": [
+    "sde",
+    "career",
+    "roadmap",
+    "growth",
+    "newsletter"
   ],
+  "review_status": "draft",
+  "source": "public-newsletter",
   "segments": {
     "introduction": {
-      "level_1": [
-        "Newsletters like The Pragmatic Engineer share stories about engineering career growth.",
-        "Big Tech Digest overviews software engineering roles across different companies."
-      ],
-      "level_2": [
-        "They explain how SDE roles differ at junior vs senior levels.",
-        "They describe what skills are needed at each stage."
-      ],
-      "level_3": [
-        "Newsletters often include real examples: 'SDE-1 writes tests, SDE-2 reviews them, SDE-3 owns modules.'",
-        "They highlight role transitions and promotions."
-      ],
-      "level_4": [
-        "Senior-focused articles dive into engineering leadership responsibilities.",
-        "They discuss how senior engineers align architecture and company goals."
-      ]
+      "level_1": "An SDE (Software Development Engineer) is someone who writes code to build apps, websites, and systems. It starts with learning basics and grows into solving bigger challenges.",
+      "level_2": "A clear roadmap helps you understand roles like SDE I, SDE II, and Senior SDE. Each level needs technical and soft skills to move ahead.",
+      "level_3": "Mid-level engineers handle feature ownership, reviews, and mentor juniors. Growth needs planning and feedback.",
+      "level_4": "Senior engineers align code with business goals, handle architecture, and drive the team’s success."
     },
-    "realWorldUseCases": {
-      "level_1": [
-        "Reading newsletter summaries to understand daily SDE tasks.",
-        "Learning about career paths from junior to senior."
-      ],
-      "level_2": [
-        "Applying tips like writing tests or mentoring juniors based on content.",
-        "Mapping your growth milestones with career-level checklists."
-      ],
-      "level_3": [
-        "Using newsletter case studies to shape your learning plan.",
-        "Comparing company-level career tracks."
-      ],
-      "level_4": [
-        "Applying leadership guidance to align projects with company roadmap.",
-        "Using newsletters to prepare for cross-team SDE functions."
-      ]
-    },
-    "industryApplications": {
-      "level_1": [
-        "Junior readers learn basic dev responsibilities from newsletters."
-      ],
-      "level_2": [
-        "Mid-level engineers use stories to strengthen their mentorship habits."
-      ],
-      "level_3": [
-        "Senior engineers improve process and architecture from newsletter insights."
-      ],
-      "level_4": [
-        "Tech leaders use newsletter frameworks to build team growth plans."
-      ]
-    },
+    "realWorldUseCases": [
+      {
+        "title": "Bug Fixing",
+        "description": "Interns and juniors fix small bugs to learn the system.",
+        "level": 1
+      },
+      {
+        "title": "Feature Development",
+        "description": "Juniors build small modules or add new features.",
+        "level": 2
+      },
+      {
+        "title": "Leading Code Reviews",
+        "description": "Mid-level devs guide peers, review PRs, and ensure clean merges.",
+        "level": 3
+      },
+      {
+        "title": "System Architecture",
+        "description": "Seniors design scalable systems and balance performance vs cost.",
+        "level": 4
+      }
+    ],
+    "industryApplications": [
+      {
+        "domain": "Product Teams",
+        "description": "SDEs write production-ready code for apps and services.",
+        "level": 2
+      },
+      {
+        "domain": "Tech Leadership",
+        "description": "Senior SDEs help plan releases, manage risks, and coach new hires.",
+        "level": 4
+      }
+    ],
     "thinkingPattern": {
-      "level_1": [
-        "What does SDE‑1 vs SDE‑2 do each day?"
-      ],
-      "level_2": [
-        "What skills move someone to a higher SDE level?"
-      ],
-      "level_3": [
-        "How can I reflect on my role's growth path using these examples?"
-      ],
-      "level_4": [
-        "How do senior engineering responsibilities shape business outcomes?"
-      ]
+      "level_1": "Start by understanding basics: languages, logic, debugging simple code.",
+      "level_2": "Think in modules — break big problems into smaller chunks.",
+      "level_3": "Focus on scalable code, tests, and collaboration.",
+      "level_4": "Combine tech thinking with business impact and team growth."
     },
     "problemTypes": {
       "level_1": [
-        "Not knowing the typical responsibilities at each SDE level."
+        "Debug a small syntax error",
+        "Understand basic input-output",
+        "Write a simple function"
       ],
       "level_2": [
-        "Confusion over skills needed for promotion."
+        "Build a CRUD module",
+        "Fix a feature bug",
+        "Add a unit test"
       ],
       "level_3": [
-        "Difficulty aligning personal growth with industry standards."
+        "Refactor legacy code",
+        "Write integration tests",
+        "Handle code reviews"
       ],
       "level_4": [
-        "Not understanding architecture leadership requirements."
+        "Design microservices",
+        "Plan system migrations",
+        "Guide junior team members"
       ]
     },
-    "assessmentsAndQuizzes": {
-      "level_1": [
-        "Name one software engineering newsletter.",
-        "Why read them?"
-      ],
-      "level_2": [
-        "What differences exist between SDE‑1 and SDE‑2?"
-      ],
-      "level_3": [
-        "How can newsletters help mapping a growth plan?"
-      ],
-      "level_4": [
-        "What insights do senior engineers gain from newsletters?"
-      ]
-    },
-    "miniProjects": {
-      "level_1": [
-        "Subscribe to The Pragmatic Engineer for a week."
-      ],
-      "level_2": [
-        "Summarize one newsletter issue with role‑level takeaways."
-      ],
-      "level_3": [
-        "Create a personal growth plan based on newsletter guidance."
-      ],
-      "level_4": [
-        "Write your own newsletter-style case study for your career progress."
-      ]
-    },
+    "assessmentsAndQuizzes": [
+      {
+        "question": "What is an SDE responsible for?",
+        "type": "MCQ",
+        "level": 1
+      },
+      {
+        "question": "What’s the difference between SDE I and SDE II?",
+        "type": "Short Answer",
+        "level": 2
+      },
+      {
+        "question": "How do code reviews help a team?",
+        "type": "True/False",
+        "level": 3
+      },
+      {
+        "question": "Explain how senior SDEs align code with business goals.",
+        "type": "Short Essay",
+        "level": 4
+      }
+    ],
+    "miniProjects": [
+      {
+        "title": "Portfolio Bug Fix",
+        "description": "Fix a small bug in a personal or public repo.",
+        "difficulty": "Easy",
+        "goal_fit": [
+          "Beginner"
+        ],
+        "tags": [
+          "bug",
+          "beginner",
+          "fix"
+        ],
+        "level": 1
+      },
+      {
+        "title": "Feature Add",
+        "description": "Add a new feature to a sample app and test it.",
+        "difficulty": "Intermediate",
+        "goal_fit": [
+          "Junior Dev"
+        ],
+        "tags": [
+          "feature",
+          "add",
+          "test"
+        ],
+        "level": 2
+      },
+      {
+        "title": "Refactor & Review",
+        "description": "Refactor old code and set up a PR for team review.",
+        "difficulty": "Advanced",
+        "goal_fit": [
+          "Mid-level"
+        ],
+        "tags": [
+          "refactor",
+          "review",
+          "code"
+        ],
+        "level": 3
+      },
+      {
+        "title": "System Design Draft",
+        "description": "Draft a high-level design for a simple scalable system.",
+        "difficulty": "Expert",
+        "goal_fit": [
+          "Senior Dev"
+        ],
+        "tags": [
+          "design",
+          "architecture"
+        ],
+        "level": 4
+      }
+    ],
     "suggestionsAndMistakes": {
       "level_1": [
-        "Don’t skip reading career newsletters."
+        "Don’t ignore syntax basics — keep practicing daily.",
+        "Always run and test your code step-by-step."
       ],
       "level_2": [
-        "Avoid copying advice without reflecting on your role."
+        "Break big tasks into modules.",
+        "Don’t skip documentation for your feature."
       ],
       "level_3": [
-        "Don’t ignore senior-level guidance — apply it thoughtfully."
+        "Refactor often, not just when told.",
+        "Ask for peer review — don’t merge blindly."
       ],
       "level_4": [
-        "Avoid outdated advice — check current newsletter trends."
+        "Plan architecture with scalability in mind.",
+        "Keep mentoring juniors — knowledge sharing matters."
       ]
     }
   }
