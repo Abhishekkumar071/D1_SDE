@@ -1,0 +1,150 @@
+{
+  "source": "Course - Master Competitive Programming: Beginner to Advanced (GeeksforGeeks)",
+  "module": "Module 1: Competitive Programming Patterns",
+  "file_type": "public_Source2_Course",
+  "reference": "https://www.geeksforgeeks.org/courses/competitive-programming-cp",
+  "segments": {
+    "Introduction": {
+      "level_1": [
+        "Course begins with CP basics: why patterns matter and time/space complexity fundamentals.",
+        "Introduces essential data structures: arrays, stacks, queues, hashing.",
+        "Emphasizes problem-solving mindset over memorization."
+      ],
+      "level_2": [
+        "Explains pattern-first approach: e.g., sliding window, two pointers, prefix sums.",
+        "Shows mapping problems to known patterns using examples.",
+        "Introduces simple number theory and modular arithmetic."
+      ],
+      "level_3": [
+        "Explores intermediate patterns: greedy algorithms, binary search variants.",
+        "Teaches abstraction: extract pattern, test on sample inputs.",
+        "Introduces flow: pattern → code → optimize → test."
+      ],
+      "level_4": [
+        "Covers meta-patterns: combining small patterns, problem reduction techniques.",
+        "Teaches mindset for contest readiness: quick pattern recall, mental models.",
+        "Encourages reflective practice: analyze why each solution works."
+      ]
+    },
+    "Real-World Use Cases": {
+      "level_1": [
+        "Simple contest problems like 'maximum subarray', 'pair sum'.",
+        "Examples of patterns helping in basic problems."
+      ],
+      "level_2": [
+        "Use-case: two pointers for removing duplicates in sorted arrays.",
+        "Applying sliding window to streaming data problems."
+      ],
+      "level_3": [
+        "Greedy pattern for interval scheduling problems.",
+        "Using binary search for threshold or skip logic."
+      ],
+      "level_4": [
+        "Combining greedy with DP in resource-allocation problems.",
+        "Design large-scale computing pipelines using pattern-based logic."
+      ]
+    },
+    "Industry Applications": {
+      "level_1": [
+        "Basic data filtering and transformation tasks use sliding window."
+      ],
+      "level_2": [
+        "Rate limiter feature in backend using sliding window pattern."
+      ],
+      "level_3": [
+        "Cache invalidation algorithms using priority queue / heap pattern.",
+        "Data sharding pattern from greedy or graph partitioning."
+      ],
+      "level_4": [
+        "Pattern composition used in distributed systems like streaming pipelines.",
+        "Designing resilience patterns e.g., circuit breaker using state machine logic."
+      ]
+    },
+    "Thinking Pattern": {
+      "level_1": [
+        "Always ask: which pattern fits this problem?",
+        "Write pseudocode before jumping into code."
+      ],
+      "level_2": [
+        "Break problems into sub-steps matching known CP patterns.",
+        "Validate logic on 2–3 small test cases manually."
+      ],
+      "level_3": [
+        "Visualize data flow: pointers moving through arrays or graphs.",
+        "Consider edge cases like empty, single-element, max limits."
+      ],
+      "level_4": [
+        "Think meta: could this be converted to a DP state or graph?",
+        "Combine multiple patterns—e.g., sliding window + heap."
+      ]
+    },
+    "Problem Types": {
+      "level_1": [
+        "Two-pointers: sum equals target in sorted array.",
+        "Sliding window: longest substring without repeating characters."
+      ],
+      "level_2": [
+        "Prefix sum: range sum queries optimization.",
+        "Binary search on answer: minimum maximum subarray sum."
+      ],
+      "level_3": [
+        "Greedy: activity selection or task scheduling.",
+        "Graph traversal: BFS for shortest path in unweighted graph."
+      ],
+      "level_4": [
+        "DP over subsets: bitmasking problems.",
+        "Combine DP+graph: DAG longest path problems."
+      ]
+    },
+    "Assessments & Quizzes": {
+      "level_1": [
+        "MCQ: Which pattern best fits 'max subarray'?",
+        "Write sliding-window pseudocode."
+      ],
+      "level_2": [
+        "Quiz: Prefix sum vs sliding window – differences?",
+        "Implement two-pointer approach to remove duplicates."
+      ],
+      "level_3": [
+        "Design greedy solution for interval scheduling.",
+        "Sketch binary search for answer template."
+      ],
+      "level_4": [
+        "Design a DP + greedy hybrid algorithm for resource allocation.",
+        "Explain combining patterns in multi-step problems."
+      ]
+    },
+    "Mini Projects": {
+      "level_1": [
+        "Build a tool to compute moving average from incoming data."
+      ],
+      "level_2": [
+        "Interactive visualizer for two-pointer pattern in array."
+      ],
+      "level_3": [
+        "Service to schedule tasks with deadlines and penalties (greedy)."
+      ],
+      "level_4": [
+        "Mini contest platform that generates problems and checks pattern usage."
+      ]
+    },
+    "Suggestions & Mistakes": {
+      "level_1": [
+        "Don’t start coding before identifying the pattern.",
+        "Practice small input scenarios manually."
+      ],
+      "level_2": [
+        "Beware off-by-one in sliding window or two-pointer implementation.",
+        "Prefer clarity before optimizing prematurely."
+      ],
+      "level_3": [
+        "Don’t ignore space complexity—prefix sums use extra memory.",
+        "Test edge cases: empty input or single-element arrays."
+      ],
+      "level_4": [
+        "Avoid conflating patterns; keep them modular.",
+        "Reflect after solving: record which patterns worked and why."
+      ]
+    }
+  }
+}
