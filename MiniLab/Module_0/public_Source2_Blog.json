@@ -1,158 +1,164 @@
 {
-  "source": "Blog-style content inspired by developer articles on GeeksforGeeks, FreeCodeCamp",
+  "source": "Public Course — Educative + GeeksforGeeks",
   "module": "Module 0: Designation Deep Dive (SDE Overview)",
-  "file_type": "public_Source2_Blog",
+  "file_type": "public_Source2_Course",
+  "course": [
+    "Software Engineering: Introduction (educative)",
+    "Introduction to Software Engineering (GeeksforGeeks)"
+  ],
+  "urls": [
+    "https://www.educative.io/blog/how-to-become-a-software-engineer",
+    "https://www.geeksforgeeks.org/software-engineering/software-engineering-introduction-to-software-engineering/"
+  ],
   "segments": {
     "introduction": {
       "level_1": [
-        "When I first heard about SDE, I thought it was only about writing code. But it's more about solving problems smartly.",
-        "Most SDEs begin by learning how to write simple programs. It builds confidence.",
-        "SDEs are people who make apps, games, and websites we use every day.",
-        "You don't need to be perfect. Keep learning one step at a time.",
-        "It's okay to ask questions and learn from others in the beginning."
+        "An SDE writes, tests, and maintains code for real applications.",
+        "Beginners learn what software engineering means and where SDEs work.",
+        "GFG explains that software engineering is a systematic approach to develop reliable software."
       ],
       "level_2": [
-        "SDEs use problem-solving and teamwork to build software.",
-        "They follow development steps like writing code, testing, and fixing errors.",
-        "You must learn how to use tools like Git and write clean code.",
-        "SDEs often work in teams and attend daily stand-up meetings.",
-        "Practice is key - real SDEs keep improving every day."
+        "The course explains SDE I and II roles, and team-based collaboration.",
+        "Also covers basics like version control and requirement gathering.",
+        "GFG highlights that SE focuses on cost, correctness, maintainability, and scalability."
       ],
       "level_3": [
-        "Advanced SDEs care about how the system will work under real pressure.",
-        "They think about speed, memory, and code quality.",
-        "They also help teammates with code reviews and testing.",
-        "They know how to use APIs, backend, and databases.",
-        "They don't just build features - they improve whole systems."
+        "Mid-level SDEs design modules, review code, and mentor juniors.",
+        "Focus shifts to testing strategies and architectural thinking.",
+        "GFG talks about structured development models like Waterfall, Agile, Spiral."
       ],
       "level_4": [
-        "Expert SDEs plan how a big software system should be built.",
-        "They decide which technology fits best and how to keep it secure.",
-        "They work with product managers to align tech with business.",
-        "They help junior developers and manage coding standards.",
-        "They are often part of hiring and tech strategy decisions."
+        "Senior SDEs handle system design, scalability, and align code with business strategy.",
+        "They also manage risks and support decision-making at leadership level.",
+        "GFG adds how quality assurance and process models improve project success rates."
       ]
     },
     "realWorldUseCases": {
       "level_1": [
-        "Writing a simple contact saver using Python.",
-        "Building a calculator app with buttons using HTML and JavaScript.",
-        "Making a blog that lets you post and delete articles."
+        "Fixing bugs in a small feature or UI page.",
+        "Testing small code snippets to learn debugging."
       ],
       "level_2": [
-        "Creating a quiz website that shows the score.",
-        "Building a to-do list app with a database.",
-        "Making a login page with validation checks."
+        "Adding new features based on user feedback.",
+        "GFG shows case studies on maintenance of banking systems."
       ],
       "level_3": [
-        "Developing a backend for an online notes app.",
-        "Making a simple food ordering system with admin panel.",
-        "Adding payment feature to a small web shop."
+        "Refactoring modules to improve performance.",
+        "Using SE principles to rewrite legacy apps."
       ],
       "level_4": [
-        "Creating an API that connects with multiple apps.",
-        "Designing a chat system that works in real-time.",
-        "Building a system that auto-scales for many users during peak hours."
+        "Designing a scalable backend service to handle millions of users.",
+        "Implementing robust versioning and release management pipelines."
       ]
     },
     "industryApplications": {
       "level_1": [
-        "Beginner SDEs often join small startups or training roles."
+        "Web and mobile app teams hire SDEs to implement features."
       ],
       "level_2": [
-        "Companies use SDEs to build internal tools and websites."
+        "Product companies rely on SDEs for iterative feature releases.",
+        "GFG highlights SE in embedded and real-time systems."
       ],
       "level_3": [
-        "SDEs work on backend systems like payments, authentication, etc."
+        "Large tech firms need SDEs to design fault-tolerant systems."
       ],
       "level_4": [
-        "SDEs lead architecture in big tech companies like Google, Microsoft, etc."
+        "Tech leads align software design with long-term company vision.",
+        "GFG adds SDEs help in compliance, documentation, and audits."
       ]
     },
     "thinkingPattern": {
       "level_1": [
-        "Start small. Break the problem into 2 or 3 steps.",
-        "Use comments to plan your code before writing."
+        "Think step by step: what does this code do and why?",
+        "Follow SE principles: define requirements first."
       ],
       "level_2": [
-        "Think how users will use your app.",
-        "Write logic in parts and test each part separately."
+        "Break complex tasks into smaller modules and write tests.",
+        "Document design before coding, as GFG suggests."
       ],
       "level_3": [
-        "Think how your code performs with 1000+ users.",
-        "Focus on writing reusable code and fewer bugs."
+        "Analyze trade-offs between performance, maintainability, and cost.",
+        "Apply design models like Agile sprints or Waterfall phases."
       ],
       "level_4": [
-        "Plan for failure - what if the app crashes or slows down?",
-        "Think about scaling, speed, and future changes."
+        "Think about scalability, security, and business alignment together.",
+        "Integrate QA, risk management, and customer feedback loops."
       ]
     },
     "problemTypes": {
       "level_1": [
-        "Write a program to add two numbers.",
-        "Print your name five times using a loop."
+        "Simple bug fixes",
+        "Code cleanup tasks",
+        "Basic documentation updates"
       ],
       "level_2": [
-        "Make a program to check if a number is prime.",
-        "Build a logic to count vowels in a sentence."
+        "Adding features",
+        "Writing test cases",
+        "Improving user manuals"
       ],
       "level_3": [
-        "Design a feature to sort product list by price or rating.",
-        "Write a function that logs errors into a file."
+        "Refactoring legacy code",
+        "Optimizing algorithms",
+        "Adapting to changing requirements"
       ],
       "level_4": [
-        "Build a system to track and block spam logins.",
-        "Write code to cache data from API for faster loading."
+        "Designing system architecture",
+        "Planning migrations",
+        "Risk analysis and impact study"
       ]
     },
     "assessmentsAndQuizzes": {
       "level_1": [
-        "What is the full form of SDE?",
-        "What does a beginner SDE mainly do?"
+        "What does SDE stand for?",
+        "What is Software Engineering?"
       ],
       "level_2": [
-        "Which tool is used to manage code changes?",
-        "What are the steps in writing a program?"
+        "What is version control used for?",
+        "Define a software process model."
       ],
       "level_3": [
-        "What is the purpose of using APIs in software?",
-        "How would you test a new feature before release?"
+        "Why is code review important?",
+        "Explain Waterfall vs Agile."
       ],
       "level_4": [
-        "What are three signs of bad system design?",
-        "How can you make an app work for 10,000 users at once?"
+        "Explain trade-offs in choosing microservices vs monolith.",
+        "How does QA ensure project success?"
       ]
     },
     "miniProjects": {
       "level_1": [
-        "Make a digital diary that saves daily notes."
+        "Build a simple calculator app.",
+        "Write clear requirements for a to-do list app."
       ],
       "level_2": [
-        "Create a small blog where users can write and delete posts."
+        "Add a login feature to an existing project.",
+        "Create a flowchart for an e-commerce cart."
       ],
       "level_3": [
-        "Build a weather app that fetches data from an API."
+        "Refactor a feature and write integration tests.",
+        "Draft a test plan for a new feature."
       ],
       "level_4": [
-        "Create a file-sharing tool where users can upload and download files securely."
+        "Draft a design document for a new service.",
+        "Plan a migration roadmap with risk assessment."
       ]
     },
     "suggestionsAndMistakes": {
       "level_1": [
-        "Don't try to learn everything at once.",
-        "Practice small problems daily."
+        "Don’t skip basic debugging practice.",
+        "Always understand requirements before coding."
       ],
       "level_2": [
-        "Avoid skipping testing your code.",
-        "Learn from errors instead of deleting everything."
+        "Don’t ignore documentation—it saves future effort.",
+        "Stick to agreed coding standards."
       ],
       "level_3": [
-        "Don't ignore performance when writing bigger apps.",
-        "Keep your code clean and organized."
+        "Refactor proactively; don’t wait until code breaks.",
+        "Communicate design decisions with the team."
       ],
       "level_4": [
-        "Avoid tight coupling between components.",
-        "Don't skip documenting your system designs."
+        "Think beyond code—understand product goals and user impact.",
+        "Plan for maintenance, upgrades, and quality checks."
       ]
     }
   }
