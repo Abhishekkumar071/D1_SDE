@@ -2,11 +2,6 @@
   "source": "Public Search – GeeksforGeeks, FreeCodeCamp, and Dev.to articles on CP patterns",
   "module": "Module 1: Competitive Programming Patterns",
   "file_type": "public_Source6_Search",
-  "links": [
-    "https://www.geeksforgeeks.org/15-common-coding-patterns/",
-    "https://www.freecodecamp.org/news/coding-patterns-explained/",
-    "https://dev.to/algo-patterns-intro"
-  ],
   "segments": {
     "introduction": {
       "level_1": [
