@@ -1,0 +1,161 @@
+{
+  "source": "Research Paper – Based on 'Structured Employment Interviewing' by Campion et al. and related behavioral interview studies",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "title": "Structured Employment Interviewing",
+    "authors": "Campion, Palmer, & Campion",
+    "platform": "ResearchGate, Academy of Management"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research shows structured interviews are fairer than random questions.",
+        "The STAR method gives clear steps for answering.",
+        "Papers say clear stories help interviewers judge better.",
+        "Behavioral answers predict real future performance.",
+        "Good answers reduce confusion in hiring."
+      ],
+      "level_2": [
+        "Studies show candidates do better when they prepare STAR stories.",
+        "Structured questions lower bias for new grads.",
+        "Papers discuss how clear answers save interview time.",
+        "They show how scoring answers works with STAR.",
+        "Research links STAR to better hiring results."
+      ],
+      "level_3": [
+        "Advanced studies compare STAR with other frameworks.",
+        "They show how managers use STAR in panel interviews.",
+        "They explain why detailed stories work better than yes/no.",
+        "Researchers talk about using STAR in global hiring.",
+        "They explore how culture affects storytelling."
+      ],
+      "level_4": [
+        "Expert papers show how STAR guides leadership interviews.",
+        "They link STAR to evaluating teamwork and decision-making.",
+        "They share how companies train interviewers to use STAR.",
+        "Research covers how to reduce bias with structured scoring.",
+        "Papers suggest STAR for peer feedback too."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "HR asks junior devs for teamwork stories.",
+        "Freshers share learning examples using STAR."
+      ],
+      "level_2": [
+        "Team leads use STAR when hiring interns.",
+        "Managers ask conflict questions using STAR."
+      ],
+      "level_3": [
+        "Panels score answers using STAR checklists.",
+        "Companies use STAR for leadership promotions."
+      ],
+      "level_4": [
+        "HR trains interviewers in STAR scoring workshops.",
+        "Global companies adapt STAR for remote panels."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Many companies ask STAR questions in final HR rounds."
+      ],
+      "level_2": [
+        "Managers want clear examples to judge soft skills."
+      ],
+      "level_3": [
+        "Tech giants have structured sheets for STAR scoring."
+      ],
+      "level_4": [
+        "Companies audit interviews to check bias using STAR."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think about real past events, not fake ones.",
+        "Keep your story short and clear."
+      ],
+      "level_2": [
+        "Use numbers when you talk about results.",
+        "Pick stories that show positive traits."
+      ],
+      "level_3": [
+        "Adapt stories for different questions.",
+        "Add details that match job role."
+      ],
+      "level_4": [
+        "Coach others on building STAR stories.",
+        "Use feedback to improve your own answers."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Forgetting parts of STAR steps.",
+        "Giving very short answers."
+      ],
+      "level_2": [
+        "Talking about group work but not own role.",
+        "Missing the result part."
+      ],
+      "level_3": [
+        "Repeating the same story for every question.",
+        "Giving off-topic details."
+      ],
+      "level_4": [
+        "Overusing complicated jargon.",
+        "Not preparing variations for panels."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why do companies like STAR?",
+        "What does STAR stand for?"
+      ],
+      "level_2": [
+        "Why is structure better than random Q&A?",
+        "How do you check if your story fits?"
+      ],
+      "level_3": [
+        "What makes a good STAR answer?",
+        "How do companies score STAR answers?"
+      ],
+      "level_4": [
+        "How does STAR reduce bias?",
+        "Why do leaders train teams in STAR?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write one STAR story about teamwork."
+      ],
+      "level_2": [
+        "Ask a friend to score your answer with STAR."
+      ],
+      "level_3": [
+        "Make 3 STAR stories for different soft skills."
+      ],
+      "level_4": [
+        "Coach a junior with STAR mock interview."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t memorize — understand the steps.",
+        "Keep examples true to your experience."
+      ],
+      "level_2": [
+        "Don’t pick old or irrelevant stories.",
+        "Avoid giving negative stories without solutions."
+      ],
+      "level_3": [
+        "Don’t skip details on your action.",
+        "Check your result part shows impact."
+      ],
+      "level_4": [
+        "Practice answering naturally, not robotic.",
+        "Help others by sharing your framework."
+      ]
+    }
+  },
+  "reference_link": "https://www.researchgate.net/publication/232508691_Structured_Employment_Interviewing"
+}
