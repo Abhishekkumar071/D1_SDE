@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on LinkedIn Global Talent Trends and HR best practices",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "LinkedIn Global Talent Trends",
+    "platform": "LinkedIn.com"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "More companies use structured interviews to remove bias.",
+        "STAR answers help interviewers compare candidates better.",
+        "Reports show managers prefer clear, real examples.",
+        "Soft skills are in demand, so STAR shows them well.",
+        "HR trends say candidates must prepare stories."
+      ],
+      "level_2": [
+        "Companies say unstructured interviews miss key info.",
+        "Trends push for training managers to use STAR properly.",
+        "Remote hiring made structured answers even more important.",
+        "Hiring tools check for clear situation, task, action, result.",
+        "Surveys show candidates like clear questions."
+      ],
+      "level_3": [
+        "LinkedIn reports show storytelling is a top skill.",
+        "HR teams look for data-driven answers, not vague ones.",
+        "Companies use templates for STAR-based scoring.",
+        "Behavioral interviews now blend with skill tests.",
+        "Trends highlight diversity and fair hiring practices."
+      ],
+      "level_4": [
+        "Global firms audit interviews to check bias and consistency.",
+        "Leaders push for better feedback in interview loops.",
+        "Senior roles need deeper STAR stories with impact.",
+        "Companies coach new hires to use STAR for performance reviews.",
+        "Reports say STAR helps grow soft skill culture at work."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Freshers share simple teamwork stories.",
+        "HR rounds ask for conflict examples."
+      ],
+      "level_2": [
+        "Junior devs use STAR to show growth mindset.",
+        "Hiring managers use scorecards for each STAR step."
+      ],
+      "level_3": [
+        "Panels ask follow-up questions to test depth.",
+        "Companies log answers for fair feedback."
+      ],
+      "level_4": [
+        "Top tech firms train interviewers with STAR examples.",
+        "Leads guide juniors on how to prepare stories."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Entry-level interviews often use STAR in final rounds."
+      ],
+      "level_2": [
+        "Teams expect clear, short, truthful answers."
+      ],
+      "level_3": [
+        "Managers check STAR fit with company values."
+      ],
+      "level_4": [
+        "HR teams design questions mapped to company goals."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Focus on one real story for each question.",
+        "Remember to explain your role clearly."
+      ],
+      "level_2": [
+        "Add numbers to show results.",
+        "Stay calm if asked for details."
+      ],
+      "level_3": [
+        "Link your answer to job description.",
+        "Handle follow-up questions honestly."
+      ],
+      "level_4": [
+        "Guide others to write better STAR stories.",
+        "Help teams practice answers together."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Telling stories without results.",
+        "Forgetting parts of STAR."
+      ],
+      "level_2": [
+        "Sharing too long or off-topic answers.",
+        "Repeating same story too often."
+      ],
+      "level_3": [
+        "Not adapting answers for new questions.",
+        "Giving confusing details."
+      ],
+      "level_4": [
+        "Sounding robotic due to over-practice.",
+        "Missing context that shows impact."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why is STAR popular now?",
+        "What makes answers clear?"
+      ],
+      "level_2": [
+        "How does STAR reduce bias?",
+        "Why add results in numbers?"
+      ],
+      "level_3": [
+        "How do companies use STAR scores?",
+        "Why blend STAR with skill tests?"
+      ],
+      "level_4": [
+        "How do global teams train for STAR?",
+        "How does STAR help performance reviews?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write one STAR answer for teamwork."
+      ],
+      "level_2": [
+        "Roleplay an HR round with STAR answers."
+      ],
+      "level_3": [
+        "Give feedback on a friend’s STAR answer."
+      ],
+      "level_4": [
+        "Make a short STAR guide for peers."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip the result part.",
+        "Keep it real, not fake."
+      ],
+      "level_2": [
+        "Avoid giving negative-only stories.",
+        "Practice staying on topic."
+      ],
+      "level_3": [
+        "Check you’re not overusing same example.",
+        "Adapt answer to job level."
+      ],
+      "level_4": [
+        "Support juniors in story prep.",
+        "Share tips with your network."
+      ]
+    }
+  },
+  "reference_link": "https://business.linkedin.com/talent-solutions/recruiting-tips/global-talent-trends"
+}
