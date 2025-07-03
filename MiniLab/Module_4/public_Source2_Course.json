@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by LinkedIn Learning and Coursera Career Roadmap Courses",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Create a Career Development Plan",
+    "platform": "LinkedIn Learning, Coursera"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Career Roadmapping means planning your work journey step by step.",
+        "Courses teach you how to choose the right tech role for you.",
+        "They show how to find what skills you already have.",
+        "You learn how to research job descriptions.",
+        "Good roadmaps help you stay focused and clear."
+      ],
+      "level_2": [
+        "Courses explain how to break goals into short and long term.",
+        "They help you pick skills that match your dream role.",
+        "You learn how to find mentors and role models.",
+        "Lessons guide you to update your plan as you grow.",
+        "They show how to write your goals clearly."
+      ],
+      "level_3": [
+        "Advanced lessons explain switching roles in tech.",
+        "They show how to plan for promotions and leadership.",
+        "You learn to match your plan with company expectations.",
+        "Courses share real stories from industry people.",
+        "They teach how to build multiple roadmaps for choices."
+      ],
+      "level_4": [
+        "Expert tips help you plan 5-10 years ahead.",
+        "You learn to guide juniors with your roadmap.",
+        "Lessons show how to align roadmap with trends.",
+        "They cover networking and community building.",
+        "They explain reviewing and updating goals yearly."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Planning to become a junior developer.",
+        "Listing skills you have vs skills needed."
+      ],
+      "level_2": [
+        "Finding courses to fill skill gaps.",
+        "Talking to seniors for career advice."
+      ],
+      "level_3": [
+        "Planning to switch from developer to PM.",
+        "Building a roadmap for startup vs MNC."
+      ],
+      "level_4": [
+        "Mentoring juniors with your roadmap.",
+        "Leading roadmap sessions in your team."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers use roadmaps to get first job."
+      ],
+      "level_2": [
+        "Interns plan next role after training."
+      ],
+      "level_3": [
+        "Mid-level devs plan promotion path."
+      ],
+      "level_4": [
+        "Leads guide teams with skill maps."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think about what you enjoy doing.",
+        "Look for roles that match your strength."
+      ],
+      "level_2": [
+        "Break your goals into small steps.",
+        "Check what skills are missing."
+      ],
+      "level_3": [
+        "Plan for changes if trends shift.",
+        "Have backup paths ready."
+      ],
+      "level_4": [
+        "Guide others to make clear plans.",
+        "Review roadmap every year."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing what roles exist.",
+        "Following friends without research."
+      ],
+      "level_2": [
+        "Planning too big too soon.",
+        "Ignoring changing trends."
+      ],
+      "level_3": [
+        "Not updating roadmap with new skills.",
+        "Not comparing company role differences."
+      ],
+      "level_4": [
+        "Not mentoring others with your learning.",
+        "Skipping yearly plan review."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a career roadmap?",
+        "Name one reason to plan a career path."
+      ],
+      "level_2": [
+        "How do you match skills with roles?",
+        "Why break goals into short and long term?"
+      ],
+      "level_3": [
+        "Why do people switch roles in tech?",
+        "How do mentors help roadmapping?"
+      ],
+      "level_4": [
+        "Why review your plan yearly?",
+        "How to help juniors plan their roadmap?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a list of 3 roles you like."
+      ],
+      "level_2": [
+        "Write short goals for next 6 months."
+      ],
+      "level_3": [
+        "Draft a switch plan for a new role."
+      ],
+      "level_4": [
+        "Mentor a peer to make their roadmap."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t copy someone else’s plan blindly.",
+        "Think what you enjoy, not just pay."
+      ],
+      "level_2": [
+        "Update plan when you learn new skills.",
+        "Check trends before fixing long goals."
+      ],
+      "level_3": [
+        "Don’t be afraid to change direction.",
+        "Keep backup plans ready."
+      ],
+      "level_4": [
+        "Help your network with roadmapping.",
+        "Review your plan with mentors yearly."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/learning/create-a-career-development-plan"
+}
