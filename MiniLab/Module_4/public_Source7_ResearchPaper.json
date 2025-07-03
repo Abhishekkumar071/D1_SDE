@@ -1,0 +1,161 @@
+{
+  "source": "Research Paper – Based on 'Career Self-Management and Employee Development' by King, plus workforce career roadmap studies",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "title": "Career Self-Management and Employee Development",
+    "authors": "Zella King",
+    "platform": "ResearchGate, SHRM Journal"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research says career roadmapping helps people plan work goals.",
+        "Studies show clear roadmaps reduce job stress.",
+        "Role matching helps people use their best skills.",
+        "Career maps guide learning at every stage.",
+        "Good planning keeps people motivated."
+      ],
+      "level_2": [
+        "Papers explain how self-management is key for growth.",
+        "Research shows mentoring supports career plans.",
+        "Clear plans help switch roles inside a company.",
+        "Career anchors help match skills to the right role.",
+        "Studies show updated roadmaps lead to promotions."
+      ],
+      "level_3": [
+        "HR research shows structured plans help in fast-changing tech.",
+        "Papers compare old vs modern career paths.",
+        "They explain how career coaching works in companies.",
+        "Surveys show employees trust leaders who guide them.",
+        "Good roadmaps help people balance skills and interest."
+      ],
+      "level_4": [
+        "Advanced papers discuss aligning personal goals with company needs.",
+        "They show how roadmaps support diversity and inclusion.",
+        "They cover creating frameworks for upskilling.",
+        "Researchers suggest coaching juniors for clear paths.",
+        "Roadmaps connect daily work to long-term growth."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Students plan to become junior developers.",
+        "Interns list skills to learn next."
+      ],
+      "level_2": [
+        "Freshers use roadmaps to decide backend vs frontend.",
+        "They join bootcamps to fill skill gaps."
+      ],
+      "level_3": [
+        "Mid-level devs plan promotions with managers.",
+        "They align learning with project needs."
+      ],
+      "level_4": [
+        "Team leads coach juniors with roadmap templates.",
+        "Companies run roadmap workshops."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Roadmaps are part of new hire onboarding."
+      ],
+      "level_2": [
+        "HR teams guide interns with role match checklists."
+      ],
+      "level_3": [
+        "Career coaches run internal workshops."
+      ],
+      "level_4": [
+        "Leads design skill maps for big projects."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think what you enjoy doing.",
+        "List skills you have now."
+      ],
+      "level_2": [
+        "See what skills match target roles.",
+        "Set clear small goals first."
+      ],
+      "level_3": [
+        "Check if goals fit company vision.",
+        "Plan changes when new trends come."
+      ],
+      "level_4": [
+        "Guide others with your roadmap.",
+        "Help team align plans together."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing what role fits.",
+        "No clear goals."
+      ],
+      "level_2": [
+        "Skills mismatch with target role.",
+        "Ignoring mentor feedback."
+      ],
+      "level_3": [
+        "Not adjusting roadmap over time.",
+        "Following outdated paths."
+      ],
+      "level_4": [
+        "Not sharing roadmap learnings with team.",
+        "Failing to align plan with company growth."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is career roadmapping?",
+        "Name one benefit of role matching."
+      ],
+      "level_2": [
+        "How does self-management help?",
+        "Why do mentors support career plans?"
+      ],
+      "level_3": [
+        "Why update your plan regularly?",
+        "What is a career anchor?"
+      ],
+      "level_4": [
+        "How do roadmaps support inclusion?",
+        "How can you guide others?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "List 3 skills you want to build."
+      ],
+      "level_2": [
+        "Match 1 role to your current skills."
+      ],
+      "level_3": [
+        "Draft a roadmap for next 2 years."
+      ],
+      "level_4": [
+        "Review a friend’s roadmap and give tips."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t pick random roles.",
+        "Check if the role fits your skills."
+      ],
+      "level_2": [
+        "Talk to mentors about your plan.",
+        "Keep learning new skills."
+      ],
+      "level_3": [
+        "Update plan every 6 months.",
+        "Adjust when your goals change."
+      ],
+      "level_4": [
+        "Share your roadmap with juniors.",
+        "Build team roadmaps together."
+      ]
+    }
+  },
+  "reference_link": "https://www.researchgate.net/publication/228985170_Career_Self-Management_and_Employee_Development"
+}
