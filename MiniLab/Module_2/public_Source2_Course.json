@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by Google’s 'Introduction to Git and GitHub' and GitHub Learning Lab",
+  "module": "Module 2: GitHub & Open Source Etiquette",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Introduction to Git and GitHub",
+    "platform": "Coursera, GitHub Learning Lab"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "GitHub is a platform for sharing and collaborating on code with millions of developers.",
+        "Beginners learn how to use Git to track changes and GitHub to store projects.",
+        "Courses explain basic commands like commit, push, and pull.",
+        "Students understand how to create repositories and upload files.",
+        "They learn about version control and why it’s essential for teamwork."
+      ],
+      "level_2": [
+        "Courses show how to fork public repos to contribute to projects.",
+        "They explain how to write good commit messages.",
+        "Students learn about pull requests and code reviews.",
+        "Lessons cover managing branches and merging safely.",
+        "They practice resolving merge conflicts responsibly."
+      ],
+      "level_3": [
+        "Courses discuss how to choose projects to contribute to.",
+        "They explain etiquette: reading contribution guidelines and following code style.",
+        "Students learn to write meaningful issues and bug reports.",
+        "Modules cover handling feedback and collaborating respectfully.",
+        "They explore working with maintainers and larger teams."
+      ],
+      "level_4": [
+        "Advanced lessons cover maintaining your own open-source project.",
+        "They show how to write clear README files and documentation.",
+        "Students learn to license their projects properly.",
+        "They practice managing contributors and PR workflows.",
+        "They explore organizing community discussions and decision-making."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Storing personal projects on GitHub as a portfolio.",
+        "Cloning a repo to test code locally."
+      ],
+      "level_2": [
+        "Fixing typos or small bugs in an open-source project.",
+        "Creating a pull request to suggest improvements."
+      ],
+      "level_3": [
+        "Participating in Hacktoberfest by making valid contributions.",
+        "Collaborating with teams on shared repos for college projects."
+      ],
+      "level_4": [
+        "Maintaining a library others depend on.",
+        "Reviewing and merging contributions from global developers."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Employers look for GitHub profiles to see coding habits."
+      ],
+      "level_2": [
+        "Junior devs contribute to company repos and fix bugs."
+      ],
+      "level_3": [
+        "Teams follow PR etiquette to avoid conflicts."
+      ],
+      "level_4": [
+        "Large companies maintain open-source tools with thousands of contributors."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think step by step: add, commit, push.",
+        "Use clear commit messages."
+      ],
+      "level_2": [
+        "Think in branches: keep new features isolated.",
+        "Keep your fork updated with upstream."
+      ],
+      "level_3": [
+        "Read contributing guidelines before changing anything.",
+        "Open issues for discussion before big changes."
+      ],
+      "level_4": [
+        "Plan how to manage community contributions at scale.",
+        "Create clear policies for reviews and merges."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Accidentally pushing broken code.",
+        "Not writing clear commit messages."
+      ],
+      "level_2": [
+        "Forgetting to fork before editing.",
+        "Ignoring merge conflicts."
+      ],
+      "level_3": [
+        "Not following project contribution style.",
+        "Making changes without opening issues."
+      ],
+      "level_4": [
+        "Failing to handle conflicting contributor opinions.",
+        "Merging low-quality PRs without review."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is GitHub mainly used for?",
+        "Name two basic Git commands."
+      ],
+      "level_2": [
+        "How do you make a pull request?",
+        "Why are commit messages important?"
+      ],
+      "level_3": [
+        "Why should you read contributing guidelines?",
+        "How do you handle merge conflicts politely?"
+      ],
+      "level_4": [
+        "How do you license an open-source project?",
+        "What is the role of a project maintainer?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a new repo and push your code."
+      ],
+      "level_2": [
+        "Fork a simple repo and fix a small issue."
+      ],
+      "level_3": [
+        "Find an issue, discuss it, and make a pull request."
+      ],
+      "level_4": [
+        "Start a mini open-source project and invite collaborators."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t commit generated files like node_modules.",
+        "Write clear and short commit messages."
+      ],
+      "level_2": [
+        "Avoid pushing to main branch directly.",
+        "Use branches for new features or fixes."
+      ],
+      "level_3": [
+        "Don’t spam maintainers with low-effort PRs.",
+        "Be polite when giving or receiving feedback."
+      ],
+      "level_4": [
+        "Don’t merge without reviews if possible.",
+        "Always update docs and guidelines for clarity."
+      ]
+    }
+  },
+  "reference_link": "https://www.coursera.org/learn/introduction-git-github"
+}
