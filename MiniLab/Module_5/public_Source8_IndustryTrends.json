@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on GitHub Octoverse & Atlassian Code Review Best Practices",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "GitHub Octoverse & Atlassian Blogs",
+    "platform": "GitHub.com, Atlassian.com"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Industry trends show peer reviews are a must for modern teams.",
+        "GitHub Octoverse reports millions of pull requests reviewed daily.",
+        "Companies prefer peer feedback to catch bugs early.",
+        "Good review culture keeps teams friendly and productive.",
+        "More companies teach review skills to juniors too."
+      ],
+      "level_2": [
+        "Trends show remote teams depend on clear peer comments.",
+        "Modern devs do daily PR reviews on GitHub.",
+        "Atlassian says reviews cut rework and bugs.",
+        "Code review best practices boost trust in teams.",
+        "Peer feedback is now a standard in agile workflows."
+      ],
+      "level_3": [
+        "DevOps reports link fast feedback to better delivery.",
+        "Top teams have clear review checklists for quality.",
+        "More tools now automate parts of peer feedback.",
+        "Trends show high-quality reviews improve team skill.",
+        "Leaders push for kind, clear, respectful feedback."
+      ],
+      "level_4": [
+        "Companies invest in training for feedback etiquette.",
+        "Open-source projects thrive on peer review culture.",
+        "Senior devs mentor juniors through review sessions.",
+        "Industry experts say feedback loops boost innovation.",
+        "Octoverse highlights how PR trends shape projects."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Interns get peer comments on GitHub PRs.",
+        "Students share code for friend review."
+      ],
+      "level_2": [
+        "Teams do daily stand-ups with peer feedback.",
+        "Junior devs fix bugs after review."
+      ],
+      "level_3": [
+        "Remote teams use PR comments for alignment.",
+        "Open-source maintainers merge only after review."
+      ],
+      "level_4": [
+        "Leads coach teams on review norms.",
+        "Big tech sets review KPIs for quality."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Peer reviews are part of intern training."
+      ],
+      "level_2": [
+        "Startups and MNCs use review tools daily."
+      ],
+      "level_3": [
+        "DevOps pipelines include automated feedback checks."
+      ],
+      "level_4": [
+        "Leads create culture of honest, helpful reviews."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think before posting comments.",
+        "Be clear and polite always."
+      ],
+      "level_2": [
+        "Use examples when pointing issues.",
+        "Explain why a fix helps."
+      ],
+      "level_3": [
+        "Balance praise with improvements.",
+        "Review for logic, style, security."
+      ],
+      "level_4": [
+        "Mentor others on feedback culture.",
+        "Keep reviews consistent for fairness."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Writing rude or vague comments.",
+        "Missing small mistakes."
+      ],
+      "level_2": [
+        "Only pointing problems, no fixes.",
+        "Skipping PR reviews in a rush."
+      ],
+      "level_3": [
+        "Ignoring agreed team standards.",
+        "Getting defensive about suggestions."
+      ],
+      "level_4": [
+        "Not sharing review learnings.",
+        "Failing to build safe feedback space."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a peer review?",
+        "Why are reviews useful?"
+      ],
+      "level_2": [
+        "What is a pull request?",
+        "How do reviews catch bugs?"
+      ],
+      "level_3": [
+        "Why is feedback etiquette needed?",
+        "How does review improve team trust?"
+      ],
+      "level_4": [
+        "Why train juniors on reviews?",
+        "How do trends shape open-source?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a short code and get a peer review."
+      ],
+      "level_2": [
+        "Do a PR on GitHub for practice."
+      ],
+      "level_3": [
+        "Run a mock code review meeting."
+      ],
+      "level_4": [
+        "Coach juniors on best review habits."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t be rude, stay respectful.",
+        "Thank peers for suggestions."
+      ],
+      "level_2": [
+        "Explain reasons for feedback.",
+        "Don’t skip reviews under pressure."
+      ],
+      "level_3": [
+        "Review code style and tests too.",
+        "Be open to peer advice."
+      ],
+      "level_4": [
+        "Promote safe space for honest feedback.",
+        "Share trends to update review norms."
+      ]
+    }
+  },
+  "reference_link": "https://octoverse.github.com/"
+}
