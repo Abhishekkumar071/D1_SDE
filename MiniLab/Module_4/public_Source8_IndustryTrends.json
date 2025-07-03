@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on LinkedIn Workplace Learning Report and WEF Future of Jobs",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "LinkedIn Learning Report & WEF Future of Jobs",
+    "platform": "LinkedIn.com, weforum.org"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Industry trends show how tech jobs keep changing fast.",
+        "Reports say new skills are needed every few years.",
+        "Career roadmaps help people stay ready for change.",
+        "Role matching helps workers shift when jobs evolve.",
+        "Learning reports show upskilling is more important than ever."
+      ],
+      "level_2": [
+        "Companies want employees to plan their growth.",
+        "Managers support clear role maps for teams.",
+        "Reports say flexibility is key for future jobs.",
+        "Skill gaps slow career growth if ignored.",
+        "Trends show more role switching within companies."
+      ],
+      "level_3": [
+        "Future jobs reports talk about digital-first skills.",
+        "Data shows top skills change every 3-5 years.",
+        "Firms use career frameworks for internal mobility.",
+        "Companies invest in mentorship to guide paths.",
+        "Employees want clear promotion tracks."
+      ],
+      "level_4": [
+        "Leaders build career lattices, not ladders.",
+        "Big firms map skills to roles across regions.",
+        "Upskilling programs help bridge talent gaps.",
+        "Inclusive roadmaps support diverse teams.",
+        "Trends highlight sharing roadmaps openly."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Students check future skills for tech jobs.",
+        "Freshers read reports to plan careers."
+      ],
+      "level_2": [
+        "Interns pick new skills to match trends.",
+        "Teams use online learning for skill gaps."
+      ],
+      "level_3": [
+        "Mid-level devs plan role changes early.",
+        "Leads review team maps every year."
+      ],
+      "level_4": [
+        "HR builds frameworks for career moves.",
+        "Mentors guide juniors using trends data."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Companies share skills needed for junior roles."
+      ],
+      "level_2": [
+        "Firms design learning paths with role match steps."
+      ],
+      "level_3": [
+        "Leaders align projects with talent roadmaps."
+      ],
+      "level_4": [
+        "Enterprises set up talent mobility programs."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Check trends before fixing your plan.",
+        "Look at top skills each year."
+      ],
+      "level_2": [
+        "Map skills needed for future roles.",
+        "Ask mentors about market trends."
+      ],
+      "level_3": [
+        "Plan flexible paths, not fixed ones.",
+        "Adjust plan when new roles appear."
+      ],
+      "level_4": [
+        "Guide teams to plan with trends.",
+        "Share trends with peers and juniors."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not checking new skills.",
+        "Relying on old role info."
+      ],
+      "level_2": [
+        "Ignoring upskilling needs.",
+        "Not matching skills to market."
+      ],
+      "level_3": [
+        "Not updating team skill maps.",
+        "Missing chances for new roles."
+      ],
+      "level_4": [
+        "Not sharing knowledge with others.",
+        "Keeping roadmap private only."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why check industry trends?",
+        "What is role matching?"
+      ],
+      "level_2": [
+        "Why do skills change so fast?",
+        "What is upskilling?"
+      ],
+      "level_3": [
+        "Why use frameworks for roadmapping?",
+        "How do trends affect promotions?"
+      ],
+      "level_4": [
+        "Why share roadmaps with teams?",
+        "How do trends help diversity?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "List 3 future skills for your role."
+      ],
+      "level_2": [
+        "Find a trend and match it to your roadmap."
+      ],
+      "level_3": [
+        "Share a plan update with a mentor."
+      ],
+      "level_4": [
+        "Guide a peer to align plan with trends."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t stick to old plans forever.",
+        "Always read new reports."
+      ],
+      "level_2": [
+        "Check if you need to reskill.",
+        "Talk to seniors about changes."
+      ],
+      "level_3": [
+        "Keep updating your team’s skills.",
+        "Help others plan too."
+      ],
+      "level_4": [
+        "Run roadmap sessions with trends data.",
+        "Publish learnings with your community."
+      ]
+    }
+  },
+  "reference_link": "https://www.weforum.org/reports/the-future-of-jobs-report-2023"
+}
