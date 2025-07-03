@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by LinkedIn Learning and Coursera Feedback Courses",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Giving and Receiving Feedback",
+    "platform": "LinkedIn Learning, Coursera"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Peer reviews help you learn from classmates or teammates.",
+        "Courses teach how to give clear, kind feedback.",
+        "You learn to listen to feedback without feeling bad.",
+        "Good feedback helps you improve work quality.",
+        "Mock reviews help practice before real jobs."
+      ],
+      "level_2": [
+        "Lessons show how to review code or projects step by step.",
+        "You learn to spot bugs or mistakes politely.",
+        "Courses explain how to write good comments.",
+        "They teach when to suggest changes.",
+        "Practice sessions build trust between peers."
+      ],
+      "level_3": [
+        "Courses cover how to run mock interviews for practice.",
+        "You learn to give balanced feedback with pros and cons.",
+        "They explain how to handle defensive reactions.",
+        "Lessons share review checklists for clarity.",
+        "You practice real scenarios with classmates."
+      ],
+      "level_4": [
+        "Advanced tips cover reviewing in big teams.",
+        "You learn to lead peer review sessions.",
+        "Courses show how to mentor juniors kindly.",
+        "They explain how to handle tough conversations.",
+        "They teach giving feedback for career growth."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Reviewing a friend’s coding project.",
+        "Giving comments on a presentation."
+      ],
+      "level_2": [
+        "Doing mock technical interviews.",
+        "Checking a peer’s resume for mistakes."
+      ],
+      "level_3": [
+        "Running code reviews in internship teams.",
+        "Giving structured feedback in college groups."
+      ],
+      "level_4": [
+        "Leading peer review sessions at work.",
+        "Helping juniors learn to review well."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Peer feedback is common in internships."
+      ],
+      "level_2": [
+        "Code reviews are standard in tech companies."
+      ],
+      "level_3": [
+        "Teams use peer feedback to improve quality."
+      ],
+      "level_4": [
+        "Leads train teams in good review culture."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Be polite when giving comments.",
+        "Focus on what can improve."
+      ],
+      "level_2": [
+        "Be clear and specific with feedback.",
+        "Listen carefully to peer suggestions."
+      ],
+      "level_3": [
+        "Balance positive and negative points.",
+        "Think about the goal of the review."
+      ],
+      "level_4": [
+        "Coach peers to review better.",
+        "Handle tough reviews calmly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Being too rude in comments.",
+        "Not explaining what to fix."
+      ],
+      "level_2": [
+        "Giving only negative points.",
+        "Ignoring peer’s suggestions."
+      ],
+      "level_3": [
+        "Making reviews too long or vague.",
+        "Getting defensive about feedback."
+      ],
+      "level_4": [
+        "Failing to mentor juniors on feedback.",
+        "Not handling disagreements properly."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why do we need peer reviews?",
+        "Name one good feedback rule."
+      ],
+      "level_2": [
+        "How do you write clear comments?",
+        "Why balance pros and cons?"
+      ],
+      "level_3": [
+        "Why run mock interviews?",
+        "How to handle tough reactions?"
+      ],
+      "level_4": [
+        "How do leaders run review sessions?",
+        "Why mentor others in feedback?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a classmate’s small project."
+      ],
+      "level_2": [
+        "Do a mock interview with a peer."
+      ],
+      "level_3": [
+        "Write a review checklist for coding."
+      ],
+      "level_4": [
+        "Lead a mock review group."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t insult when giving feedback.",
+        "Always explain your points."
+      ],
+      "level_2": [
+        "Avoid being too soft if changes are needed.",
+        "Stay open to what peers say."
+      ],
+      "level_3": [
+        "Don’t skip pros — praise good parts too.",
+        "Help peers grow, not feel bad."
+      ],
+      "level_4": [
+        "Set clear review rules for teams.",
+        "Encourage sharing feedback culture."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/learning/giving-and-receiving-feedback"
+}
