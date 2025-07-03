@@ -1,0 +1,161 @@
+{
+  "source": "Research Paper – Based on 'Peer Review: A Tool for Effective Learning' by Falchikov & Goldfinch and code review practices",
+  "module": "Module 5: Mock Peer Reviews & Feedback",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "title": "Peer Review: A Tool for Effective Learning",
+    "authors": "Nancy Falchikov, Judy Goldfinch",
+    "platform": "ResearchGate, Education & Software Engineering Journals"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research shows peer review builds learning and trust.",
+        "Studies prove feedback helps students improve work.",
+        "Papers show how giving feedback grows soft skills.",
+        "Mock reviews prepare students for real work reviews.",
+        "Good feedback culture reduces mistakes."
+      ],
+      "level_2": [
+        "Papers explain how clear peer comments help learning.",
+        "Code reviews help teams find bugs early.",
+        "Studies say feedback should be respectful and clear.",
+        "Mock interviews help reduce anxiety in real interviews.",
+        "Effective peer review makes teams stronger."
+      ],
+      "level_3": [
+        "Research shows how peer review builds teamwork.",
+        "Papers explain rules for good feedback sessions.",
+        "Studies compare peer vs instructor feedback impact.",
+        "Guidelines show how to balance positive and negative points.",
+        "Mock peer reviews train juniors to think like seniors."
+      ],
+      "level_4": [
+        "Advanced research shows feedback reduces hidden issues.",
+        "Papers cover mentoring through review culture.",
+        "Experts explain how to handle conflict in reviews.",
+        "Studies share frameworks for review quality.",
+        "Peer reviews also boost self-review skills."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Reviewing classmate assignments.",
+        "Checking a peer’s coding task."
+      ],
+      "level_2": [
+        "Doing mock technical interviews.",
+        "Writing comments for a group project."
+      ],
+      "level_3": [
+        "Running formal code reviews in teams.",
+        "Sharing detailed suggestions on PRs."
+      ],
+      "level_4": [
+        "Mentoring interns with structured feedback.",
+        "Setting up peer review meetings in teams."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers get peer feedback in training."
+      ],
+      "level_2": [
+        "Junior devs join code review sessions."
+      ],
+      "level_3": [
+        "Teams fix bugs faster with reviews."
+      ],
+      "level_4": [
+        "Leads build review culture in companies."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Be kind when pointing out issues.",
+        "Say what works well too."
+      ],
+      "level_2": [
+        "Write clear reasons for changes.",
+        "Listen to peer suggestions carefully."
+      ],
+      "level_3": [
+        "Balance good and bad points.",
+        "Keep focus on improving work."
+      ],
+      "level_4": [
+        "Coach others on giving feedback.",
+        "Handle disagreements respectfully."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Only giving negative comments.",
+        "Forgetting to say what’s good."
+      ],
+      "level_2": [
+        "Writing unclear or rude comments.",
+        "Not listening to peer replies."
+      ],
+      "level_3": [
+        "Getting defensive about feedback.",
+        "Ignoring agreed review rules."
+      ],
+      "level_4": [
+        "Failing to mentor juniors on review skills.",
+        "Not fixing repeated mistakes."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is peer review?",
+        "Name one benefit of peer feedback."
+      ],
+      "level_2": [
+        "Why be clear in review comments?",
+        "Why do mock reviews help?"
+      ],
+      "level_3": [
+        "Why balance pros and cons?",
+        "How does peer review reduce bugs?"
+      ],
+      "level_4": [
+        "Why coach juniors in feedback?",
+        "How to handle conflicts in review?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Review a simple code file for a classmate."
+      ],
+      "level_2": [
+        "Do a mock PR review with a peer."
+      ],
+      "level_3": [
+        "Run a mini feedback session for a project."
+      ],
+      "level_4": [
+        "Guide juniors with review checklist."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t be rude in comments.",
+        "Thank peers for their help."
+      ],
+      "level_2": [
+        "Explain what you mean clearly.",
+        "Be open to change your own work."
+      ],
+      "level_3": [
+        "Review regularly, not just once.",
+        "Help others improve, not just criticise."
+      ],
+      "level_4": [
+        "Set team review norms.",
+        "Share learnings from reviews."
+      ]
+    }
+  },
+  "reference_link": "https://www.researchgate.net/publication/247746857_Peer_Review_A_Tool_for_Effective_Learning"
+}
