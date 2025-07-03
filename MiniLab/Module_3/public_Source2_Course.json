@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by LinkedIn STAR Method and Coursera Interview Preparation",
+  "module": "Module 3: Behavioral Interview Preparation (STAR Framework)",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Mastering the STAR Method",
+    "platform": "LinkedIn Learning, Coursera"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Behavioral interviews check how you handled situations before.",
+        "STAR stands for Situation, Task, Action, Result.",
+        "The method helps you give clear, honest answers.",
+        "Interviewers like this because it shows real experience.",
+        "It’s simple to learn and use with practice."
+      ],
+      "level_2": [
+        "Courses explain how to break down answers step by step.",
+        "You learn to choose good stories from your work or college.",
+        "They teach you to stay focused and not go off-topic.",
+        "Lessons show how to highlight your role clearly.",
+        "Practice examples help build confidence."
+      ],
+      "level_3": [
+        "Advanced tips help you link STAR to company values.",
+        "You learn to pick stories that fit the job description.",
+        "Courses cover how to handle follow-up questions.",
+        "They show how to adapt one story for different questions.",
+        "You practice saying answers naturally, not like a script."
+      ],
+      "level_4": [
+        "Expert lessons focus on handling panel interviews.",
+        "They teach how to tell STAR stories under pressure.",
+        "You learn to coach juniors on answering well.",
+        "You practice giving feedback to mock answers.",
+        "Courses show how STAR fits into leadership roles."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using STAR to answer 'Tell me about a time you solved a problem.'",
+        "Explaining teamwork stories using STAR."
+      ],
+      "level_2": [
+        "Sharing how you handled a conflict with STAR.",
+        "Answering time management questions with STAR."
+      ],
+      "level_3": [
+        "Showing leadership examples with STAR.",
+        "Explaining how you improved a process with STAR."
+      ],
+      "level_4": [
+        "Coaching others to find STAR examples.",
+        "Using STAR for performance reviews."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers use STAR for HR round answers."
+      ],
+      "level_2": [
+        "Junior devs use STAR for promotion discussions."
+      ],
+      "level_3": [
+        "Managers expect clear STAR answers in interviews."
+      ],
+      "level_4": [
+        "Leads train teams to use STAR for clear communication."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Think what the interviewer wants to hear.",
+        "Pick simple, true examples."
+      ],
+      "level_2": [
+        "Think of problems you solved yourself.",
+        "Break the story into steps."
+      ],
+      "level_3": [
+        "Add numbers or results to your story.",
+        "Practice connecting story to the job."
+      ],
+      "level_4": [
+        "Guide teammates on good story structure.",
+        "Make your answers short but clear."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Going off-topic in answers.",
+        "Forgetting the result part."
+      ],
+      "level_2": [
+        "Choosing weak or old stories.",
+        "Not showing your own action."
+      ],
+      "level_3": [
+        "Using the same story for every question.",
+        "Giving too many details and losing focus."
+      ],
+      "level_4": [
+        "Over-preparing and sounding robotic.",
+        "Not adapting to new questions."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What does STAR stand for?",
+        "Why do companies use STAR?"
+      ],
+      "level_2": [
+        "When do you use STAR answers?",
+        "How can you make answers clear?"
+      ],
+      "level_3": [
+        "How do you show results with numbers?",
+        "How do you handle follow-ups?"
+      ],
+      "level_4": [
+        "How can you help a friend improve STAR stories?",
+        "How do you adjust stories for senior roles?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a STAR answer for a teamwork question."
+      ],
+      "level_2": [
+        "Practice a STAR answer with a friend."
+      ],
+      "level_3": [
+        "Record yourself answering 3 STAR questions."
+      ],
+      "level_4": [
+        "Give feedback to someone else’s STAR answers."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t memorize answers word for word.",
+        "Keep examples true and simple."
+      ],
+      "level_2": [
+        "Avoid unrelated details.",
+        "Don’t rush the result part."
+      ],
+      "level_3": [
+        "Practice saying it out loud.",
+        "Adapt answers to each job."
+      ],
+      "level_4": [
+        "Help juniors find strong examples.",
+        "Stay calm even if interrupted."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/learning/topics/star-interview-method"
+}
