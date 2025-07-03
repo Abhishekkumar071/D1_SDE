@@ -1,0 +1,165 @@
+{
+  "source": "Search – Based on Google Search, LinkedIn Career Guides, Glassdoor and Indeed",
+  "module": "Module 4: Career Roadmapping & Role Matching",
+  "file_type": "public_Source6_Search",
+  "search_platform": {
+    "name": "Google Search",
+    "keywords": [
+      "career roadmap for software developer",
+      "tech role matching",
+      "skills needed for front-end vs back-end",
+      "how to choose career path in tech"
+    ]
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Google Search helps beginners find career planning advice.",
+        "You can search for different tech roles like SDE, QA, or PM.",
+        "Articles explain what each role does and basic skills needed.",
+        "Job boards show what companies expect from new hires.",
+        "LinkedIn blogs give tips for planning your tech journey."
+      ],
+      "level_2": [
+        "Search results show step-by-step guides for career growth.",
+        "You learn how to match your skills with roles.",
+        "Posts explain how to switch from one role to another.",
+        "Examples help you pick backend, frontend, or full stack.",
+        "Career sites give salary info and future scope."
+      ],
+      "level_3": [
+        "Search helps you compare roles at big vs small companies.",
+        "You find real job descriptions and skill lists.",
+        "People share stories about switching roles.",
+        "Career maps show senior/junior levels and promotions.",
+        "Guides show how to prepare for target roles."
+      ],
+      "level_4": [
+        "Advanced searches find niche roles like DevOps or Data Engineer.",
+        "You find mentoring resources to guide your roadmap.",
+        "Experts share frameworks for 3-5 year career plans.",
+        "Search connects you to communities like Reddit or Discord.",
+        "You learn how to update your roadmap as you grow."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Checking what skills are needed for junior developer jobs.",
+        "Searching entry-level SDE role requirements."
+      ],
+      "level_2": [
+        "Comparing full stack vs backend career paths.",
+        "Finding interview questions for specific roles."
+      ],
+      "level_3": [
+        "Reading about senior developer daily tasks.",
+        "Searching for role switch tips (e.g., dev to QA)."
+      ],
+      "level_4": [
+        "Finding how to grow from IC to tech lead.",
+        "Exploring startup vs enterprise role maps."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers use search to check job descriptions."
+      ],
+      "level_2": [
+        "Interns plan next steps using career roadmaps."
+      ],
+      "level_3": [
+        "Mid-level devs plan how to become senior."
+      ],
+      "level_4": [
+        "Leads map skills for promotions and new teams."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "List your interests before searching.",
+        "Check multiple job sites for trends."
+      ],
+      "level_2": [
+        "Look for skills you already have vs skills needed.",
+        "Read stories of people with similar goals."
+      ],
+      "level_3": [
+        "Compare company expectations for similar roles.",
+        "Search for real salary data and growth chances."
+      ],
+      "level_4": [
+        "Plan to update your roadmap every year.",
+        "Search for mentors who share tips online."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not knowing which keywords to use.",
+        "Reading only one article."
+      ],
+      "level_2": [
+        "Comparing wrong roles together.",
+        "Ignoring real job descriptions."
+      ],
+      "level_3": [
+        "Copying someone else’s path without matching your skills.",
+        "Not updating plan when goals change."
+      ],
+      "level_4": [
+        "Not considering niche skills needed for top roles.",
+        "Skipping community advice and networking."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a career roadmap?",
+        "Why is role matching important?"
+      ],
+      "level_2": [
+        "How do you find skills for a role?",
+        "Why compare multiple sources?"
+      ],
+      "level_3": [
+        "How does company size affect roles?",
+        "Why update your roadmap regularly?"
+      ],
+      "level_4": [
+        "What is a niche tech role?",
+        "Why connect with communities?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Search for your dream role’s top skills."
+      ],
+      "level_2": [
+        "Make a small roadmap for next 1 year."
+      ],
+      "level_3": [
+        "Compare 2 companies’ job postings for the same role."
+      ],
+      "level_4": [
+        "Write a 3-year plan with skills and target roles."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t trust only one source.",
+        "Take notes when you search."
+      ],
+      "level_2": [
+        "Avoid copying random roadmaps.",
+        "Check skills with real job posts."
+      ],
+      "level_3": [
+        "Adjust roadmap as you grow.",
+        "Join online groups for advice."
+      ],
+      "level_4": [
+        "Review your plan with a mentor.",
+        "Update it yearly with industry trends."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/pulse/how-build-career-roadmap-technology-industry"
+}
