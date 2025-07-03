@@ -1,128 +1,160 @@
 {
-  "source": "Public Industry Trends – 2025 State of Open Source Report (OpenLogic), Stack Overflow & Linux Foundation data",
+  "source": "Industry Trends – Based on GitHub Octoverse Report",
   "module": "Module 2: GitHub & Open Source Etiquette",
   "file_type": "public_Source8_IndustryTrends",
-  "trends": [
-    "96% of organizations use or increased open source adoption in 2025",
-    "Open source AI projects saw 100K+ new repos last year (GitHub CEO)",
-    "$9T contributed by open source to global economy (Linux Foundation)",
-    "Supply chain attacks rose ~98% annual vulnerability reports in OSS"
-  ],
+  "industry_report": {
+    "name": "GitHub Octoverse",
+    "platform": "GitHub.com"
+  },
   "segments": {
     "introduction": {
       "level_1": [
-        "Open source is everywhere—96% of orgs are using it more or the same as last year :contentReference[oaicite:1]{index=1}."
+        "Open source powers millions of projects worldwide.",
+        "The Octoverse report shows more people contributing each year.",
+        "Beginners use GitHub to learn collaboration basics.",
+        "Trends highlight the importance of good etiquette when working with global teams.",
+        "Community guidelines help keep projects healthy."
       ],
       "level_2": [
-        "GitHub added over 100K OSS‑AI repos last year—people now share AI tools openly :contentReference[oaicite:2]{index=2}.",
-        "Linux Foundation says OSS adds $9 trillion in global value—big impact :contentReference[oaicite:3]{index=3}."
+        "More companies are encouraging employees to contribute to open source.",
+        "The number of pull requests and forks grows every year.",
+        "Maintainers expect contributors to follow clear contribution rules.",
+        "Trends show increasing awareness about licensing and security.",
+        "Good etiquette builds trust in open communities."
       ],
       "level_3": [
-        "Vulnerabilities in OSS rose ~98% annually—so etiquette now includes security reviews :contentReference[oaicite:4]{index=4}.",
-        "Enterprise OSS governance is growing; companies focus on compliance :contentReference[oaicite:5]{index=5}."
+        "Reports show which repos are best examples of clear guidelines.",
+        "Top projects have strict PR reviews and friendly feedback.",
+        "Companies back open source to attract developers.",
+        "Maintainers value respectful issue discussions.",
+        "Trends encourage diversity and inclusive language."
       ],
       "level_4": [
-        "Open‑coopetition means competitors build OSS together—e.g. WebKit from Apple, Google, Samsung :contentReference[oaicite:6]{index=6}.",
-        "Industry is shifting—OSS is core to AI, cloud, and economic growth strategies."
+        "Industry leaders share insights on scaling open-source communities.",
+        "Many companies open source internal tools to build trust.",
+        "Maintainers need advanced moderation skills for large communities.",
+        "Top contributors mentor juniors to keep projects alive.",
+        "Octoverse highlights new practices for healthy collaboration."
       ]
     },
     "realWorldUseCases": {
       "level_1": [
-        "Teams fix typos, update readmes—small PRs that build confidence."
+        "New devs fork trending projects to learn by doing.",
+        "Students study top repos to write better READMEs."
       ],
       "level_2": [
-        "Developers share AI helpers via public repos—common on GitHub now."
+        "Contributors fix bugs in popular frameworks.",
+        "Teams open source side tools to help others."
       ],
       "level_3": [
-        "Projects run security checks on dependencies after supply‑chain incidents."
+        "Companies manage large repos with thousands of PRs.",
+        "Maintainers enforce codes of conduct for community safety."
       ],
       "level_4": [
-        "Companies sponsor OSS projects as part of long‑term strategy."
+        "Tech giants run large open-source foundations.",
+        "Leads run online discussions to set new community standards."
       ]
     },
     "industryApplications": {
       "level_1": [
-        "Most interns use GitHub to learn basic collaboration."
+        "Hiring managers check GitHub profiles."
       ],
       "level_2": [
-        "Juniors submit PRs for doc fixes and small features."
+        "Companies reward devs for valuable PRs."
       ],
       "level_3": [
-        "Mid‑level devs enforce secure merge practices and review templates."
+        "Firms sponsor maintainers to keep tools updated."
       ],
       "level_4": [
-        "Tech leads set governance, track OSS metrics and drive coopetition."
+        "Organizations join foundations like CNCF for shared governance."
       ]
     },
     "thinkingPattern": {
       "level_1": [
-        "Ask: Is this change small and clear for a PR?"
+        "Be polite when submitting issues.",
+        "Thank maintainers for free help."
       ],
       "level_2": [
-        "Ask: Will this component be used widely by others?"
+        "Read past discussions to avoid duplicate issues.",
+        "Follow template guidelines."
       ],
       "level_3": [
-        "Think: Are we following security and license rules?"
+        "Test your changes before submitting PRs.",
+        "Respond to code review comments respectfully."
       ],
       "level_4": [
-        "Reflect: Should we contribute upstream to reduce company maintenance?"
+        "Encourage new contributors with clear tasks.",
+        "Discuss project vision openly with community."
       ]
     },
     "problemTypes": {
       "level_1": [
-        "No contribution—developers afraid to make small PRs."
+        "Not reading contribution guidelines.",
+        "Ignoring issue templates."
       ],
       "level_2": [
-        "Ignoring security—adding dependencies without checks."
+        "Low-quality PRs without tests.",
+        "Duplicate issues cluttering backlog."
       ],
       "level_3": [
-        "Not following governance—missing license headers or CLA."
+        "Flame wars in discussions.",
+        "Disrespectful comments during reviews."
       ],
       "level_4": [
-        "Avoiding collaboration—companies staying isolated and losing innovation."
+        "Poor moderation in large projects.",
+        "No enforcement of code of conduct."
       ]
     },
     "assessmentsAndQuizzes": {
       "level_1": [
-        "What percent of orgs use OSS?"
+        "Name one open-source etiquette rule.",
+        "Why say 'thank you' to maintainers?"
       ],
       "level_2": [
-        "Name one trend in open source AI growth."
+        "Why should you follow issue templates?",
+        "What is a code of conduct?"
       ],
       "level_3": [
-        "Why are supply‑chain checks needed in PR workflows?"
+        "How do big projects handle PR overload?",
+        "Why is moderation important?"
       ],
       "level_4": [
-        "How can coopetition benefit company strategy?"
+        "How can a community stay welcoming?",
+        "How does governance affect open source?"
       ]
     },
     "miniProjects": {
       "level_1": [
-        "Create a sample PR to fix a typo in README."
+        "Fork and star a trending project."
       ],
       "level_2": [
-        "Upload an AI script in a public repo and add license."
+        "Find a typo and open a PR fix."
       ],
       "level_3": [
-        "Add dependency security check to your project."
+        "Join an open-source event like Hacktoberfest."
       ],
       "level_4": [
-        "Propose internal governance doc for open‑source contribution."
+        "Draft a simple code of conduct for a new repo."
       ]
     },
     "suggestionsAndMistakes": {
       "level_1": [
-        "Start with small contributions—don’t fear PRs."
+        "Don’t spam maintainers for merges.",
+        "Always be kind in comments."
       ],
       "level_2": [
-        "Always add licenses and read governance docs."
+        "Check project rules before contributing.",
+        "Don’t push half-finished work."
       ],
       "level_3": [
-        "Don’t commit before checking vulnerability scanners."
+        "Respect review timelines.",
+        "Be open to feedback."
       ],
       "level_4": [
-        "Avoid working alone—increase transparency and collaboration."
+        "Keep community healthy with clear policies.",
+        "Resolve conflicts openly and fairly."
       ]
     }
-  }
+  },
+  "reference_link": "https://octoverse.github.com/"
 }
