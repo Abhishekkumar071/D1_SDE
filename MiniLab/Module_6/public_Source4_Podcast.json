@@ -1,0 +1,161 @@
+{
+  "source": "Podcast – Inspired by FreeCodeCamp Podcast on Building Developer Portfolios",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source4_Podcast",
+  "podcast": {
+    "name": "The FreeCodeCamp Podcast",
+    "episode": "How to Build a Developer Portfolio that Gets You Hired",
+    "platform": "FreeCodeCamp.org"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Podcasts explain why a portfolio matters for freshers.",
+        "Experts share how a good portfolio helps in tech jobs.",
+        "They talk about using GitHub to show skills.",
+        "Guests share personal stories about projects.",
+        "Listeners learn where to host their work online."
+      ],
+      "level_2": [
+        "Episodes discuss picking good project ideas.",
+        "They explain how to write README files.",
+        "Podcasts talk about making small projects better.",
+        "Guests share mistakes they made in early portfolios.",
+        "They give tips on what recruiters look for."
+      ],
+      "level_3": [
+        "Speakers discuss open source contributions.",
+        "They explain how to build unique niche projects.",
+        "Podcasts share advice on showing teamwork in code.",
+        "Episodes explain how to update old projects.",
+        "Guests talk about using blogs with portfolios."
+      ],
+      "level_4": [
+        "Podcasts cover advanced portfolio strategies.",
+        "They explain mentoring others on project building.",
+        "Episodes share how to handle project feedback.",
+        "Speakers talk about leading community projects.",
+        "They give advice on presenting projects in interviews."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Making a simple GitHub repo to share code.",
+        "Adding portfolio links to resumes."
+      ],
+      "level_2": [
+        "Making a website to showcase work.",
+        "Uploading screenshots and demos."
+      ],
+      "level_3": [
+        "Contributing to open source projects.",
+        "Sharing project write-ups on blogs."
+      ],
+      "level_4": [
+        "Running community project showcases.",
+        "Mentoring juniors to build portfolios."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs use portfolios in job applications."
+      ],
+      "level_2": [
+        "Hiring managers check GitHub activity."
+      ],
+      "level_3": [
+        "Teams value clear, updated project docs."
+      ],
+      "level_4": [
+        "Leads promote open source work to build trust."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Pick projects you like building.",
+        "Focus on clean and simple work."
+      ],
+      "level_2": [
+        "Explain each project clearly.",
+        "Add install steps and usage notes."
+      ],
+      "level_3": [
+        "Fix bugs and update old code.",
+        "Keep adding features if useful."
+      ],
+      "level_4": [
+        "Help others build good projects.",
+        "Share your learnings in talks or blogs."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No README files.",
+        "Only half-finished projects."
+      ],
+      "level_2": [
+        "No clear instructions for users.",
+        "Projects with copied code."
+      ],
+      "level_3": [
+        "Not fixing user issues.",
+        "Outdated project dependencies."
+      ],
+      "level_4": [
+        "Not helping others build projects.",
+        "Not updating your portfolio yearly."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why share a portfolio?",
+        "Where can you host your code?"
+      ],
+      "level_2": [
+        "Why write a README?",
+        "How many projects should you share?"
+      ],
+      "level_3": [
+        "What is open source contribution?",
+        "Why keep projects updated?"
+      ],
+      "level_4": [
+        "Why mentor juniors in portfolio skills?",
+        "How does feedback help a portfolio?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload one project on GitHub."
+      ],
+      "level_2": [
+        "Write a good README for it."
+      ],
+      "level_3": [
+        "Join a small open source issue."
+      ],
+      "level_4": [
+        "Guide a peer in uploading a project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t hide your work — share it.",
+        "Use simple names for repos."
+      ],
+      "level_2": [
+        "Don’t upload messy or broken code.",
+        "Give credit if you reuse code."
+      ],
+      "level_3": [
+        "Fix bugs when someone reports them.",
+        "Reply to comments on your repo."
+      ],
+      "level_4": [
+        "Encourage juniors to build public projects.",
+        "Update your portfolio regularly."
+      ]
+    }
+  },
+  "reference_link": "https://www.freecodecamp.org/news/tag/podcast/"
+}
