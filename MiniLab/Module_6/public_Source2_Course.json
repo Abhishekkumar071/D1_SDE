@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by LinkedIn Learning and Coursera Portfolio Courses",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Building Your Developer Portfolio",
+    "platform": "LinkedIn Learning, Coursera"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "A portfolio shows your real coding skills.",
+        "Courses explain why public projects matter.",
+        "You learn to share projects on GitHub.",
+        "Good portfolios help you get noticed by employers.",
+        "You understand what projects to include."
+      ],
+      "level_2": [
+        "Lessons show how to pick strong project ideas.",
+        "You learn to add clear README files.",
+        "Courses explain how to keep code clean.",
+        "You see examples of good project structures.",
+        "You practice uploading and updating projects."
+      ],
+      "level_3": [
+        "Courses cover building niche or advanced projects.",
+        "You learn to explain project goals clearly.",
+        "Lessons share tips for making projects stand out.",
+        "They guide you on using version control well.",
+        "You learn to handle feedback and updates."
+      ],
+      "level_4": [
+        "Advanced topics cover open source contributions.",
+        "You learn to build community-backed projects.",
+        "Courses show how to manage multiple repos.",
+        "You learn to present your work in interviews.",
+        "You guide juniors on portfolio building too."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Posting your first project on GitHub.",
+        "Sharing code links on resume."
+      ],
+      "level_2": [
+        "Making a personal website for your projects.",
+        "Adding screenshots and instructions in README."
+      ],
+      "level_3": [
+        "Building a project with a team and showcasing it.",
+        "Writing blogs to explain your projects."
+      ],
+      "level_4": [
+        "Maintaining a popular open source repo.",
+        "Helping others contribute to your project."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers use portfolios to get internships."
+      ],
+      "level_2": [
+        "Junior devs share project links in interviews."
+      ],
+      "level_3": [
+        "Hiring managers check GitHub for project quality."
+      ],
+      "level_4": [
+        "Leads mentor teams on open source strategies."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Pick simple, useful project ideas.",
+        "Focus on clean, working code."
+      ],
+      "level_2": [
+        "Write clear docs for each project.",
+        "Show what problem your project solves."
+      ],
+      "level_3": [
+        "Keep code readable and tested.",
+        "Update old projects regularly."
+      ],
+      "level_4": [
+        "Think how to scale projects for real users.",
+        "Help peers make strong portfolios too."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Having too few projects to show.",
+        "Forgetting to write README files."
+      ],
+      "level_2": [
+        "Uploading messy or broken code.",
+        "Copying code without credit."
+      ],
+      "level_3": [
+        "Not updating projects for years.",
+        "Ignoring user feedback or issues."
+      ],
+      "level_4": [
+        "Failing to maintain open source repos.",
+        "Not guiding juniors on portfolio tips."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a portfolio?",
+        "Why share projects publicly?"
+      ],
+      "level_2": [
+        "How does README help employers?",
+        "What makes a project good to share?"
+      ],
+      "level_3": [
+        "Why update projects over time?",
+        "How to stand out with niche projects?"
+      ],
+      "level_4": [
+        "How does open source improve your portfolio?",
+        "How can you guide others to build portfolios?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload one small project to GitHub."
+      ],
+      "level_2": [
+        "Write a clear README for it."
+      ],
+      "level_3": [
+        "Build a portfolio website showing 3 projects."
+      ],
+      "level_4": [
+        "Start an open source repo and invite peers."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t share incomplete projects.",
+        "Use clear names for repos."
+      ],
+      "level_2": [
+        "Don’t copy code without credit.",
+        "Keep docs simple and honest."
+      ],
+      "level_3": [
+        "Keep projects bug-free and tested.",
+        "Respond to issues or feedback."
+      ],
+      "level_4": [
+        "Mentor juniors on portfolio reviews.",
+        "Update portfolio yearly with best work."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/learning/topics/portfolio"
+}
