@@ -1,0 +1,131 @@
+{
+  "source": "Public Newsletter/Article/Vlog – Jackynote",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source5_Newsletter",
+  "newsletter": {
+    "name": "Learning Through Mistakes: The Valuable Lessons from Wrong Decisions in my Software Engineering Journey",
+    "platform": "DEV.to"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Mistakes are part of every software engineer's journey.",
+        "This article reflects on personal failures and lessons learned in engineering roles."
+      ],
+      "level_2": [
+        "Describes scenarios like ignoring feedback, fearing failure, and rushing work.",
+        "Shares real consequences and emotional cost behind each misstep."
+      ],
+      "level_3": [
+        "Discusses over-engineering and the burden of technical debt.",
+        "Explores the shift in mindset from fear to growth."
+      ],
+      "level_4": [
+        "Links personal experiences to long-term engineering team health.",
+        "Encourages leaders to share their failures to build team trust."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Rushing deadlines leading to bugs and rework.",
+        "Skipping documentation, slowing team onboarding."
+      ],
+      "level_2": [
+        "Ignoring team feedback causing poor design choices.",
+        "Letting fear prevent skill development or promotions."
+      ],
+      "level_3": [
+        "Over-engineering features bloating maintenance costs.",
+        "Mismanaging stakeholder expectations during crunch periods."
+      ],
+      "level_4": [
+        "Promoting psychological safety by publicly owning mistakes.",
+        "Rebuilding broken processes after post-mortem reflections."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "New engineers learn that failures are not career-ending."
+      ],
+      "level_2": [
+        "Leads use stories of mistakes to mentor junior devs."
+      ],
+      "level_3": [
+        "Tech leads redesign process to prevent recurring mistakes."
+      ],
+      "level_4": [
+        "Teams use failure logs to design better SDLC workflows."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Notice the emotional triggers after a mistake."
+      ],
+      "level_2": [
+        "Reflect and write down lessons learned."
+      ],
+      "level_3": [
+        "Create recovery plans to avoid repeat failures."
+      ],
+      "level_4": [
+        "Encourage cultural shifts around learning from failure."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Ignoring documentation or basic design checks."
+      ],
+      "level_2": [
+        "Fearing judgment and avoiding high-impact tasks."
+      ],
+      "level_3": [
+        "Overcomplicating code when simpler solutions suffice."
+      ],
+      "level_4": [
+        "Avoiding responsibility and hindering team trust."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What happens if you skip documentation?"
+      ],
+      "level_2": [
+        "Why is team feedback valuable even when you disagree?"
+      ],
+      "level_3": [
+        "When does complexity hurt more than it helps in code?"
+      ],
+      "level_4": [
+        "How can leaders create safe spaces for failure reflection?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a checklist for documenting new code features."
+      ],
+      "level_2": [
+        "Create a blog post about a mistake you’ve learned from."
+      ],
+      "level_3": [
+        "Refactor a past project to reduce over-engineering."
+      ],
+      "level_4": [
+        "Host a retrospective or learning circle about a failed project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t rush delivery at the cost of long-term quality."
+      ],
+      "level_2": [
+        "Listen to your team — even when you’re confident."
+      ],
+      "level_3": [
+        "Avoid building overly complex systems from the start."
+      ],
+      "level_4": [
+        "Share your own failures to help others grow."
+      ]
+    }
+  }
+}

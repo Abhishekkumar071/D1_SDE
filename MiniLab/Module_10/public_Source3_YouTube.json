@@ -1,0 +1,120 @@
+{
+  "source": "Public YouTube video – “How to overcome your mistakes” (TED‑Ed)",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source3_YouTube",
+  "url": "https://youtu.be/eBz7iUJu9UM?si=Wnp-gGnCQ3xM2R8Q",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This TED‑Ed video explains why making mistakes can be emotionally painful and undermine learning."
+      ],
+      "level_2": [
+        "It cites a 2019 study showing early failure impacts later performance, even when learners have equal information thereafter."
+      ],
+      "level_3": [
+        "Discusses how emotional distress impairs cognitive processes and how feedback preferences differ based on learner experience."
+      ],
+      "level_4": [
+        "Argues that focusing on successes provides clearer cues for improvement than over-analyzing failures, encouraging a resilience mindset."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Beginners often need positive reinforcement more than corrective feedback to stay motivated."
+      ],
+      "level_2": [
+        "Teachers design early success tasks in language classes to build confidence in novices."
+      ],
+      "level_3": [
+        "Managers structure onboarding with achievement milestones rather than focusing on mistakes."
+      ],
+      "level_4": [
+        "Successful teams build playbooks from wins and embed those into culture, reducing failure stigma."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Educational platforms use achievement badges to boost beginner engagement."
+      ],
+      "level_2": [
+        "Corporate training programs offer gentle feedback first, followed by critical advice for experienced staff."
+      ],
+      "level_3": [
+        "Performance management frameworks incorporate strength-based reviews, not just failure points."
+      ],
+      "level_4": [
+        "Organizations implement post-mortems that highlight both successes and failures to foster learning."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Start with what worked before reviewing what didn’t."
+      ],
+      "level_2": [
+        "Gauge emotional readiness before delivering feedback."
+      ],
+      "level_3": [
+        "Pair success reinforcement with root-cause failure analysis."
+      ],
+      "level_4": [
+        "Design systems that amplify initial wins to build resilience and momentum."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Early failure that demotivates learners before learning begins."
+      ],
+      "level_2": [
+        "Ambiguous failure where the cause is unclear and not easily actionable."
+      ],
+      "level_3": [
+        "Emotional impact of failure hindering continued learning progress."
+      ],
+      "level_4": [
+        "Teams that obsess over failures without building on consistent success patterns."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "True/False: Focusing on success can sometimes support learning more than failure."
+      ],
+      "level_2": [
+        "Why do beginners prefer positive feedback after mistakes?"
+      ],
+      "level_3": [
+        "Describe how failure-induced stress impairs cognitive processing."
+      ],
+      "level_4": [
+        "How can focusing on successes improve team resilience?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Reflect on a recent success and list what helped you achieve it."
+      ],
+      "level_2": [
+        "Keep a daily ‘win journal’ where you note small successes and what you learned."
+      ],
+      "level_3": [
+        "Interview a peer about how focusing on wins helped their growth."
+      ],
+      "level_4": [
+        "Design a peer-review process that starts with success highlights before suggestions."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t assume failure always teaches—context and emotion matter."
+      ],
+      "level_2": [
+        "Avoid harsh feedback with beginners—it can demotivate."
+      ],
+      "level_3": [
+        "Don’t neglect the emotional impact when reviewing someone’s mistake."
+      ],
+      "level_4": [
+        "Avoid over-analyzing failures at the expense of recognizing positive achievements."
+      ]
+    }
+  }
+}

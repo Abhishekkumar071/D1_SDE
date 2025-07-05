@@ -1,0 +1,123 @@
+{
+  "source": "Public Search – Medium.com, Dev.to, FreeCodeCamp on mistake-driven growth for engineers",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source6_Search",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Articles help junior engineers understand common career-killing habits through real examples.",
+        "Search results show how small daily actions — like procrastination or ignoring feedback — snowball over time."
+      ],
+      "level_2": [
+        "They focus on self-sabotage patterns that delay promotions or learning.",
+        "Writers use reverse psychology and humor to highlight what NOT to do in tech careers."
+      ],
+      "level_3": [
+        "Search content includes first-hand stories of getting stuck for years, then turning things around with discipline.",
+        "Many articles compare before-after situations to teach recovery strategies."
+      ],
+      "level_4": [
+        "Senior engineers break down each mistake and reflect on how emotional triggers and fear shape bad habits.",
+        "They link toxic traits like perfectionism or tutorial addiction to long-term growth delays."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Missing deadlines due to overplanning or last-minute panic coding."
+      ],
+      "level_2": [
+        "Avoiding new frameworks like React Hooks due to overconfidence or stagnation."
+      ],
+      "level_3": [
+        "Neglecting networking with leadership and missing out on mentorship and visibility."
+      ],
+      "level_4": [
+        "Switching roles frequently (Dev → Designer → DevOps) without mastery — leading to shallow skills and instability."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Staying stuck in junior roles due to passive learning and no visibility."
+      ],
+      "level_2": [
+        "Tutorial hell leads to failure in whiteboard interviews or on-the-job tasks."
+      ],
+      "level_3": [
+        "Avoiding challenges results in low ratings during performance reviews."
+      ],
+      "level_4": [
+        "Wasting time on social media reduces deep work and long-term output, noticed by managers and mentors."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Am I learning or just consuming content mindlessly?"
+      ],
+      "level_2": [
+        "Ask: Am I afraid of failure, so I stay safe and avoid tough tasks?"
+      ],
+      "level_3": [
+        "Ask: Am I blaming others for my lack of progress?"
+      ],
+      "level_4": [
+        "Ask: Have I built depth in any skill, or am I career-hopping without direction?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Wasting hours watching videos without practicing code."
+      ],
+      "level_2": [
+        "Assuming your current knowledge is enough and resisting updates."
+      ],
+      "level_3": [
+        "Feeling stuck despite working — due to wrong learning methods or mindset."
+      ],
+      "level_4": [
+        "No visible growth due to years of poor decisions disguised as 'exploration'."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is tutorial hell and how can it stall your career?"
+      ],
+      "level_2": [
+        "How can procrastination become a habit that blocks growth?"
+      ],
+      "level_3": [
+        "Why is blaming others harmful in tech environments?"
+      ],
+      "level_4": [
+        "Explain why constantly switching domains without mastery is risky."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Track your screen time for a week and share findings."
+      ],
+      "level_2": [
+        "Write a blog post describing 3 self-sabotaging habits and how you plan to fix them."
+      ],
+      "level_3": [
+        "Build one project with no tutorial — use docs only and share lessons learned."
+      ],
+      "level_4": [
+        "Create a timeline of your tech journey showing distractions, mistakes, recoveries, and learnings."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Avoid scrolling during peak work hours — block distractions."
+      ],
+      "level_2": [
+        "Don’t skip networking; even introverts can connect through DMs and async updates."
+      ],
+      "level_3": [
+        "Don’t ignore new trends thinking you know enough — tech moves fast."
+      ],
+      "level_4": [
+        "Don't build a shallow resume by jumping domains; go deep, not wide early in your career."
+      ]
+    }
+  }
+}

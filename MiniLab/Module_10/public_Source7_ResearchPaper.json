@@ -1,0 +1,126 @@
+{
+  "source": "Public Research Papers – Brigham Young University papers",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source7_ResearchPaper",
+  "papers": [
+    "Learning From Lessons Learned: Preliminary Findings From a Study of Learning From Failure"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "This paper discusses how teams can learn from real-world system failures through post-mortems and collaborative reflection.",
+        "The research investigates why organizations struggle to apply incident insights into long-term improvements."
+      ],
+      "level_2": [
+        "It shows how incidents trigger learning not just from root causes but from a wide range of failure contexts.",
+        "Interviews and incident reports reveal recurring gaps in organizational memory and follow-up actions."
+      ],
+      "level_3": [
+        "The study uses open-ended interviews and public post-mortems to understand multi-level learning failures.",
+        "It highlights how organizational inertia and shifting priorities reduce long-term retention of lessons."
+      ],
+      "level_4": [
+        "Advanced themes include designing interventions and tools for sustainable learning from incidents.",
+        "Future models aim to address socio-technical complexity in failure-driven evolution of systems."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Teams forgetting critical config lessons after minor outages."
+      ],
+      "level_2": [
+        "Adding alerting tools post-incident to detect similar issues faster."
+      ],
+      "level_3": [
+        "Identifying cascading failures and logging gaps from large-scale outages."
+      ],
+      "level_4": [
+        "Adapting incident learnings to support cross-team knowledge transfer in complex systems."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "SRE and DevOps teams conduct root cause post-mortems."
+      ],
+      "level_2": [
+        "Engineering orgs improve monitoring and rollback workflows after failures."
+      ],
+      "level_3": [
+        "Incident lessons drive roadmap changes in reliability engineering."
+      ],
+      "level_4": [
+        "Tooling and frameworks for continuous learning from system-wide failure data."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Did this incident reveal a known issue we ignored?"
+      ],
+      "level_2": [
+        "Ask: Did responders have the tools and data to act fast?"
+      ],
+      "level_3": [
+        "Ask: Are there recurring failure themes across teams?"
+      ],
+      "level_4": [
+        "Ask: How do lessons persist as people and priorities change?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not applying previous lessons to current projects."
+      ],
+      "level_2": [
+        "No actions assigned to key lessons from a post-mortem."
+      ],
+      "level_3": [
+        "Lessons isolated to specific teams with no broader sharing."
+      ],
+      "level_4": [
+        "Loss of organizational memory due to team turnover or shift in strategy."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is one benefit of conducting a post-mortem?"
+      ],
+      "level_2": [
+        "Why might monitoring systems be a focus after an incident?"
+      ],
+      "level_3": [
+        "Explain why lessons may not spread beyond the original team."
+      ],
+      "level_4": [
+        "What challenges affect long-term learning in growing systems?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a brief post-mortem for a mock deployment error."
+      ],
+      "level_2": [
+        "Simulate a detection-and-response timeline for a database outage."
+      ],
+      "level_3": [
+        "Create a lessons-learned tracker using past incidents."
+      ],
+      "level_4": [
+        "Design a tool that visualizes recurring incident categories across time."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip documenting smaller outages — they often reveal useful insights."
+      ],
+      "level_2": [
+        "Always define action items for each lesson in a post-mortem."
+      ],
+      "level_3": [
+        "Avoid assuming lessons will naturally spread—build knowledge transfer processes."
+      ],
+      "level_4": [
+        "Don’t expect old lessons to stay relevant without revisiting them over time."
+      ]
+    }
+  }
+}

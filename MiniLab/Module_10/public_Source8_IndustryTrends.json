@@ -1,0 +1,127 @@
+{
+  "source": "Public Industry Trends – DesignRush Article: 'The True Cost of Poor Software Development Decisions: Failures & Lessons'",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source8_IndustryTrends",
+  "trends": [
+    "High cost of fixing software bugs late in the development lifecycle – DesignRush 2025",
+    "Real-world failures like Healthcare.gov and Samsung Note 7 highlight impact of bad software decisions"
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Many companies suffer losses due to bad software practices and avoidable mistakes.",
+        "Even beginners must understand that testing and quality checks save time and money."
+      ],
+      "level_2": [
+        "Fixing bugs during production can cost up to 100x more than during the design phase.",
+        "Real-world cases prove the financial impact of skipping QA and security steps."
+      ],
+      "level_3": [
+        "Growing companies face downtime, loss of customer trust, and compliance fines from technical mistakes.",
+        "Trends show the need for scalable QA, secure coding, and risk mitigation from day one."
+      ],
+      "level_4": [
+        "Enterprise systems now integrate AI testing and DevOps pipelines to prevent hidden costs.",
+        "Neglecting best practices results in massive operational, financial, and reputational damage."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Healthcare.gov failed at launch due to missing features and testing gaps."
+      ],
+      "level_2": [
+        "Samsung Note 7 battery issue led to a global recall and $17B in damages."
+      ],
+      "level_3": [
+        "Amazon Prime Day outage in 2018 cost an estimated $100 million in lost sales."
+      ],
+      "level_4": [
+        "Uber fined €290M for GDPR violations due to poor data handling and storage systems."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "QA engineers are required in early-stage startups to catch foundational issues."
+      ],
+      "level_2": [
+        "Mid-size companies use automated testing to reduce rework in scaling products."
+      ],
+      "level_3": [
+        "Enterprises invest in performance and load testing before product launches."
+      ],
+      "level_4": [
+        "Regulated industries prioritize secure coding, audits, and compliance-focused development."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask: Are we rushing this release without proper testing?"
+      ],
+      "level_2": [
+        "Consider: Are we documenting design decisions to avoid rework?"
+      ],
+      "level_3": [
+        "Plan: What processes prevent security or compliance violations?"
+      ],
+      "level_4": [
+        "Evaluate: Will this system remain reliable at scale and under scrutiny?"
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Missing validation and edge case testing."
+      ],
+      "level_2": [
+        "Ignoring feedback cycles and performance bottlenecks."
+      ],
+      "level_3": [
+        "Choosing the wrong tech stack or skipping architecture reviews."
+      ],
+      "level_4": [
+        "Neglecting regulatory requirements like GDPR or HIPAA in the development process."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why is software testing critical before release?"
+      ],
+      "level_2": [
+        "How much more expensive is it to fix a bug in production vs. design?"
+      ],
+      "level_3": [
+        "What are hidden costs of poor coding practices?"
+      ],
+      "level_4": [
+        "Explain how compliance failures can lead to fines and brand damage."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a test checklist for a small web form."
+      ],
+      "level_2": [
+        "Simulate a failed product launch due to missing edge cases."
+      ],
+      "level_3": [
+        "Write a report analyzing a real incident (e.g., Prime Day outage)."
+      ],
+      "level_4": [
+        "Design a system checklist for GDPR-compliant data handling and testing."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip unit testing to save time."
+      ],
+      "level_2": [
+        "Avoid last-minute architecture changes without thorough review."
+      ],
+      "level_3": [
+        "Always log and track technical debt and fix it strategically."
+      ],
+      "level_4": [
+        "Don’t treat compliance as a post-launch activity — integrate it into design and testing."
+      ]
+    }
+  }
+}

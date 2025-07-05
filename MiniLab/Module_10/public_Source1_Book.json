@@ -1,0 +1,119 @@
+{
+  "source": "Book - The Effective Engineer by Edmond Lau",
+  "module": "Module 10: Mistake Recovery & Growth Plans",
+  "file_type": "public_Source1_Book",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Mistake recovery and growth are crucial to becoming an effective engineer. Edmond Lau defines leverage as impact produced per time invested, and this principle drives all decisions."
+      ],
+      "level_2": [
+        "High-leverage activities, such as optimizing for learning, iterative development, and metrics-based feedback, produce exponential professional growth."
+      ],
+      "level_3": [
+        "Engineers must prioritize consistently, avoid context switching, and adopt pragmatic solutions to balance speed and quality."
+      ],
+      "level_4": [
+        "Investing in team growth, minimizing operational burden, and fostering shared ownership scale effectiveness beyond individual contributions."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using daily task prioritization to focus on high-leverage tasks."
+      ],
+      "level_2": [
+        "Introducing continuous deployment tools to reduce time between iterations."
+      ],
+      "level_3": [
+        "Using metrics to identify slow build times and improve system efficiency."
+      ],
+      "level_4": [
+        "Building a feedback culture with post-mortems and shared system ownership to improve incident response."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Code review practices to catch mistakes early."
+      ],
+      "level_2": [
+        "Instrumenting applications for performance and error monitoring."
+      ],
+      "level_3": [
+        "Implementing fault-tolerant systems that fail fast and recover quickly."
+      ],
+      "level_4": [
+        "Scaling onboarding and team productivity by codifying knowledge through automation and documentation."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Focus on tasks with high learning or business impact."
+      ],
+      "level_2": [
+        "Break work into small, testable experiments and get early feedback."
+      ],
+      "level_3": [
+        "Use metrics and root cause analysis to identify true sources of mistakes."
+      ],
+      "level_4": [
+        "Design systems and team processes that build resilience through iteration and shared knowledge."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Low-leverage busywork that doesn't scale impact."
+      ],
+      "level_2": [
+        "Delays caused by manual deployment or lack of automation."
+      ],
+      "level_3": [
+        "System failures due to poor metrics or absence of testing."
+      ],
+      "level_4": [
+        "Organizational stagnation due to lack of team knowledge sharing or leadership investment."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is leverage in the context of engineering productivity?"
+      ],
+      "level_2": [
+        "List two strategies to increase iteration speed on a software project."
+      ],
+      "level_3": [
+        "Describe how measuring the wrong metric can lead to unintended behavior."
+      ],
+      "level_4": [
+        "Explain how shared ownership and automated testing improve mistake recovery in large teams."
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a single prioritized todo list and reflect on leverage of each item."
+      ],
+      "level_2": [
+        "Build a script that automates a recurring manual task to improve iteration speed."
+      ],
+      "level_3": [
+        "Instrument an application with metrics and identify improvement areas."
+      ],
+      "level_4": [
+        "Design a team onboarding document that reduces knowledge silos and enables faster ramp-up."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't chase low-impact tasks for quick wins; evaluate leverage."
+      ],
+      "level_2": [
+        "Avoid solo development without validation or feedback."
+      ],
+      "level_3": [
+        "Don't pick poor abstractions or overengineer solutions."
+      ],
+      "level_4": [
+        "Avoid relying on tribal knowledge—invest in scalable team growth through shared practices."
+      ]
+    }
+  }
+}
