@@ -1,0 +1,161 @@
+{
+  "source": "Research Paper – Based on 'Online Portfolios for Career Development: A Review' by Hains-Wesson et al.",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "title": "Online Portfolios for Career Development: A Review",
+    "authors": "R. Hains-Wesson, M. Wakeling, et al.",
+    "platform": "Springer – Education and Information Technologies"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research papers explain how online portfolios help students show real skills.",
+        "Studies show portfolios help employers trust a candidate’s coding ability.",
+        "In this module, students learn why sharing projects publicly makes a difference.",
+        "Papers say portfolios are better proof than just grades or certificates.",
+        "Researchers suggest portfolios make students feel more job ready."
+      ],
+      "level_2": [
+        "The paper reviews how students use GitHub and personal websites for portfolios.",
+        "It shows clear README files and docs help recruiters understand your work.",
+        "In this module, students learn to write instructions and add screenshots.",
+        "The study says portfolios should be updated often, not left stale.",
+        "It also explains that public code shows soft skills like communication."
+      ],
+      "level_3": [
+        "Research discusses how open source work boosts credibility.",
+        "Papers say portfolios show self-driven learning beyond school.",
+        "In this module, students practice advanced projects with real use cases.",
+        "The paper highlights linking projects with LinkedIn or resumes.",
+        "It also explains how employers look for unique or niche projects."
+      ],
+      "level_4": [
+        "Research suggests mentors should guide juniors on portfolio strategies.",
+        "Papers discuss teamwork skills shown through group repos.",
+        "This module pushes students to maintain repos and handle issues.",
+        "The study explains community-backed projects build trust faster.",
+        "It encourages students to share portfolio stories in blogs and talks."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using portfolio links in resumes.",
+        "Showing project code in interviews."
+      ],
+      "level_2": [
+        "Sending GitHub profile with job applications.",
+        "Adding live demos to LinkedIn."
+      ],
+      "level_3": [
+        "Maintaining an open source repo for practice.",
+        "Writing about projects in online blogs."
+      ],
+      "level_4": [
+        "Mentoring juniors on how to maintain repos.",
+        "Sharing project stories at community events."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs use portfolios to get internships."
+      ],
+      "level_2": [
+        "Recruiters compare projects for shortlisting."
+      ],
+      "level_3": [
+        "Teams check repo quality before hiring."
+      ],
+      "level_4": [
+        "Leads promote open source for team branding."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Pick simple projects that show coding basics.",
+        "Add clear instructions for anyone to use."
+      ],
+      "level_2": [
+        "Explain what problem the project solves.",
+        "Keep your portfolio clean and well-organized."
+      ],
+      "level_3": [
+        "Plan to update projects with new features.",
+        "Show your learning journey through commits."
+      ],
+      "level_4": [
+        "Teach peers to build similar portfolios.",
+        "Use research tips to stay ahead of trends."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No portfolio or empty repos.",
+        "No README explaining the code."
+      ],
+      "level_2": [
+        "Messy, unclear project structure.",
+        "No clear proof of your contribution."
+      ],
+      "level_3": [
+        "Old projects never maintained.",
+        "No link to social profiles."
+      ],
+      "level_4": [
+        "Not mentoring juniors on portfolio habits.",
+        "Not sharing what you build publicly."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is an online coding portfolio?",
+        "Why do employers check GitHub?"
+      ],
+      "level_2": [
+        "Why update your portfolio often?",
+        "How does a README help recruiters?"
+      ],
+      "level_3": [
+        "Why join open source projects?",
+        "How does a portfolio show soft skills?"
+      ],
+      "level_4": [
+        "Why share your portfolio story publicly?",
+        "How can you guide juniors with research tips?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a new GitHub repo for practice."
+      ],
+      "level_2": [
+        "Write a clear README with images."
+      ],
+      "level_3": [
+        "Link your project in your resume or LinkedIn."
+      ],
+      "level_4": [
+        "Help a peer update their old project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t share blank repos.",
+        "Add basic descriptions."
+      ],
+      "level_2": [
+        "Keep project docs simple and honest.",
+        "Don’t copy work without credits."
+      ],
+      "level_3": [
+        "Fix bugs and reply to issues.",
+        "Show proof of ongoing work."
+      ],
+      "level_4": [
+        "Guide juniors on good portfolio habits.",
+        "Keep learning through new research."
+      ]
+    }
+  },
+  "reference_link": "https://link.springer.com/article/10.1007/s10639-020-10335-4"
+}
