@@ -1,0 +1,164 @@
+{
+  "source": "YouTube – Inspired by Fireship, The Net Ninja, Kevin Powell Portfolio Videos",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source3_YouTube",
+  "youtube": {
+    "channel_names": [
+      "Fireship",
+      "The Net Ninja",
+      "Kevin Powell"
+    ],
+    "platform": "YouTube"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Videos explain why developers need a portfolio.",
+        "They show how to pick projects to share.",
+        "You learn why GitHub is important.",
+        "Creators share tips for beginner portfolios.",
+        "They explain how portfolios help you get jobs."
+      ],
+      "level_2": [
+        "Videos break down good vs bad project examples.",
+        "They show how to build personal websites.",
+        "You learn to link GitHub and LinkedIn.",
+        "Creators explain what makes a project stand out.",
+        "You get ideas for simple project topics."
+      ],
+      "level_3": [
+        "Videos teach how to explain your code well.",
+        "They share how to organize multiple projects.",
+        "You learn about adding clear README files.",
+        "You see real portfolio walkthroughs.",
+        "They show how to handle user feedback."
+      ],
+      "level_4": [
+        "Advanced videos cover open source showcases.",
+        "Creators explain how to scale portfolio projects.",
+        "They teach how to guide juniors on portfolios.",
+        "You learn to maintain big public repos.",
+        "They share tips to present work in interviews."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Posting one project on GitHub.",
+        "Sharing a project link on resume."
+      ],
+      "level_2": [
+        "Making a simple portfolio website.",
+        "Adding screenshots and video demos."
+      ],
+      "level_3": [
+        "Building a series of small projects.",
+        "Joining coding challenges and sharing results."
+      ],
+      "level_4": [
+        "Running an open source project.",
+        "Helping juniors upload their work."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers use portfolios for internships."
+      ],
+      "level_2": [
+        "Juniors link projects in interviews."
+      ],
+      "level_3": [
+        "Hiring managers review GitHub before interviews."
+      ],
+      "level_4": [
+        "Leads check public projects for promotions."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Pick small, clear projects first.",
+        "Keep code easy to understand."
+      ],
+      "level_2": [
+        "Write clear docs and usage steps.",
+        "Add project goals and tools used."
+      ],
+      "level_3": [
+        "Use good file structure and comments.",
+        "Update old code for best results."
+      ],
+      "level_4": [
+        "Show how projects solve real problems.",
+        "Mentor juniors to choose good ideas."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No README in projects.",
+        "Sharing half-finished code."
+      ],
+      "level_2": [
+        "Using copied code without credits.",
+        "Not adding instructions for use."
+      ],
+      "level_3": [
+        "Old projects with bugs online.",
+        "Unclear file naming and messy repos."
+      ],
+      "level_4": [
+        "Failing to guide team on best practices.",
+        "Not maintaining public repos well."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why do devs need portfolios?",
+        "Name one site to share code."
+      ],
+      "level_2": [
+        "What is a README file for?",
+        "Why link portfolio to LinkedIn?"
+      ],
+      "level_3": [
+        "How to show project impact?",
+        "Why keep projects bug-free?"
+      ],
+      "level_4": [
+        "Why open source improves portfolios?",
+        "How to guide juniors on projects?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload a small project to GitHub."
+      ],
+      "level_2": [
+        "Add README and screenshots."
+      ],
+      "level_3": [
+        "Build a portfolio webpage."
+      ],
+      "level_4": [
+        "Guide a peer to upload their project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t share empty repos.",
+        "Use clear names for files."
+      ],
+      "level_2": [
+        "Check for bugs before sharing.",
+        "Update README if code changes."
+      ],
+      "level_3": [
+        "Fix issues reported by users.",
+        "Use version control properly."
+      ],
+      "level_4": [
+        "Teach peers about clean code.",
+        "Keep your portfolio fresh yearly."
+      ]
+    }
+  },
+  "reference_link": "https://www.youtube.com/watch?v=Uo3cL4nrGOk"
+}
