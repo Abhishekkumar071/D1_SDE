@@ -1,0 +1,169 @@
+{
+  "source": "Search – Based on Google Search for GitHub Portfolios, README Guides, and Portfolio Templates",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source6_Search",
+  "search_platform": {
+    "name": "Google Search",
+    "keywords": [
+      "best developer portfolios",
+      "GitHub README example",
+      "free portfolio website templates",
+      "how to build coding portfolio"
+    ]
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Google Search helps beginners find real examples of coding portfolios.",
+        "People search for simple portfolio ideas and free tools.",
+        "You can see what other freshers put on their GitHub pages.",
+        "Search shows you how to write a short README file.",
+        "You learn step by step how to make your work public."
+      ],
+      "level_2": [
+        "Search results include free portfolio website templates.",
+        "You find articles on structuring your README file clearly.",
+        "You learn tips for writing clear project descriptions.",
+        "Search helps compare what makes portfolios stand out.",
+        "You discover common mistakes to avoid."
+      ],
+      "level_3": [
+        "You see how top devs showcase niche projects.",
+        "Search shows how to link projects to LinkedIn.",
+        "You find tools for clean commit history and branches.",
+        "You learn about open source contribution steps.",
+        "Results show real success stories of devs landing jobs."
+      ],
+      "level_4": [
+        "Search shows how senior devs maintain large public repos.",
+        "You find guides on reviewing others’ code in public projects.",
+        "You learn how to write portfolio blogs for visibility.",
+        "Search results share best ways to mentor juniors on portfolios.",
+        "You see examples of personal branding through open projects."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Looking up examples of beginner GitHub profiles.",
+        "Searching ‘how to upload a project to GitHub’."
+      ],
+      "level_2": [
+        "Finding free portfolio templates.",
+        "Checking how to write install instructions."
+      ],
+      "level_3": [
+        "Searching how to contribute to open source repos.",
+        "Finding niche project ideas that stand out."
+      ],
+      "level_4": [
+        "Reading how to lead a community repo.",
+        "Searching how to teach juniors README tips."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers check search for examples before interviews."
+      ],
+      "level_2": [
+        "Junior devs search for README and doc best practices."
+      ],
+      "level_3": [
+        "Mid-level devs check trends for portfolio growth."
+      ],
+      "level_4": [
+        "Leads search for open source standards to follow."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Search before starting a project.",
+        "Pick ideas that match your skill level."
+      ],
+      "level_2": [
+        "Use keywords like ‘README example’.",
+        "Compare multiple portfolio sites."
+      ],
+      "level_3": [
+        "Look for niche project trends.",
+        "Search for tools to improve your repos."
+      ],
+      "level_4": [
+        "Search how to share knowledge with others.",
+        "Find ways to update your portfolio yearly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not searching enough examples.",
+        "Copying without understanding."
+      ],
+      "level_2": [
+        "Using poor templates with bugs.",
+        "Not updating info after copying."
+      ],
+      "level_3": [
+        "Following outdated portfolio trends.",
+        "Not customizing your portfolio."
+      ],
+      "level_4": [
+        "Not sharing your own search learnings.",
+        "Failing to guide peers on searches."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why use Google Search for a portfolio?",
+        "What does a README file show?"
+      ],
+      "level_2": [
+        "Why compare many examples?",
+        "How does a good README help?"
+      ],
+      "level_3": [
+        "How do you find niche project ideas?",
+        "Why add projects to LinkedIn?"
+      ],
+      "level_4": [
+        "Why mentor juniors on portfolio building?",
+        "How does search help open source work?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Search 3 portfolio examples.",
+        "Note what you like in each."
+      ],
+      "level_2": [
+        "Search for a README template.",
+        "Write your first README."
+      ],
+      "level_3": [
+        "Search and join a small open source issue.",
+        "Add that to your portfolio."
+      ],
+      "level_4": [
+        "Search trends and update your old projects.",
+        "Help a friend search for portfolio ideas."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t copy projects blindly.",
+        "Search before starting new work."
+      ],
+      "level_2": [
+        "Don’t leave README empty.",
+        "Follow trusted sources only."
+      ],
+      "level_3": [
+        "Keep learning new templates.",
+        "Share what you find with peers."
+      ],
+      "level_4": [
+        "Guide juniors on better searching.",
+        "Review and update your plan yearly."
+      ]
+    }
+  },
+  "reference_link": "https://www.google.com/search?q=best+developer+portfolio+examples"
+}
