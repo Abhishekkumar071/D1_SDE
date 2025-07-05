@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on GitHub Octoverse, LinkedIn Hiring Reports, and Stack Overflow Surveys",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "GitHub Octoverse, LinkedIn Hiring Trends, Stack Overflow Developer Survey",
+    "platform": "GitHub.com, LinkedIn.com, StackOverflow.com"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Industry trends show employers want to see real projects, not just resumes.",
+        "Reports like GitHub Octoverse prove open source is growing every year.",
+        "LinkedIn Hiring Trends say developers with public work stand out more.",
+        "Stack Overflow surveys show portfolios help freshers get noticed.",
+        "In this module, students learn to build public projects for better hiring chances."
+      ],
+      "level_2": [
+        "Trends say having active GitHub repos is now basic for dev jobs.",
+        "LinkedIn reports show recruiters search profiles with project links.",
+        "Surveys highlight that portfolios show real coding skills beyond degrees.",
+        "Trends say clear READMEs and project docs impress employers.",
+        "Public projects show soft skills like teamwork too."
+      ],
+      "level_3": [
+        "Top companies look at commit history for consistency.",
+        "Hiring managers trust devs with active open source contributions.",
+        "Reports show niche projects help you stand out in crowded job markets.",
+        "Teams value clear documentation and regular updates.",
+        "Senior devs share that portfolios are key for career switches too."
+      ],
+      "level_4": [
+        "Trends say tech leads build team portfolios to attract new talent.",
+        "Companies push for open source to build brand trust.",
+        "Experts guide juniors to share learning openly.",
+        "Leaders look for developers who maintain and mentor community repos.",
+        "Industry surveys prove portfolios build professional reputation long-term."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Students show a project link on resumes.",
+        "Interns upload small apps to GitHub."
+      ],
+      "level_2": [
+        "Junior devs write clear READMEs for their projects.",
+        "They share GitHub links on LinkedIn profiles."
+      ],
+      "level_3": [
+        "Mid-level devs join open source repos.",
+        "They fix issues and update old projects."
+      ],
+      "level_4": [
+        "Senior devs mentor others to build strong portfolios.",
+        "Leads review team portfolios for quality."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers use GitHub as online proof of skills."
+      ],
+      "level_2": [
+        "Recruiters check public profiles before shortlisting."
+      ],
+      "level_3": [
+        "Companies compare commit activity for hiring."
+      ],
+      "level_4": [
+        "Teams contribute to open source as company culture."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Pick simple, real-world project ideas.",
+        "Make sure your code runs without errors."
+      ],
+      "level_2": [
+        "Write clear docs for each project.",
+        "Keep your repos well organized."
+      ],
+      "level_3": [
+        "Update old code and fix bugs.",
+        "Link projects with your social profiles."
+      ],
+      "level_4": [
+        "Share what you build publicly.",
+        "Guide peers to build visible work too."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Having no projects to show.",
+        "Keeping repos private by mistake."
+      ],
+      "level_2": [
+        "Not writing clear README files.",
+        "Messy or incomplete repos."
+      ],
+      "level_3": [
+        "Not updating projects after uploading.",
+        "No proof of unique work."
+      ],
+      "level_4": [
+        "Not guiding juniors on portfolio habits.",
+        "Not keeping up with new trends."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why share projects publicly?",
+        "What is a portfolio used for?"
+      ],
+      "level_2": [
+        "Why keep README files clear?",
+        "How does GitHub help freshers?"
+      ],
+      "level_3": [
+        "Why join open source work?",
+        "How does a portfolio help career shifts?"
+      ],
+      "level_4": [
+        "Why guide juniors on portfolio trends?",
+        "How do trends shape hiring now?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload a small project with a README."
+      ],
+      "level_2": [
+        "Write a checklist for portfolio updates."
+      ],
+      "level_3": [
+        "Fix an old project and share it again."
+      ],
+      "level_4": [
+        "Run a peer session to review portfolios."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t keep your work hidden.",
+        "Share simple, working projects."
+      ],
+      "level_2": [
+        "Avoid messy folders and missing docs.",
+        "Use clear names for repos."
+      ],
+      "level_3": [
+        "Keep code tested and bugs fixed.",
+        "Add clear contribution guidelines."
+      ],
+      "level_4": [
+        "Mentor juniors on good portfolio practices.",
+        "Update your repos with trends in mind."
+      ]
+    }
+  },
+  "reference_link": "https://octoverse.github.com/"
+}
