@@ -1,0 +1,160 @@
+{
+  "source": "Newsletter – Inspired by freeCodeCamp Weekly Newsletter and Dev.to Weekly",
+  "module": "Module 6: Portfolio & Public Project Strategy",
+  "file_type": "public_Source5_Newsletter",
+  "newsletter": {
+    "name": "freeCodeCamp Weekly",
+    "platform": "freeCodeCamp.org"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Newsletters explain why having a portfolio is important for any software developer.",
+        "They describe what a portfolio means: a collection of real coding projects shared online.",
+        "In this module, students learn how to make simple projects and upload them publicly.",
+        "The newsletter gives motivation and stories about beginners who got hired because they had a clear GitHub profile.",
+        "It reminds you that even one or two well-finished projects can help you stand out."
+      ],
+      "level_2": [
+        "These newsletters often give step-by-step checklists on what to include in your project README files.",
+        "They explain how to pick a project idea that shows your real skills, not just tutorials.",
+        "This module covers writing simple explanations of what your code does, so anyone can understand it.",
+        "The newsletter explains how adding screenshots and usage instructions makes your repo look professional.",
+        "It also suggests tools and websites to host your portfolio for free."
+      ],
+      "level_3": [
+        "At this level, newsletters share how to make niche or advanced projects that highlight unique skills.",
+        "They give advice on contributing to open source projects as part of your portfolio strategy.",
+        "In this module, students learn to keep their code clean, organized, and easy to reuse.",
+        "The newsletter shares examples of how to connect your GitHub projects to your LinkedIn profile or website.",
+        "It also explains why recruiters trust clean, active GitHub profiles more than random resumes."
+      ],
+      "level_4": [
+        "For expert learners, newsletters give ideas on building community projects that attract contributors.",
+        "They explain how senior devs use portfolios to show leadership, not just code.",
+        "This module pushes students to update old projects regularly, fix issues, and accept feedback from peers.",
+        "Newsletters share best practices for maintaining popular repos over years.",
+        "They encourage students to guide juniors on how to create and share good projects too."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Reading how a simple calculator app got someone noticed.",
+        "Seeing examples of personal GitHub pages."
+      ],
+      "level_2": [
+        "Using a checklist to make your first portfolio README.",
+        "Learning how to write clear commit messages."
+      ],
+      "level_3": [
+        "Reading about devs getting freelance work through open repos.",
+        "Using newsletters to find trending project ideas."
+      ],
+      "level_4": [
+        "Learning how to mentor juniors on portfolio reviews.",
+        "Staying updated about portfolio trends."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Junior devs link portfolios in resumes."
+      ],
+      "level_2": [
+        "Hiring managers ask for live project links."
+      ],
+      "level_3": [
+        "Companies check commit history for real contributions."
+      ],
+      "level_4": [
+        "Leads support open source to build company brand."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Pick small, useful project ideas first.",
+        "Write clear steps for using your code."
+      ],
+      "level_2": [
+        "Plan simple README sections: what, why, how.",
+        "Keep your repos well-named and easy to find."
+      ],
+      "level_3": [
+        "Show exactly what you built vs reused.",
+        "Link your project to your LinkedIn."
+      ],
+      "level_4": [
+        "Write blogs about your projects.",
+        "Guide peers to do the same."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No project at all, or empty repos.",
+        "No explanation for what the project does."
+      ],
+      "level_2": [
+        "Messy, broken code uploaded.",
+        "No clear instructions to run the code."
+      ],
+      "level_3": [
+        "Projects never updated after upload.",
+        "No proof of actual coding work."
+      ],
+      "level_4": [
+        "Not accepting feedback on issues.",
+        "Not mentoring juniors on portfolio basics."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is a coding portfolio?",
+        "Where can you share your projects?"
+      ],
+      "level_2": [
+        "What is a README file for?",
+        "Why add screenshots and instructions?"
+      ],
+      "level_3": [
+        "What makes a project unique?",
+        "Why keep projects active and updated?"
+      ],
+      "level_4": [
+        "How can you mentor others about portfolios?",
+        "Why maintain community projects?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Upload a simple app to GitHub."
+      ],
+      "level_2": [
+        "Write a good README with images."
+      ],
+      "level_3": [
+        "Share your project link on LinkedIn."
+      ],
+      "level_4": [
+        "Help a peer publish their first project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t keep your repo empty.",
+        "Always write what your code does."
+      ],
+      "level_2": [
+        "Don’t copy-paste code without credits.",
+        "Keep your docs simple and honest."
+      ],
+      "level_3": [
+        "Update old projects with fixes.",
+        "Add clear version history."
+      ],
+      "level_4": [
+        "Mentor juniors to avoid common mistakes.",
+        "Keep learning about portfolio trends."
+      ]
+    }
+  },
+  "reference_link": "https://www.freecodecamp.org/news/"
+}
