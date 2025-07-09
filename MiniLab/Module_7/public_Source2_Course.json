@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by LinkedIn Learning & Coursera Personal Branding Courses",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Building Your Personal Brand Online",
+    "platform": "LinkedIn Learning, Coursera"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Courses explain why personal branding matters for freshers.",
+        "Students learn what LinkedIn and GitHub are for.",
+        "They understand how profiles help them get noticed.",
+        "Lessons show how to make a clear bio and headline.",
+        "The module explains why a clean profile picture is useful."
+      ],
+      "level_2": [
+        "Courses show how to write a good LinkedIn summary.",
+        "They explain how to link projects in your profile.",
+        "Lessons guide how to keep GitHub active with public work.",
+        "Students learn what skills to highlight.",
+        "They practice adding projects to featured sections."
+      ],
+      "level_3": [
+        "Courses teach how to write posts to share learning.",
+        "They show how to engage with tech communities.",
+        "Lessons cover how to build a network step-by-step.",
+        "They share tips on good comments & messaging.",
+        "Students learn to connect GitHub repos with LinkedIn."
+      ],
+      "level_4": [
+        "Advanced tips explain thought leadership basics.",
+        "Courses show how to guide juniors online.",
+        "They explain how to write blogs or newsletters.",
+        "Lessons discuss how to speak in community events.",
+        "Students learn to keep brand trust clear and honest."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Making a LinkedIn profile as a fresher.",
+        "Adding GitHub links to LinkedIn."
+      ],
+      "level_2": [
+        "Writing a short LinkedIn post about a project.",
+        "Sharing coding achievements publicly."
+      ],
+      "level_3": [
+        "Connecting with dev communities online.",
+        "Posting code snippets and blogs."
+      ],
+      "level_4": [
+        "Starting a tech blog for juniors.",
+        "Speaking at meetups to build trust."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Hiring managers check LinkedIn first."
+      ],
+      "level_2": [
+        "Companies trust active GitHub profiles."
+      ],
+      "level_3": [
+        "Recruiters check posts and community proof."
+      ],
+      "level_4": [
+        "Leads promote teams through personal brands."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Keep your info true and clear.",
+        "Use simple words in your bio."
+      ],
+      "level_2": [
+        "Add project links and skills.",
+        "Show what makes you different."
+      ],
+      "level_3": [
+        "Post helpful content for others.",
+        "Keep your brand active and real."
+      ],
+      "level_4": [
+        "Teach juniors to brand well.",
+        "Share stories and lessons online."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Empty or outdated profile.",
+        "No photo or clear bio."
+      ],
+      "level_2": [
+        "No real projects linked.",
+        "Copied summary lines."
+      ],
+      "level_3": [
+        "Not posting for months.",
+        "Not replying to comments."
+      ],
+      "level_4": [
+        "No mentoring of juniors.",
+        "No new posts or blogs."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is LinkedIn for?",
+        "Why share a profile photo?"
+      ],
+      "level_2": [
+        "What goes in your summary?",
+        "Why link your projects?"
+      ],
+      "level_3": [
+        "Why share posts or blogs?",
+        "How to engage with peers?"
+      ],
+      "level_4": [
+        "Why guide juniors on branding?",
+        "How does community trust grow?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Create a new LinkedIn profile."
+      ],
+      "level_2": [
+        "Add 1–2 project links."
+      ],
+      "level_3": [
+        "Write a short post about your project."
+      ],
+      "level_4": [
+        "Help a friend update their LinkedIn."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t leave your profile blank.",
+        "Use clear, real info only."
+      ],
+      "level_2": [
+        "Don’t fake skills or projects.",
+        "Keep links working and updated."
+      ],
+      "level_3": [
+        "Post often but keep it real.",
+        "Engage politely with comments."
+      ],
+      "level_4": [
+        "Guide others on good practices.",
+        "Share your learning openly."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/learning/topics/personal-branding"
+}
