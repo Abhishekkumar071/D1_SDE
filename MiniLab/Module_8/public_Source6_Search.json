@@ -1,0 +1,165 @@
+{
+  "source": "Search – Based on Google Search for Learning & Time Management Tips",
+  "module": "Module 8: Learning & Time Management Systems",
+  "file_type": "public_Source6_Search",
+  "search_platform": {
+    "name": "Google Search",
+    "keywords": [
+      "best study planners for students",
+      "time management tips for coding students",
+      "daily routine for productive study",
+      "how to use Pomodoro for learning"
+    ]
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Students search for simple study plans on Google.",
+        "They find daily planner templates for freshers.",
+        "Search helps learn small steps for big goals.",
+        "They find how to avoid wasting time.",
+        "This module uses these tips for daily routines."
+      ],
+      "level_2": [
+        "Students search how to block time for coding.",
+        "Google shows how to plan weekly goals.",
+        "They find tricks to remove distractions.",
+        "Search helps find checklists and trackers.",
+        "They learn to plan study and breaks."
+      ],
+      "level_3": [
+        "Students look up Pomodoro study guides.",
+        "Search shows how to batch tasks smartly.",
+        "They learn to balance projects and exams.",
+        "They read blogs on deep work habits.",
+        "This helps them plan focus sessions."
+      ],
+      "level_4": [
+        "Students search how seniors plan team tasks.",
+        "They check methods to mentor juniors.",
+        "Search shows ways to lead study groups.",
+        "They find new time management tools.",
+        "This module helps keep their system updated."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Searching for a free study planner.",
+        "Finding a daily checklist template."
+      ],
+      "level_2": [
+        "Searching how to do time blocking.",
+        "Finding weekly goal planner samples."
+      ],
+      "level_3": [
+        "Searching for Pomodoro timer apps.",
+        "Finding blogs on deep work focus."
+      ],
+      "level_4": [
+        "Searching mentoring tips for study planning.",
+        "Finding new team planner tools."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students plan assignments daily."
+      ],
+      "level_2": [
+        "Interns balance tasks with clear blocks."
+      ],
+      "level_3": [
+        "Junior devs plan sprints and reviews."
+      ],
+      "level_4": [
+        "Leads teach team planning methods."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Use search to find simple plans.",
+        "Write tasks after checking samples."
+      ],
+      "level_2": [
+        "Use examples to make checklists.",
+        "Block time by learning online."
+      ],
+      "level_3": [
+        "Search for better focus methods.",
+        "Try new ways to split tasks."
+      ],
+      "level_4": [
+        "Guide juniors to search well.",
+        "Stay updated with new methods."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No planner or checklist used.",
+        "Wasting time with no plan."
+      ],
+      "level_2": [
+        "Trying to multitask too much.",
+        "No breaks or buffer time."
+      ],
+      "level_3": [
+        "No tracking of goals.",
+        "No habit to review plans."
+      ],
+      "level_4": [
+        "Not guiding juniors.",
+        "Not improving own system."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why use a daily planner?",
+        "Name one thing you can search for."
+      ],
+      "level_2": [
+        "What is time blocking?",
+        "How can checklists help?"
+      ],
+      "level_3": [
+        "What is Pomodoro for?",
+        "Why review plans weekly?"
+      ],
+      "level_4": [
+        "Why guide juniors in planning?",
+        "How to stay updated?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Search and download a planner."
+      ],
+      "level_2": [
+        "Plan your week using online tips."
+      ],
+      "level_3": [
+        "Try a Pomodoro session today."
+      ],
+      "level_4": [
+        "Help a peer plan their study time."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t study without a plan.",
+        "Use free planners online."
+      ],
+      "level_2": [
+        "Don’t ignore breaks.",
+        "Plan tasks in small parts."
+      ],
+      "level_3": [
+        "Review goals weekly.",
+        "Fix what doesn’t work."
+      ],
+      "level_4": [
+        "Teach juniors search tips.",
+        "Keep learning new tools."
+      ]
+    }
+  },
+  "reference_link": "https://www.google.com/search?q=study+time+management+for+students"
+}
