@@ -1,0 +1,161 @@
+{
+  "source": "Podcast – Inspired by FreeCodeCamp Podcast & Developer Tea on Personal Branding",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "public_Source4_Podcast",
+  "podcast": {
+    "name": "FreeCodeCamp Podcast, Developer Tea",
+    "episode": "How to Build Your Developer Brand Online",
+    "platform": "FreeCodeCamp.org, Developer Tea"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Podcasts explain why personal branding matters for devs.",
+        "They share stories of people getting jobs through LinkedIn.",
+        "Listeners learn how to make a clear, honest profile.",
+        "Episodes talk about using GitHub to show real work.",
+        "They explain what recruiters check in a profile."
+      ],
+      "level_2": [
+        "Guests explain how to write a LinkedIn summary.",
+        "They share how to link GitHub repos in LinkedIn.",
+        "Podcasts teach posting updates about projects.",
+        "Episodes share tips for adding skills and achievements.",
+        "They discuss common branding mistakes to avoid."
+      ],
+      "level_3": [
+        "Podcasts teach how to write useful posts and blogs.",
+        "They explain how to join tech communities online.",
+        "Guests share how to comment nicely and build connections.",
+        "They discuss open source work for personal branding.",
+        "Episodes highlight the need for regular updates."
+      ],
+      "level_4": [
+        "Podcasts talk about guiding juniors on branding.",
+        "They explain speaking at events for brand growth.",
+        "Episodes cover writing newsletters and blogs.",
+        "They share tips to keep your brand honest.",
+        "Guests explain long-term trust building online."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Making your first LinkedIn profile.",
+        "Adding your GitHub link in your bio."
+      ],
+      "level_2": [
+        "Writing a small post about a project.",
+        "Adding certificates to your profile."
+      ],
+      "level_3": [
+        "Sharing a blog post with connections.",
+        "Replying politely to comments."
+      ],
+      "level_4": [
+        "Helping juniors write good summaries.",
+        "Speaking at a student tech event."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Recruiters check LinkedIn for profiles."
+      ],
+      "level_2": [
+        "Teams trust devs with active GitHub."
+      ],
+      "level_3": [
+        "Hiring managers check your posts and blogs."
+      ],
+      "level_4": [
+        "Tech leads mentor teams on personal branding."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Keep your bio short and clear.",
+        "Use real photos and details."
+      ],
+      "level_2": [
+        "Link real projects and proof.",
+        "Add clear project summaries."
+      ],
+      "level_3": [
+        "Share useful content regularly.",
+        "Build connections step by step."
+      ],
+      "level_4": [
+        "Guide juniors on profile building.",
+        "Keep learning and updating your brand."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Empty profiles with no info.",
+        "No GitHub or project link."
+      ],
+      "level_2": [
+        "Copied summaries from others.",
+        "No real project proof."
+      ],
+      "level_3": [
+        "Inactive profiles for months.",
+        "No replies to comments."
+      ],
+      "level_4": [
+        "No mentoring juniors.",
+        "Outdated info with old posts."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is personal branding?",
+        "Why add a profile photo?"
+      ],
+      "level_2": [
+        "Why link your GitHub repo?",
+        "How does LinkedIn help you?"
+      ],
+      "level_3": [
+        "Why share posts and blogs?",
+        "What is open source branding?"
+      ],
+      "level_4": [
+        "Why mentor juniors on branding?",
+        "How does trust help your career?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a LinkedIn profile."
+      ],
+      "level_2": [
+        "Add your GitHub link."
+      ],
+      "level_3": [
+        "Write a small post about your project."
+      ],
+      "level_4": [
+        "Help a friend fix their LinkedIn."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t keep your profile empty.",
+        "Use your real name and photo."
+      ],
+      "level_2": [
+        "Don’t fake skills or projects.",
+        "Add only real links."
+      ],
+      "level_3": [
+        "Post useful content, stay active.",
+        "Reply nicely to comments."
+      ],
+      "level_4": [
+        "Help juniors make good profiles.",
+        "Update your posts and links yearly."
+      ]
+    }
+  },
+  "reference_link": "https://www.freecodecamp.org/news/tag/podcast/"
+}
