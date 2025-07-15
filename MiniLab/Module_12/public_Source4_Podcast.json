@@ -1,0 +1,161 @@
+{
+  "source": "Podcast – Inspired by Soft Skills Engineering, Developer Tea, The Changelog on Industry Simulation",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "public_Source4_Podcast",
+  "podcast": {
+    "name": "Soft Skills Engineering, Developer Tea, The Changelog",
+    "episode": "How Devs Run Real Work Simulations & Peer Reviews",
+    "platform": "Spotify, Apple Podcasts"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Podcasts share how devs handle real-like work.",
+        "They talk about writing clear daily tasks.",
+        "Episodes explain how to share progress openly.",
+        "They guide adding what went well in logs.",
+        "This builds trust with teams."
+      ],
+      "level_2": [
+        "Podcasts teach accepting feedback calmly.",
+        "They share how to fix tasks after peer notes.",
+        "Episodes guide adding blockers and fixes clearly.",
+        "They show how to review peer work respectfully.",
+        "This matches real industry culture."
+      ],
+      "level_3": [
+        "Podcasts explain mentoring juniors with feedback.",
+        "They talk about wrapping up tasks cleanly.",
+        "Episodes share how seniors guide final project reports.",
+        "They teach how to share what went well and what to fix.",
+        "This turns practice into real work habits."
+      ],
+      "level_4": [
+        "Podcasts show leading peer review talks.",
+        "They explain closing projects with clear reports.",
+        "Episodes guide how to present lessons to teams.",
+        "They share how to guide juniors on logging habits.",
+        "This builds leadership and trust."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Writing daily task notes in a doc.",
+        "Sharing updates with a peer buddy."
+      ],
+      "level_2": [
+        "Getting comments on your task log.",
+        "Fixing your tasks after feedback."
+      ],
+      "level_3": [
+        "Giving clear review to a teammate.",
+        "Writing a short growth plan."
+      ],
+      "level_4": [
+        "Helping juniors write daily updates.",
+        "Closing project work with a final log."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers write daily updates to seniors."
+      ],
+      "level_2": [
+        "Interns handle review notes calmly."
+      ],
+      "level_3": [
+        "Juniors add growth steps after reviews."
+      ],
+      "level_4": [
+        "Leads guide juniors on project closure."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Break tasks into clear steps.",
+        "Write what worked well daily."
+      ],
+      "level_2": [
+        "Add peer comments properly.",
+        "Fix issues after notes."
+      ],
+      "level_3": [
+        "Add lessons you learned.",
+        "Plan how to grow next time."
+      ],
+      "level_4": [
+        "Guide juniors step by step.",
+        "Use reports for team growth."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No daily task logs.",
+        "Not adding what went well."
+      ],
+      "level_2": [
+        "Ignoring peer comments.",
+        "Tasks left unfixed."
+      ],
+      "level_3": [
+        "No growth plan added.",
+        "No sharing of learnings."
+      ],
+      "level_4": [
+        "Not helping juniors.",
+        "No final closure report."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why write daily tasks?",
+        "Why share what worked?"
+      ],
+      "level_2": [
+        "Why add peer notes?",
+        "Why fix tasks after review?"
+      ],
+      "level_3": [
+        "Why add a growth step?",
+        "How to review peers well?"
+      ],
+      "level_4": [
+        "Why mentor juniors?",
+        "Why close project logs clearly?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write today’s task log."
+      ],
+      "level_2": [
+        "Add comments from a peer."
+      ],
+      "level_3": [
+        "Write a small growth note."
+      ],
+      "level_4": [
+        "Guide a junior’s daily update."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip daily logs.",
+        "Always add what went well."
+      ],
+      "level_2": [
+        "Don’t ignore review notes.",
+        "Fix all tasks carefully."
+      ],
+      "level_3": [
+        "Add lessons each time.",
+        "Share your plan with peers."
+      ],
+      "level_4": [
+        "Guide juniors clearly.",
+        "Use closure notes to teach."
+      ]
+    }
+  },
+  "reference_link": "https://softskills.audio/"
+}
