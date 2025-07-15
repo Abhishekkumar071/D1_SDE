@@ -1,0 +1,160 @@
+{
+  "source": "Research Paper – Based on IEEE & ACM papers on Communication Patterns in Software Teams",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "name": "Communication Patterns in Software Teams",
+    "platform": "IEEE, ACM Digital Library"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research shows clear talk improves team trust.",
+        "Studies say asking questions helps solve bugs early.",
+        "Good talk reduces mistakes in dev work.",
+        "Teams that talk well fix issues faster.",
+        "This module uses real findings for daily habits."
+      ],
+      "level_2": [
+        "Papers say stand-up updates keep tasks clear.",
+        "Studies show clear emails avoid confusion.",
+        "Listening well helps juniors learn faster.",
+        "Feedback talks help improve quality early.",
+        "This makes work smooth for all devs."
+      ],
+      "level_3": [
+        "Research says polite talk avoids conflicts.",
+        "Studies show how to explain bugs clearly.",
+        "Good talk helps cross-team work run well.",
+        "Papers say devs must handle disagreements calmly.",
+        "This builds trust and open culture."
+      ],
+      "level_4": [
+        "Studies show seniors guide juniors with clear talks.",
+        "Papers say teams with open talk stay productive.",
+        "Research shows conflict solving grows trust.",
+        "Good talk habits help remote teams too.",
+        "This module brings all lessons together."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Asking for help on a bug.",
+        "Explaining ideas in team chat."
+      ],
+      "level_2": [
+        "Giving stand-up status updates.",
+        "Writing clear emails to leads."
+      ],
+      "level_3": [
+        "Explaining blockers to other teams.",
+        "Handling client calls politely."
+      ],
+      "level_4": [
+        "Mentoring juniors on clear updates.",
+        "Resolving conflicts in a meeting."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers clear doubts to avoid delays."
+      ],
+      "level_2": [
+        "Interns update seniors daily."
+      ],
+      "level_3": [
+        "Juniors handle team calls well."
+      ],
+      "level_4": [
+        "Leads fix conflicts early with talks."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Speak simple and clear.",
+        "Ask when confused."
+      ],
+      "level_2": [
+        "Keep updates short and true.",
+        "Listen fully, reply calmly."
+      ],
+      "level_3": [
+        "Use polite tone under stress.",
+        "Handle talk gaps early."
+      ],
+      "level_4": [
+        "Mentor juniors on good talk.",
+        "Build trust through clear words."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Staying silent when blocked.",
+        "Using hard words for no reason."
+      ],
+      "level_2": [
+        "Long confusing updates.",
+        "No clear blockers shared."
+      ],
+      "level_3": [
+        "Interrupting others in calls.",
+        "Talking rudely when stressed."
+      ],
+      "level_4": [
+        "Not guiding juniors.",
+        "Avoiding tough talks."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why ask questions early?",
+        "Why talk simply in teams?"
+      ],
+      "level_2": [
+        "What is a stand-up update?",
+        "Why share blockers quickly?"
+      ],
+      "level_3": [
+        "How to talk across teams?",
+        "Why stay calm under stress?"
+      ],
+      "level_4": [
+        "Why guide juniors in talk?",
+        "How to fix conflicts fast?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Ask a clear question in a call."
+      ],
+      "level_2": [
+        "Write one daily update email."
+      ],
+      "level_3": [
+        "Handle a fake conflict scenario."
+      ],
+      "level_4": [
+        "Help a junior improve talk skills."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t fear small questions.",
+        "Don’t stay silent when unsure."
+      ],
+      "level_2": [
+        "Don’t write too long updates.",
+        "Listen before replying fast."
+      ],
+      "level_3": [
+        "Don’t interrupt others.",
+        "Keep tone calm under pressure."
+      ],
+      "level_4": [
+        "Teach juniors open habits.",
+        "Fix small gaps early."
+      ]
+    }
+  },
+  "reference_link": "https://ieeexplore.ieee.org/document/5613200"
+}
