@@ -1,0 +1,161 @@
+{
+  "source": "Research Paper – Based on 'Personal Branding: A Systematic Literature Review' by Karaduman (2013)",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "title": "Personal Branding: A Systematic Literature Review",
+    "authors": "I. Karaduman",
+    "platform": "ResearchGate.net"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research says personal branding means showing your real skills online.",
+        "It is how people see you on LinkedIn and GitHub.",
+        "Your photo, bio, and posts build trust with recruiters.",
+        "LinkedIn shows your story, skills, and achievements.",
+        "GitHub shows your coding work and projects."
+      ],
+      "level_2": [
+        "Studies explain that a good brand is clear, honest, and updated.",
+        "LinkedIn branding means writing a simple summary and clear headline.",
+        "GitHub branding means active, public repos with good READMEs.",
+        "Research shows freshers get more calls if they share project links.",
+        "The paper says branding works best when you connect both profiles."
+      ],
+      "level_3": [
+        "Researchers highlight writing useful posts and blogs to stand out.",
+        "They show how commenting nicely builds trust.",
+        "GitHub shows teamwork skills with open source work.",
+        "LinkedIn shows your network and endorsements.",
+        "The study explains how your brand proves you can deliver work."
+      ],
+      "level_4": [
+        "Advanced branding includes mentoring juniors online.",
+        "The paper says thought leadership grows trust in communities.",
+        "Research says regular updates and blogs keep you relevant.",
+        "Good branding builds your image as reliable and skilled.",
+        "LinkedIn + GitHub together show full proof of your skills."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using LinkedIn to get internship calls.",
+        "Showing a GitHub link to prove skills."
+      ],
+      "level_2": [
+        "Writing a clear summary and linking projects.",
+        "Keeping GitHub public with README files."
+      ],
+      "level_3": [
+        "Sharing posts to tell people what you built.",
+        "Fixing issues and replying on GitHub."
+      ],
+      "level_4": [
+        "Helping juniors write better profiles.",
+        "Speaking at tech groups to show your brand."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Companies look at LinkedIn before shortlisting."
+      ],
+      "level_2": [
+        "Hiring managers check GitHub for real code."
+      ],
+      "level_3": [
+        "Teams like devs with clear branding proof."
+      ],
+      "level_4": [
+        "Leads guide others to share good branding online."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Keep your info clear and true.",
+        "Use a clean photo and simple words."
+      ],
+      "level_2": [
+        "Link your coding projects to your profile.",
+        "Write in your own words, don’t copy."
+      ],
+      "level_3": [
+        "Post updates about your learning.",
+        "Join open source and show real work."
+      ],
+      "level_4": [
+        "Help juniors learn branding tips.",
+        "Update your brand regularly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No photo or blank LinkedIn.",
+        "GitHub has no public work."
+      ],
+      "level_2": [
+        "Copied summaries from others.",
+        "Broken links between LinkedIn and GitHub."
+      ],
+      "level_3": [
+        "No posts or replies to followers.",
+        "Old repos with no updates."
+      ],
+      "level_4": [
+        "No community sharing.",
+        "No mentoring of juniors."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is personal branding?",
+        "Name two branding platforms."
+      ],
+      "level_2": [
+        "Why link GitHub to LinkedIn?",
+        "Why keep a clear summary?"
+      ],
+      "level_3": [
+        "Why write posts and blogs?",
+        "How does GitHub show teamwork?"
+      ],
+      "level_4": [
+        "Why guide juniors about branding?",
+        "How does branding build trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a LinkedIn profile with a photo."
+      ],
+      "level_2": [
+        "Add your GitHub link and summary."
+      ],
+      "level_3": [
+        "Write one short post about your work."
+      ],
+      "level_4": [
+        "Help a junior fix their profile."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t leave your profile blank.",
+        "Always add real info."
+      ],
+      "level_2": [
+        "Don’t use fake skills or copied lines.",
+        "Keep links working and clear."
+      ],
+      "level_3": [
+        "Post updates regularly.",
+        "Reply to comments nicely."
+      ],
+      "level_4": [
+        "Guide peers on branding tips.",
+        "Share new learnings in blogs."
+      ]
+    }
+  },
+  "reference_link": "https://www.researchgate.net/publication/259812291_Personal_Branding_A_Systematic_Literature_Review"
+}
