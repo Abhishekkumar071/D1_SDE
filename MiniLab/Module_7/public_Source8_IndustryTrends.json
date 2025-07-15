@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on LinkedIn Global Talent Trends & GitHub Octoverse Reports",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "LinkedIn Global Talent Trends, GitHub Octoverse",
+    "platform": "LinkedIn.com, GitHub.com"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Trends show recruiters trust LinkedIn profiles for hiring.",
+        "GitHub public projects prove real coding skills.",
+        "Reports say strong branding makes freshers stand out.",
+        "Companies want proof of work, not just degrees.",
+        "This module explains how to build that proof online."
+      ],
+      "level_2": [
+        "Trends say clear LinkedIn bios help recruiters pick faster.",
+        "GitHub Octoverse shows more devs share open source now.",
+        "Hiring managers read LinkedIn posts to check skills.",
+        "They check GitHub commit history to trust consistency.",
+        "This module connects both for a strong personal brand."
+      ],
+      "level_3": [
+        "Companies check profiles for real project links.",
+        "Leads trust devs with active open source repos.",
+        "Industry surveys show devs get offers through good branding.",
+        "Trends show recruiters use LinkedIn filters for skills proof.",
+        "This proves why branding is key in tech today."
+      ],
+      "level_4": [
+        "Trends say seniors guide juniors to brand well.",
+        "Companies encourage blogging about open source work.",
+        "Strong branding helps switch roles or companies easily.",
+        "Surveys say good branding builds trust for remote work.",
+        "This module teaches how to stay visible long term."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Adding GitHub links to resumes.",
+        "Sharing LinkedIn posts about coding."
+      ],
+      "level_2": [
+        "Putting project links in Featured sections.",
+        "Showing open source contributions."
+      ],
+      "level_3": [
+        "Writing blogs about personal projects.",
+        "Getting freelance work through LinkedIn."
+      ],
+      "level_4": [
+        "Mentoring juniors on building online trust.",
+        "Speaking at events to show branding proof."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Companies shortlist using LinkedIn profiles."
+      ],
+      "level_2": [
+        "Teams check GitHub for live project samples."
+      ],
+      "level_3": [
+        "Recruiters trust public work more than only resumes."
+      ],
+      "level_4": [
+        "Leads promote open source to build team brands."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Keep your LinkedIn true and clean.",
+        "Add a photo and clear headline."
+      ],
+      "level_2": [
+        "Link GitHub repos with clear docs.",
+        "Show real projects, not dummy code."
+      ],
+      "level_3": [
+        "Write posts about what you build.",
+        "Keep profiles updated monthly."
+      ],
+      "level_4": [
+        "Guide others on branding tips.",
+        "Learn trends and apply them yearly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Empty LinkedIn with no photo.",
+        "No GitHub or projects to show."
+      ],
+      "level_2": [
+        "Old or broken links on profiles.",
+        "No proper README or docs."
+      ],
+      "level_3": [
+        "No posts, no updates for months.",
+        "Inactive commit history."
+      ],
+      "level_4": [
+        "No mentoring juniors.",
+        "Not adapting to new trends."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why do companies trust LinkedIn?",
+        "How does GitHub help you?"
+      ],
+      "level_2": [
+        "Why link real projects?",
+        "What is a README file for?"
+      ],
+      "level_3": [
+        "Why write posts or blogs?",
+        "How does open source help branding?"
+      ],
+      "level_4": [
+        "Why guide juniors in branding?",
+        "How does branding help remote jobs?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a LinkedIn profile with a photo."
+      ],
+      "level_2": [
+        "Link your GitHub projects there."
+      ],
+      "level_3": [
+        "Write one LinkedIn post about a project."
+      ],
+      "level_4": [
+        "Guide a peer to build their profile too."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t leave your profile blank.",
+        "Use your real name and photo."
+      ],
+      "level_2": [
+        "Keep links working and docs clear.",
+        "Don’t show copied work."
+      ],
+      "level_3": [
+        "Post updates every few weeks.",
+        "Reply to comments kindly."
+      ],
+      "level_4": [
+        "Mentor juniors on branding habits.",
+        "Update your content with trends."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/business/talent/blog/talent-strategy/global-talent-trends"
+}
