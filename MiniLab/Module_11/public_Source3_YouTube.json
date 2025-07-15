@@ -1,0 +1,161 @@
+{
+  "source": "YouTube – Based on Simple Programmer, Tech With Tim, Fireship videos on developer communication",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source3_YouTube",
+  "video": {
+    "title": "How to Communicate Effectively as a Developer",
+    "channel": "Simple Programmer, Tech With Tim, Fireship",
+    "platform": "YouTube"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Videos explain why devs need clear talk daily.",
+        "They show real examples of asking questions nicely.",
+        "Creators share how not to overcomplicate words.",
+        "They highlight using clear chat and emails.",
+        "Students see why silence creates confusion."
+      ],
+      "level_2": [
+        "Videos teach giving updates in stand-ups.",
+        "They show how to share blockers quickly.",
+        "Creators explain clear written vs spoken talk.",
+        "They share real project update samples.",
+        "Students learn the flow of a short status talk."
+      ],
+      "level_3": [
+        "Videos explain how to give & take feedback calmly.",
+        "They show how to handle disagreements politely.",
+        "Creators break down how to say no with respect.",
+        "They show talking to non-tech team members.",
+        "Students see real scenarios of cross-team calls."
+      ],
+      "level_4": [
+        "Creators share how seniors guide juniors politely.",
+        "They talk about leading small meetings clearly.",
+        "Videos show how good talk grows trust fast.",
+        "They explain how to solve conflicts early.",
+        "Students see how to keep a healthy team vibe."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Asking for help when stuck on a bug.",
+        "Explaining your code to a peer simply."
+      ],
+      "level_2": [
+        "Sharing progress in morning stand-ups.",
+        "Updating seniors on finished tasks."
+      ],
+      "level_3": [
+        "Giving feedback on pull requests politely.",
+        "Talking with testers about issues."
+      ],
+      "level_4": [
+        "Guiding juniors to talk openly.",
+        "Leading a sprint demo with clear talk."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers get tasks clarified by asking."
+      ],
+      "level_2": [
+        "Interns explain blockers to seniors."
+      ],
+      "level_3": [
+        "Juniors share bugs and fixes clearly."
+      ],
+      "level_4": [
+        "Leads run smooth team meetings."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Speak simple and clear.",
+        "Repeat to check clarity."
+      ],
+      "level_2": [
+        "Keep updates short, on point.",
+        "Use bullet points in chat."
+      ],
+      "level_3": [
+        "Listen first, reply mindfully.",
+        "Handle disagreements calmly."
+      ],
+      "level_4": [
+        "Mentor juniors in soft talk.",
+        "Solve issues before they grow."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Silent when stuck, causing delays.",
+        "Too shy to ask questions."
+      ],
+      "level_2": [
+        "Updates too long or off-topic.",
+        "Unclear email or message."
+      ],
+      "level_3": [
+        "Rude tone in feedback.",
+        "Interrupting team calls."
+      ],
+      "level_4": [
+        "No mentoring juniors in talk.",
+        "Avoiding conflict solving."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why talk clearly in teams?",
+        "When to ask for help?"
+      ],
+      "level_2": [
+        "How to give a status update?",
+        "What is clear written talk?"
+      ],
+      "level_3": [
+        "How to disagree politely?",
+        "Why listen fully first?"
+      ],
+      "level_4": [
+        "Why mentor juniors in talk?",
+        "How to keep trust in teams?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Ask a senior to check your status talk."
+      ],
+      "level_2": [
+        "Write a clear email update."
+      ],
+      "level_3": [
+        "Give feedback on a friend’s code calmly."
+      ],
+      "level_4": [
+        "Run a mini group discussion clearly."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t stay silent when confused.",
+        "Don’t use complex words if not needed."
+      ],
+      "level_2": [
+        "Don’t over-explain updates.",
+        "Keep written messages short & clear."
+      ],
+      "level_3": [
+        "Don’t cut off others when they talk.",
+        "Stay calm even in hard talks."
+      ],
+      "level_4": [
+        "Teach juniors open talk skills.",
+        "Fix small conflicts early."
+      ]
+    }
+  },
+  "reference_link": "https://www.youtube.com/@SimpleProgrammer"
+}
