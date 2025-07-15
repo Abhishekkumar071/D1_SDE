@@ -1,0 +1,160 @@
+{
+  "source": "Research Paper – Based on studies like 'Self-Regulated Learning Strategies and Academic Achievement' (Zimmerman) & 'Time Management and Academic Performance' (Britton & Tesser)",
+  "module": "Module 8: Learning & Time Management Systems",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "name": "Self-Regulated Learning, Time Management and Performance",
+    "platform": "ResearchGate, Google Scholar"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research says planning daily study helps students score better.",
+        "Studies show time management builds confidence in learning.",
+        "Good study habits make big tasks easier.",
+        "Students learn how to plan steps for better focus.",
+        "This module uses proven research to build good habits."
+      ],
+      "level_2": [
+        "Papers show how time blocking helps focus on hard subjects.",
+        "Research says checklists and planners raise completion rates.",
+        "Students learn to manage study and projects together.",
+        "Research explains how to remove distractions smartly.",
+        "This builds a routine that saves time and stress."
+      ],
+      "level_3": [
+        "Studies show spaced repetition improves memory.",
+        "Papers explain why Pomodoro boosts focus.",
+        "Students learn to balance classes and practice.",
+        "Research proves weekly reviews fix mistakes early.",
+        "This module mixes all these proven methods."
+      ],
+      "level_4": [
+        "Research says seniors guide juniors in study habits.",
+        "Good mentors share time systems that work.",
+        "Studies say teams work better with clear plans.",
+        "Papers show trust grows when tasks are clear.",
+        "Students learn to build and share systems over time."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Using daily plans to study tough topics.",
+        "Checking off tasks to track progress."
+      ],
+      "level_2": [
+        "Blocking time for projects and exams.",
+        "Tracking daily goals with checklists."
+      ],
+      "level_3": [
+        "Trying spaced repetition for coding terms.",
+        "Using Pomodoro for coding practice."
+      ],
+      "level_4": [
+        "Helping juniors plan their day.",
+        "Sharing time tricks in peer groups."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students finish assignments on time."
+      ],
+      "level_2": [
+        "Interns handle learning plus tasks."
+      ],
+      "level_3": [
+        "Junior devs use time skills in sprints."
+      ],
+      "level_4": [
+        "Leads plan team study and reviews."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Write daily tasks clearly.",
+        "Focus on small steps each day."
+      ],
+      "level_2": [
+        "Use planners and reminders.",
+        "Block time for each task."
+      ],
+      "level_3": [
+        "Review what works weekly.",
+        "Adjust tasks for next week."
+      ],
+      "level_4": [
+        "Guide peers on planning.",
+        "Refine systems yearly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No plan for daily study.",
+        "Forgetting tasks easily."
+      ],
+      "level_2": [
+        "No break time, work overload.",
+        "No clear deadlines."
+      ],
+      "level_3": [
+        "No weekly checks, tasks pile up.",
+        "No new habits for focus."
+      ],
+      "level_4": [
+        "No mentoring juniors.",
+        "No system updates."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why plan your study daily?",
+        "What is self-regulated learning?"
+      ],
+      "level_2": [
+        "Why use checklists?",
+        "What does time blocking mean?"
+      ],
+      "level_3": [
+        "What is spaced repetition?",
+        "Why review tasks weekly?"
+      ],
+      "level_4": [
+        "Why help juniors plan?",
+        "Why update your system?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a daily plan for one week."
+      ],
+      "level_2": [
+        "Use a checklist for study goals."
+      ],
+      "level_3": [
+        "Try Pomodoro for coding tasks."
+      ],
+      "level_4": [
+        "Help a junior build a study plan."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip daily plans.",
+        "Avoid distractions like phone scrolling."
+      ],
+      "level_2": [
+        "Don’t overfill your day.",
+        "Keep goals real and clear."
+      ],
+      "level_3": [
+        "Check tasks weekly.",
+        "Fix habits that waste time."
+      ],
+      "level_4": [
+        "Teach juniors what works.",
+        "Refresh your system often."
+      ]
+    }
+  },
+  "reference_link": "https://www.researchgate.net/publication/272509151_Self-Regulated_Learning_Strategies_and_Academic_Achievement"
+}
