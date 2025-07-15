@@ -103,4 +103,59 @@
       ],
       "level_4": [
         "Not helping juniors plan.",
-        "Sticking to old
+        "Sticking to old bad habits."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why manage your time daily?",
+        "Name one way to plan tasks."
+      ],
+      "level_2": [
+        "Why use checklists?",
+        "What is a time block?"
+      ],
+      "level_3": [
+        "What is deep work?",
+        "Why review your plan?"
+      ],
+      "level_4": [
+        "Why guide juniors on planning?",
+        "How does planning build trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Try making a small daily plan."
+      ],
+      "level_2": [
+        "Use a checklist for tasks this week."
+      ],
+      "level_3": [
+        "Plan a coding sprint with deep work."
+      ],
+      "level_4": [
+        "Guide a peer to plan their week."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t study without a plan.",
+        "Avoid distractions like phones."
+      ],
+      "level_2": [
+        "Break tasks into easy parts.",
+        "Block noisy apps when you study."
+      ],
+      "level_3": [
+        "Always review your plan.",
+        "Adapt when tasks change."
+      ],
+      "level_4": [
+        "Share time tips with juniors.",
+        "Keep testing new study habits."
+      ]
+    }
+  },
+  "reference_link": "https://www.buzzsprout.com/1059039"
+}
