@@ -1,160 +1,160 @@
 {
-  "source": "Course – Inspired by LinkedIn Learning’s 'Problem-Solving Techniques for Developers' & Coursera’s 'Storytelling for Influence'",
-  "module": "Module 9: Problem-Solving Narratives",
+  "source": "Course – Inspired by Coursera Capstone & LinkedIn Learning on Industry Simulation & Feedback",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
   "file_type": "public_Source2_Course",
   "course": {
-    "name": "Problem-Solving Techniques, Storytelling for Influence",
-    "platform": "LinkedIn Learning, Coursera"
+    "name": "Industry Project Capstone, Delivering Professional Feedback",
+    "platform": "Coursera, LinkedIn Learning"
   },
   "segments": {
     "introduction": {
       "level_1": [
-        "Courses show why explaining your problem story is useful.",
-        "Lessons teach how to describe what you solved step by step.",
-        "Students learn to tell what was the challenge and solution.",
-        "They see how to write a simple code story in plain words.",
-        "This builds clear thinking habits."
+        "Courses show how students do real-like tasks.",
+        "They explain how to write what you did step by step.",
+        "Students learn to share tasks daily with mentors.",
+        "Lessons guide writing a clear feedback report.",
+        "This builds job-ready habits."
       ],
       "level_2": [
-        "Courses explain sharing your approach in a team.",
-        "They teach how to break complex code into easy steps.",
-        "Students learn to show blockers and how they fixed them.",
-        "Lessons guide adding lessons learned in the story.",
-        "This helps in group discussions and mock interviews."
+        "Courses guide students to handle feedback calmly.",
+        "They teach adding peer notes to your report.",
+        "Lessons explain documenting mistakes clearly.",
+        "Students learn to fix work after feedback.",
+        "This matches real team culture."
       ],
       "level_3": [
-        "Courses show how seniors explain tough bugs to juniors.",
-        "Lessons guide sharing solutions in reviews or meetings.",
-        "Students learn storytelling for coding blogs or talks.",
-        "They practice turning mistakes into learning points.",
-        "This helps stand out during hiring rounds."
+        "Courses share how to review peer work professionally.",
+        "They teach writing growth plans after reviews.",
+        "Students learn how to share learnings with teams.",
+        "Lessons guide using feedback to improve next project.",
+        "This helps students act like real devs."
       ],
       "level_4": [
-        "Courses teach leading problem-solving sessions in teams.",
-        "They guide helping juniors craft clear code stories.",
-        "Lessons explain presenting your work to non-tech teams.",
-        "Students learn to share narratives that inspire trust.",
-        "This builds leadership talk skills."
+        "Courses explain guiding juniors during feedback.",
+        "They show how seniors close project reports clearly.",
+        "Lessons teach presenting reports to leads.",
+        "Students learn to share what went well and what to fix.",
+        "This builds leadership trust."
       ]
     },
     "realWorldUseCases": {
       "level_1": [
-        "Sharing how you fixed a small bug with a friend.",
-        "Writing a simple problem story in a notebook."
+        "Writing what tasks you did each day.",
+        "Sharing your report with a peer."
       ],
       "level_2": [
-        "Explaining your solution in a project group.",
-        "Sharing blockers in stand-up calls."
+        "Getting small comments from mentors.",
+        "Fixing tasks after peer feedback."
       ],
       "level_3": [
-        "Writing a blog on solving an error.",
-        "Explaining a big fix in a review meeting."
+        "Giving clear feedback to a peer.",
+        "Writing how you will grow next time."
       ],
       "level_4": [
-        "Helping juniors write problem-solving stories.",
-        "Sharing your fix story in a tech talk."
+        "Helping juniors with peer feedback.",
+        "Closing a project with a final report."
       ]
     },
     "industryApplications": {
       "level_1": [
-        "Freshers explain simple tasks in reviews."
+        "Freshers write task updates daily."
       ],
       "level_2": [
-        "Interns share blockers and fixes daily."
+        "Interns handle feedback from seniors."
       ],
       "level_3": [
-        "Juniors write clear notes on fixes."
+        "Juniors share peer reviews clearly."
       ],
       "level_4": [
-        "Leads guide juniors on story sharing."
+        "Leads guide juniors on project closure."
       ]
     },
     "thinkingPattern": {
       "level_1": [
-        "Write what the problem was.",
-        "Write how you solved it."
+        "Write clear daily tasks.",
+        "Add what went well."
       ],
       "level_2": [
-        "Add blockers and fixes in your story.",
-        "Keep steps short and clear."
+        "Add feedback points step by step.",
+        "Fix tasks after notes."
       ],
       "level_3": [
-        "Explain what you learned.",
-        "Share with peers for feedback."
+        "Write what you learned.",
+        "Add next growth steps."
       ],
       "level_4": [
-        "Guide juniors to explain clearly.",
-        "Use stories in team learning."
+        "Guide juniors on report basics.",
+        "Use feedback for team growth."
       ]
     },
     "problemTypes": {
       "level_1": [
-        "Not explaining your fix story.",
-        "Sharing unclear problem points."
+        "No clear daily updates.",
+        "Missing what went well."
       ],
       "level_2": [
-        "Missing blockers in the story.",
-        "Over-explaining without clear steps."
+        "Not adding feedback points.",
+        "Not fixing tasks after review."
       ],
       "level_3": [
-        "No lessons learned section.",
-        "Not sharing with teammates."
+        "No growth steps listed.",
+        "No sharing with peers."
       ],
       "level_4": [
-        "Not guiding juniors on sharing.",
-        "Keeping stories only in your mind."
+        "Not guiding juniors.",
+        "No project closure notes."
       ]
     },
     "assessmentsAndQuizzes": {
       "level_1": [
-        "Why write your problem story?",
-        "What are the basic parts?"
+        "Why write daily tasks?",
+        "Why share what went well?"
       ],
       "level_2": [
-        "Why add blockers in the story?",
-        "How to share steps clearly?"
+        "Why add peer feedback?",
+        "Why fix tasks after review?"
       ],
       "level_3": [
-        "Why share lessons learned?",
-        "How can a story help in hiring?"
+        "Why add a growth plan?",
+        "How to review peer work?"
       ],
       "level_4": [
         "Why guide juniors?",
-        "How to inspire with your story?"
+        "Why share closure notes?"
       ]
     },
     "miniProjects": {
       "level_1": [
-        "Write a short bug fix story."
+        "Write your daily update log."
       ],
       "level_2": [
-        "Share your story in a group."
+        "Add feedback to your report."
       ],
       "level_3": [
-        "Write a blog on a tough fix."
+        "Write a short growth plan."
       ],
       "level_4": [
-        "Help a junior craft their story."
+        "Help a junior write a report."
       ]
     },
     "suggestionsAndMistakes": {
       "level_1": [
-        "Don’t skip small details.",
-        "Don’t share too few steps."
+        "Don’t skip task steps.",
+        "Always add what went well."
       ],
       "level_2": [
-        "Don’t make your story too long.",
-        "Check steps make sense."
+        "Don’t ignore feedback notes.",
+        "Fix tasks fully after review."
       ],
       "level_3": [
-        "Don’t hide blockers you fixed.",
-        "Always share what you learned."
+        "Add growth ideas every time.",
+        "Share your report with peers."
       ],
       "level_4": [
-        "Guide juniors on good flow.",
-        "Use stories to teach others."
+        "Guide juniors step by step.",
+        "Use feedback for team trust."
       ]
     }
   },
-  "reference_link": "https://www.linkedin.com/learning/problem-solving-techniques"
+  "reference_link": "https://www.linkedin.com/learning/delivering-professional-feedback"
 }
