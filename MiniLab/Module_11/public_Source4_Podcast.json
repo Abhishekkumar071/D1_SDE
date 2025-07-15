@@ -1,0 +1,161 @@
+{
+  "source": "Podcast – Inspired by Soft Skills Engineering & Developer Tea on Communication for Dev Teams",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source4_Podcast",
+  "podcast": {
+    "name": "Soft Skills Engineering, Developer Tea",
+    "episode": "How to Communicate Better as a Developer",
+    "platform": "Spotify, Apple Podcasts"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Podcasts share why talking well builds trust in teams.",
+        "They explain why asking questions is a strength, not weakness.",
+        "Episodes tell stories of devs solving problems by talking early.",
+        "They teach simple words work better than complex ones.",
+        "This helps students feel safe to speak in groups."
+      ],
+      "level_2": [
+        "Podcasts guide how to give clear project updates.",
+        "They share how to write simple emails and chats.",
+        "Episodes show why listening is half of communication.",
+        "They cover how to share blockers without fear.",
+        "This helps freshers share status confidently."
+      ],
+      "level_3": [
+        "Podcasts discuss handling feedback and conflicts calmly.",
+        "They share how to talk to seniors without fear.",
+        "Episodes teach explaining bugs and fixes clearly.",
+        "They guide how to handle cross-team discussions.",
+        "This reduces miscommunication in real projects."
+      ],
+      "level_4": [
+        "Podcasts explain how seniors mentor juniors in team talks.",
+        "They discuss leading daily meetings and sprint demos.",
+        "Episodes show how to handle misunderstandings quickly.",
+        "They highlight building a healthy talk culture.",
+        "This builds trust and clear teamwork."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Asking for help when stuck.",
+        "Explaining your solution in a group."
+      ],
+      "level_2": [
+        "Sharing daily progress in stand-ups.",
+        "Writing short status emails."
+      ],
+      "level_3": [
+        "Talking to a tester about a bug.",
+        "Explaining a feature to non-tech teams."
+      ],
+      "level_4": [
+        "Guiding juniors on clear updates.",
+        "Leading a sprint review call."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers learn to ask good questions."
+      ],
+      "level_2": [
+        "Interns send clear updates daily."
+      ],
+      "level_3": [
+        "Juniors handle team calls well."
+      ],
+      "level_4": [
+        "Leads fix conflicts with open talk."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Speak simple, repeat if needed.",
+        "Ask if you don’t understand."
+      ],
+      "level_2": [
+        "Keep written updates short.",
+        "Listen fully before replying."
+      ],
+      "level_3": [
+        "Stay calm in conflicts.",
+        "Explain bugs with clear words."
+      ],
+      "level_4": [
+        "Mentor juniors to speak up.",
+        "Handle team problems early."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Keeping quiet when stuck.",
+        "Using unclear words."
+      ],
+      "level_2": [
+        "Long unclear updates.",
+        "Ignoring others when they talk."
+      ],
+      "level_3": [
+        "Talking rudely under stress.",
+        "Not explaining tasks clearly."
+      ],
+      "level_4": [
+        "Not mentoring juniors on talks.",
+        "Avoiding tough conversations."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why speak clearly in teams?",
+        "Why ask questions early?"
+      ],
+      "level_2": [
+        "How to give a short update?",
+        "Why listen fully first?"
+      ],
+      "level_3": [
+        "How to handle conflicts calmly?",
+        "Why explain bugs simply?"
+      ],
+      "level_4": [
+        "Why mentor juniors on talk?",
+        "How to fix talk gaps in teams?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Ask a question in your next group study."
+      ],
+      "level_2": [
+        "Write a short status message."
+      ],
+      "level_3": [
+        "Explain a small bug to a peer."
+      ],
+      "level_4": [
+        "Help a junior share updates clearly."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t fear asking small questions.",
+        "Don’t speak too fast."
+      ],
+      "level_2": [
+        "Don’t write long confusing updates.",
+        "Always listen before talking."
+      ],
+      "level_3": [
+        "Don’t blame teammates harshly.",
+        "Handle conflicts in private if needed."
+      ],
+      "level_4": [
+        "Guide juniors to be open.",
+        "Build trust with clear words."
+      ]
+    }
+  },
+  "reference_link": "https://softskills.audio/"
+}
