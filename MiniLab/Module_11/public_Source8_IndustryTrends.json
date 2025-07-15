@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on LinkedIn Workplace Learning Report, Stack Overflow Developer Survey, and WEF Future of Jobs Report",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "LinkedIn Workplace Learning Report, Stack Overflow Survey",
+    "platform": "LinkedIn, Stack Overflow, World Economic Forum"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Trends show companies want devs with clear talk skills.",
+        "Reports say good teamwork starts with open words.",
+        "Surveys show asking questions builds trust fast.",
+        "Good talk avoids confusion in daily tasks.",
+        "This module brings these trends to freshers."
+      ],
+      "level_2": [
+        "LinkedIn says clear updates keep work smooth.",
+        "Stack Overflow shows stand-ups need clear status.",
+        "Reports say written talk avoids mix-ups.",
+        "Teams want devs to share blockers early.",
+        "This builds daily trust in teams."
+      ],
+      "level_3": [
+        "Trends show polite feedback fixes bugs faster.",
+        "Reports say clear talk helps cross-team tasks.",
+        "Surveys say handling conflicts needs calm words.",
+        "Industry needs devs who explain tech to non-tech people.",
+        "This grows open culture and team trust."
+      ],
+      "level_4": [
+        "Leads teach juniors how to talk openly.",
+        "Good talk solves team issues before they grow.",
+        "Trends say remote teams rely on clear words.",
+        "Reports show leaders build trust with calm talks.",
+        "This module uses trends for real work habits."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Asking doubts when stuck on tasks.",
+        "Sharing ideas in group calls."
+      ],
+      "level_2": [
+        "Writing updates in daily stand-ups.",
+        "Sharing blockers without fear."
+      ],
+      "level_3": [
+        "Explaining bugs to seniors politely.",
+        "Talking to other teams about issues."
+      ],
+      "level_4": [
+        "Helping juniors talk clearly.",
+        "Leading a small meeting calmly."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers clear small doubts daily."
+      ],
+      "level_2": [
+        "Interns share status updates well."
+      ],
+      "level_3": [
+        "Juniors handle cross-team talks well."
+      ],
+      "level_4": [
+        "Leads fix talk gaps fast."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Speak simple, ask early.",
+        "Use clear words in groups."
+      ],
+      "level_2": [
+        "Keep updates short & clear.",
+        "Share blockers before they grow."
+      ],
+      "level_3": [
+        "Listen fully, speak calmly.",
+        "Explain tech points simply."
+      ],
+      "level_4": [
+        "Guide juniors on talk basics.",
+        "Handle conflicts early."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not asking when stuck.",
+        "Silent in team calls."
+      ],
+      "level_2": [
+        "Sharing unclear updates.",
+        "Hiding blockers."
+      ],
+      "level_3": [
+        "Rude tone in stress talks.",
+        "Interrupting others in calls."
+      ],
+      "level_4": [
+        "Not helping juniors talk.",
+        "Ignoring talk gaps in teams."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why clear talk matters?",
+        "Why ask small questions?"
+      ],
+      "level_2": [
+        "What makes good stand-up talk?",
+        "Why share blockers clearly?"
+      ],
+      "level_3": [
+        "Why stay polite in stress?",
+        "Why explain bugs simply?"
+      ],
+      "level_4": [
+        "Why guide juniors on talk?",
+        "Why fix team gaps early?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Ask a question in your next call."
+      ],
+      "level_2": [
+        "Write a short status note."
+      ],
+      "level_3": [
+        "Handle a fake bug talk calmly."
+      ],
+      "level_4": [
+        "Guide a peer on clear updates."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t keep doubts to yourself.",
+        "Don’t overcomplicate words."
+      ],
+      "level_2": [
+        "Don’t write long unclear notes.",
+        "Don’t skip sharing blockers."
+      ],
+      "level_3": [
+        "Don’t interrupt teammates.",
+        "Stay calm even under stress."
+      ],
+      "level_4": [
+        "Teach juniors soft talk skills.",
+        "Fix small gaps early."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/business/learning/blog/learning-and-development/workplace-learning-report"
+}
