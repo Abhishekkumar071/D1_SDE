@@ -1,0 +1,158 @@
+{
+  "source": "Research Paper – Based on IEEE & ACM papers on Knowledge Sharing and Retrospective Narratives",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source7_ResearchPaper",
+  "research_paper": {
+    "name": "Knowledge Sharing in Software Teams",
+    "platform": "IEEE, ACM Digital Library"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Research shows telling fix stories helps teams grow.",
+        "Studies say explaining steps makes learning easy.",
+        "Writing your story makes your thinking clear.",
+        "Teams solve bugs faster when stories are shared.",
+        "This module uses these findings for daily practice."
+      ],
+      "level_2": [
+        "Papers say clear stories reduce repeated mistakes.",
+        "Studies show teams store stories as lessons.",
+        "Writing stories helps juniors learn real examples.",
+        "Research says sharing blockers builds trust.",
+        "This helps in meetings and peer reviews."
+      ],
+      "level_3": [
+        "Papers explain how seniors teach through stories.",
+        "Studies show stories help cross-team learning.",
+        "Narratives help in interviews and blogs.",
+        "Good stories show problem-solving style.",
+        "This grows your proof of work online."
+      ],
+      "level_4": [
+        "Research says leaders guide juniors to write clear logs.",
+        "Stories turn hidden fixes into shared knowledge.",
+        "Papers say stories keep teams connected.",
+        "Open sharing builds healthy team culture.",
+        "This module brings research to practical steps."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Telling how you fixed a small bug.",
+        "Writing steps in your notebook."
+      ],
+      "level_2": [
+        "Explaining your fix in team calls.",
+        "Adding blockers in a project log."
+      ],
+      "level_3": [
+        "Sharing a fix story in a blog.",
+        "Explaining your problem in an interview."
+      ],
+      "level_4": [
+        "Helping juniors write fix stories.",
+        "Sharing your story in a group meeting."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers talk about small fix tasks."
+      ],
+      "level_2": [
+        "Interns keep logs of blockers and fixes."
+      ],
+      "level_3": [
+        "Juniors write blogs to share knowledge."
+      ],
+      "level_4": [
+        "Leads guide teams on story sharing."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Say what broke and how you solved it.",
+        "Write simple clear steps."
+      ],
+      "level_2": [
+        "Add failed tries and blockers.",
+        "Write what changed after fixing."
+      ],
+      "level_3": [
+        "Say what you learned.",
+        "Keep it clear for others to read."
+      ],
+      "level_4": [
+        "Guide juniors to share same way.",
+        "Use stories in team retrospectives."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not explaining fix steps.",
+        "Just saying ‘it works now’."
+      ],
+      "level_2": [
+        "Missing blockers in logs.",
+        "Writing messy unclear steps."
+      ],
+      "level_3": [
+        "No lessons learned.",
+        "Not sharing stories publicly."
+      ],
+      "level_4": [
+        "Not helping juniors tell stories.",
+        "Keeping knowledge hidden."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why share your fix story?",
+        "What parts must be there?"
+      ],
+      "level_2": [
+        "Why write blockers and tries?",
+        "How to keep the flow clear?"
+      ],
+      "level_3": [
+        "Why add lessons learned?",
+        "How do stories help in hiring?"
+      ],
+      "level_4": [
+        "Why mentor juniors on stories?",
+        "How do stories help team trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a small fix story today."
+      ],
+      "level_2": [
+        "Add blockers and failed tries.",
+        "Share with a peer for feedback."
+      ],
+      "level_3": [
+        "Write a blog about your story.",
+        "Use it in an interview answer."
+      ],
+      "level_4": [
+        "Help a junior craft their story.",
+        "Share your story in a team review."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip small fix details.",
+        "Keep words simple."
+      ],
+      "level_2": [
+        "Don’t hide blockers.",
+        "Check your story makes sense."
+      ],
+      "level_3": [
+        "Always add what you learned.",
+        "Post your story online too."
+      ],
+      "level_4": [
+        "Guide juniors to write well.",
+        "Use st
