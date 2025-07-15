@@ -1,0 +1,165 @@
+{
+  "source": "Search – Based on Google Search for LinkedIn & GitHub Personal Branding Tips",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "public_Source6_Search",
+  "search_platform": {
+    "name": "Google Search",
+    "keywords": [
+      "best LinkedIn profiles for developers",
+      "how to write LinkedIn summary for freshers",
+      "GitHub README example for portfolios",
+      "link GitHub projects in LinkedIn"
+    ]
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Students use Google to find real LinkedIn profile examples.",
+        "Search shows what a good photo, bio, and headline look like.",
+        "They learn how to write clear summaries using samples.",
+        "Google results give step-by-step tips for freshers.",
+        "This module connects these searches with real practice."
+      ],
+      "level_2": [
+        "Students search how to link GitHub repos to LinkedIn.",
+        "Results explain what to add in the Featured section.",
+        "Search helps find good GitHub README samples.",
+        "They see how top profiles show real projects.",
+        "This helps students polish both platforms together."
+      ],
+      "level_3": [
+        "Students find ideas for posts and blogs.",
+        "Search shows how to share open source work publicly.",
+        "They find tips to grow connections fast.",
+        "Results explain using hashtags for reach.",
+        "This helps them build trust and stay active."
+      ],
+      "level_4": [
+        "Students search how seniors guide juniors online.",
+        "They read case studies about thought leadership.",
+        "Search shows how to start a dev blog or newsletter.",
+        "They find tips for speaking at tech meetups.",
+        "This module shows how to stay visible long term."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Searching for a LinkedIn bio template.",
+        "Finding a sample LinkedIn headline."
+      ],
+      "level_2": [
+        "Searching how to connect GitHub with LinkedIn.",
+        "Finding best examples of public GitHub portfolios."
+      ],
+      "level_3": [
+        "Searching how to write posts about projects.",
+        "Finding hashtags to reach tech communities."
+      ],
+      "level_4": [
+        "Finding tips to mentor juniors on branding.",
+        "Searching how to speak at meetups."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers search sample profiles before interviews."
+      ],
+      "level_2": [
+        "Junior devs follow examples to polish branding."
+      ],
+      "level_3": [
+        "Hiring managers search profiles for proof."
+      ],
+      "level_4": [
+        "Leads guide teams with updated branding trends."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Search before writing your bio.",
+        "Pick a headline that matches your goal."
+      ],
+      "level_2": [
+        "Compare summaries from top profiles.",
+        "Copy structure, not content, to stay real."
+      ],
+      "level_3": [
+        "Search new hashtags to grow posts.",
+        "Check open source repos for ideas."
+      ],
+      "level_4": [
+        "Guide peers on smart search habits.",
+        "Stay updated with new trends yearly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No search done, random bio.",
+        "Copied headline from others."
+      ],
+      "level_2": [
+        "Broken links between GitHub & LinkedIn.",
+        "Outdated projects showing old work."
+      ],
+      "level_3": [
+        "No posts or hashtags used.",
+        "Inactive profile for months."
+      ],
+      "level_4": [
+        "No mentoring peers on branding.",
+        "No updates about public work."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why use Google Search for branding?",
+        "What is a LinkedIn headline?"
+      ],
+      "level_2": [
+        "Why link GitHub in LinkedIn?",
+        "What does a README show?"
+      ],
+      "level_3": [
+        "Why use hashtags in posts?",
+        "What is open source branding?"
+      ],
+      "level_4": [
+        "Why guide juniors on branding?",
+        "How does search keep you updated?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Search and make your first LinkedIn bio."
+      ],
+      "level_2": [
+        "Search and link one GitHub project."
+      ],
+      "level_3": [
+        "Write a post using searched hashtags."
+      ],
+      "level_4": [
+        "Search trends and update your profile yearly."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip searching real examples.",
+        "Don’t copy paste lines blindly."
+      ],
+      "level_2": [
+        "Use real, working links only.",
+        "Check your profile for mistakes."
+      ],
+      "level_3": [
+        "Keep learning new trends.",
+        "Reply to comments to build trust."
+      ],
+      "level_4": [
+        "Guide juniors on search best practices.",
+        "Keep branding active with new posts."
+      ]
+    }
+  },
+  "reference_link": "https://www.google.com/search?q=best+LinkedIn+profile+examples+for+developers"
+}
