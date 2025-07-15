@@ -1,0 +1,164 @@
+{
+  "source": "Search – Based on Google Search for Coding Problem-Solving Story Tips",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source6_Search",
+  "search_platform": {
+    "name": "Google Search",
+    "keywords": [
+      "how to write a problem-solving story for coding",
+      "how to explain bug fixes in interviews",
+      "how to write a developer blog about a bug fix"
+    ]
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Students search how to explain coding problems clearly.",
+        "They learn steps to write what broke and what fixed it.",
+        "Search shows tips to share small blockers too.",
+        "Students find how to keep stories simple.",
+        "This builds clear talk habits for interviews."
+      ],
+      "level_2": [
+        "Students search how to break fixes into steps.",
+        "They read about adding failed tries to the story.",
+        "Search shows how to write short, clean steps.",
+        "Students learn to add lessons learned.",
+        "This helps in stand-ups and group talks."
+      ],
+      "level_3": [
+        "Students find how seniors share big fix stories.",
+        "Search shows how to post bug stories online.",
+        "Students read tips for blog posts and LinkedIn.",
+        "They learn to share lessons for hiring rounds.",
+        "This builds trust and clear proof of skill."
+      ],
+      "level_4": [
+        "Search shares how leads guide juniors on stories.",
+        "Students read how stories help team learning.",
+        "They learn to share stories in talks or meetups.",
+        "Search shows real tips to explain tough bugs simply.",
+        "This turns small mistakes into growth stories."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Searching ‘how to write a bug fix story’.",
+        "Sharing a small fix in a WhatsApp study group."
+      ],
+      "level_2": [
+        "Searching how to write steps for interviews.",
+        "Explaining a blocker in a team call."
+      ],
+      "level_3": [
+        "Searching how to write a LinkedIn post.",
+        "Posting a bug fix on Dev.to."
+      ],
+      "level_4": [
+        "Searching tips to help juniors explain stories.",
+        "Sharing a fix story in a tech talk."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers share clear task stories."
+      ],
+      "level_2": [
+        "Interns write blockers in stand-ups."
+      ],
+      "level_3": [
+        "Juniors share fix blogs online."
+      ],
+      "level_4": [
+        "Leads guide team bug stories."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Say what broke and why.",
+        "Say how you fixed it."
+      ],
+      "level_2": [
+        "Add blockers and failed tries.",
+        "Keep steps short and clear."
+      ],
+      "level_3": [
+        "Say what changed or worked.",
+        "Add lessons learned for growth."
+      ],
+      "level_4": [
+        "Guide juniors to share same way.",
+        "Use stories to help the team learn."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not explaining what broke.",
+        "Skipping small steps."
+      ],
+      "level_2": [
+        "No blockers or tries explained.",
+        "Story too long and unclear."
+      ],
+      "level_3": [
+        "No lessons learned section.",
+        "Not sharing stories in reviews."
+      ],
+      "level_4": [
+        "Not helping juniors share stories.",
+        "Keeping all learnings private."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why write a fix story?",
+        "What parts must be there?"
+      ],
+      "level_2": [
+        "Why add blockers and tries?",
+        "How to write steps clearly?"
+      ],
+      "level_3": [
+        "Why share lessons learned?",
+        "Where to post your fix story?"
+      ],
+      "level_4": [
+        "Why guide juniors on stories?",
+        "How do stories build trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Search and write a short fix story."
+      ],
+      "level_2": [
+        "Write steps for an old bug fix."
+      ],
+      "level_3": [
+        "Post a small fix story online."
+      ],
+      "level_4": [
+        "Guide a junior to write their story."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip key steps.",
+        "Keep words simple."
+      ],
+      "level_2": [
+        "Don’t write too much filler.",
+        "Keep story flow clear."
+      ],
+      "level_3": [
+        "Add what you learned each time.",
+        "Post stories for feedback."
+      ],
+      "level_4": [
+        "Help juniors get story basics.",
+        "Use stories in team reviews."
+      ]
+    }
+  },
+  "reference_link": "https://www.google.com/search?q=how+to+write+a+problem-solving+story+for+coding"
+}
