@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by Coursera’s 'Communication in the 21st Century Workplace' & LinkedIn Learning’s 'Communication for Developers'",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Communication in the 21st Century Workplace, Communication for Developers",
+    "platform": "Coursera, LinkedIn Learning"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Courses teach why good communication matters in tech teams.",
+        "Lessons explain how to talk to peers and seniors clearly.",
+        "Students learn to ask questions without fear.",
+        "They practice explaining ideas in simple words.",
+        "This module builds strong speaking and writing habits."
+      ],
+      "level_2": [
+        "Courses explain how to write clear messages and emails.",
+        "Lessons show how to share status updates in meetings.",
+        "Students learn how to listen actively to teammates.",
+        "They practice giving respectful feedback.",
+        "This builds trust in daily work."
+      ],
+      "level_3": [
+        "Courses guide handling tough conversations politely.",
+        "Students learn to discuss bugs or mistakes calmly.",
+        "Lessons cover explaining complex tech to non-tech people.",
+        "They learn to work in cross-team meetings.",
+        "This helps reduce confusion and conflicts."
+      ],
+      "level_4": [
+        "Courses share how seniors mentor juniors with clear words.",
+        "Lessons teach handling conflicts in teams.",
+        "Students learn how to lead meetings smoothly.",
+        "They guide peers to communicate openly.",
+        "This builds better team culture."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Talking about project ideas in a small group.",
+        "Asking for help from a teammate."
+      ],
+      "level_2": [
+        "Writing updates on project progress.",
+        "Sharing problems in daily stand-ups."
+      ],
+      "level_3": [
+        "Explaining bugs in team calls.",
+        "Talking to other teams about features."
+      ],
+      "level_4": [
+        "Mentoring juniors on clear talks.",
+        "Leading a team sync-up call."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers ask questions to seniors."
+      ],
+      "level_2": [
+        "Interns share clear status updates."
+      ],
+      "level_3": [
+        "Juniors explain work to clients."
+      ],
+      "level_4": [
+        "Leads run team meetings and resolve conflicts."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Speak simple and clear words.",
+        "Ask questions if unsure."
+      ],
+      "level_2": [
+        "Write short, clear messages.",
+        "Share updates on time."
+      ],
+      "level_3": [
+        "Listen fully before replying.",
+        "Keep tone polite and calm."
+      ],
+      "level_4": [
+        "Guide others on good talk habits.",
+        "Improve talks with feedback."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not asking questions when confused.",
+        "Talking too fast or unclear."
+      ],
+      "level_2": [
+        "Writing long unclear emails.",
+        "Missing updates in meetings."
+      ],
+      "level_3": [
+        "Speaking rudely in discussions.",
+        "Not listening to teammates."
+      ],
+      "level_4": [
+        "Not helping juniors communicate.",
+        "Ignoring conflicts in teams."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why is good talk important?",
+        "When should you ask questions?"
+      ],
+      "level_2": [
+        "What makes a good email?",
+        "Why give feedback kindly?"
+      ],
+      "level_3": [
+        "Why explain bugs clearly?",
+        "How to handle cross-team calls?"
+      ],
+      "level_4": [
+        "Why mentor juniors in talks?",
+        "How to resolve team conflicts?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Ask a peer for feedback on your message."
+      ],
+      "level_2": [
+        "Write a short daily status email."
+      ],
+      "level_3": [
+        "Explain a tech concept to a non-tech friend."
+      ],
+      "level_4": [
+        "Guide a junior on clear talks in a project."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t stay silent if confused.",
+        "Don’t use complicated words."
+      ],
+      "level_2": [
+        "Don’t write unclear messages.",
+        "Keep your updates short and clear."
+      ],
+      "level_3": [
+        "Don’t interrupt in meetings.",
+        "Stay polite, even in tough talks."
+      ],
+      "level_4": [
+        "Mentor juniors to ask openly.",
+        "Handle conflicts calmly and early."
+      ]
+    }
+  },
+  "reference_link": "https://www.coursera.org/learn/communication-in-the-21st-century-workplace"
+}
