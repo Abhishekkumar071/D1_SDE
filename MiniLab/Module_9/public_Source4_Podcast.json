@@ -1,0 +1,161 @@
+{
+  "source": "Podcast – Inspired by Soft Skills Engineering, Developer Tea & The Changelog on Developer Problem-Solving",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source4_Podcast",
+  "podcast": {
+    "name": "Soft Skills Engineering, Developer Tea, The Changelog",
+    "episode": "Telling Your Coding Problem Story",
+    "platform": "Spotify, Apple Podcasts"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Podcasts share real stories of fixing bugs and blockers.",
+        "They show how devs tell what went wrong and how they fixed it.",
+        "Episodes teach how to break big fixes into small parts.",
+        "They explain why sharing lessons helps others too.",
+        "This builds clear talk habits for freshers."
+      ],
+      "level_2": [
+        "Podcasts show sharing blockers in stand-ups.",
+        "They teach giving context when telling a bug story.",
+        "Episodes share how to explain failed tries calmly.",
+        "They guide telling what tools or tricks worked.",
+        "This helps students in team talks and reviews."
+      ],
+      "level_3": [
+        "Podcasts share senior devs’ fix stories in teams.",
+        "They explain turning mistakes into blogs or talks.",
+        "Episodes show how to share stories in peer groups.",
+        "They guide sharing fixes with non-tech people too.",
+        "This builds real storytelling confidence."
+      ],
+      "level_4": [
+        "Podcasts explain how seniors mentor juniors on story flow.",
+        "They show how to lead group bug talks.",
+        "Episodes share solving conflicts with clear facts.",
+        "They explain using stories in meetups or talks.",
+        "This grows trust and leadership skills."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Telling a small fix story to a friend.",
+        "Sharing what didn’t work first."
+      ],
+      "level_2": [
+        "Explaining blockers in daily calls.",
+        "Writing a fix note for a team."
+      ],
+      "level_3": [
+        "Recording a short fix podcast log.",
+        "Explaining a bug in a peer call."
+      ],
+      "level_4": [
+        "Helping juniors share clear stories.",
+        "Leading a small team bug review."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers share what they fixed clearly."
+      ],
+      "level_2": [
+        "Interns explain blockers in teams."
+      ],
+      "level_3": [
+        "Juniors write blogs about fixes."
+      ],
+      "level_4": [
+        "Leads guide juniors on story flow."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Say what the problem was.",
+        "Say how you solved it."
+      ],
+      "level_2": [
+        "Add blockers and steps.",
+        "Keep parts short and clear."
+      ],
+      "level_3": [
+        "Add lessons learned.",
+        "Share your fix with peers."
+      ],
+      "level_4": [
+        "Guide juniors to tell same way.",
+        "Use stories in team learnings."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not saying how you fixed it.",
+        "Missing simple steps."
+      ],
+      "level_2": [
+        "No blockers shown in story.",
+        "Story too long or unclear."
+      ],
+      "level_3": [
+        "No lesson shared.",
+        "Keeping story to yourself."
+      ],
+      "level_4": [
+        "Not helping juniors.",
+        "Not sharing big lessons."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why share a fix story?",
+        "What parts should you tell?"
+      ],
+      "level_2": [
+        "Why show blockers?",
+        "How to keep steps clear?"
+      ],
+      "level_3": [
+        "Why share what you learned?",
+        "How can it help your team?"
+      ],
+      "level_4": [
+        "Why mentor juniors on stories?",
+        "How stories build trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Record a 1-min fix story."
+      ],
+      "level_2": [
+        "Write a blocker log and share."
+      ],
+      "level_3": [
+        "Join a peer group to share fix."
+      ],
+      "level_4": [
+        "Help a peer shape their story."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip key steps.",
+        "Keep talk simple."
+      ],
+      "level_2": [
+        "Don’t mix steps.",
+        "Keep your flow clear."
+      ],
+      "level_3": [
+        "Always add what you learned.",
+        "Check your story before sharing."
+      ],
+      "level_4": [
+        "Guide juniors on story flow.",
+        "Use real stories to teach bugs."
+      ]
+    }
+  },
+  "reference_link": "https://softskills.audio/"
+}
