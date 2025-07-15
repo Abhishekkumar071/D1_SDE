@@ -1,0 +1,160 @@
+{
+  "source": "Industry Trends – Based on LinkedIn Workplace Learning Report, GitHub Octoverse, Stack Overflow Developer Survey",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source8_IndustryTrends",
+  "industry_report": {
+    "name": "LinkedIn Learning Report, GitHub Octoverse, Stack Overflow Survey",
+    "platform": "LinkedIn, GitHub, Stack Overflow"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Trends show companies want devs who explain their work clearly.",
+        "Reports say telling bug stories builds trust in teams.",
+        "Surveys show clear problem logs help juniors learn.",
+        "Writing fix stories improves dev growth.",
+        "This module turns these trends into daily habits."
+      ],
+      "level_2": [
+        "LinkedIn shows storytelling is now a top skill.",
+        "GitHub says good repos include fix stories.",
+        "Stack Overflow shows devs who write stand out.",
+        "Clear stories help in code reviews and hiring.",
+        "This helps teams share lessons easily."
+      ],
+      "level_3": [
+        "Trends show seniors teach by telling real bug stories.",
+        "Reports say stories avoid repeating the same mistake.",
+        "Open logs show how to fix tough issues.",
+        "Good stories help in interviews and blogs.",
+        "This makes devs more visible in industry."
+      ],
+      "level_4": [
+        "Leaders build culture of sharing problem logs.",
+        "Trends show teams that share stay stronger.",
+        "Remote teams grow trust through clear stories.",
+        "Good stories turn failures into team lessons.",
+        "This module uses real trends for daily practice."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Telling how you fixed a bug in simple words.",
+        "Writing a tiny fix log in a doc."
+      ],
+      "level_2": [
+        "Explaining what blocked you in stand-ups.",
+        "Writing clear steps in a repo README."
+      ],
+      "level_3": [
+        "Posting your fix story on LinkedIn.",
+        "Sharing lessons in dev blogs."
+      ],
+      "level_4": [
+        "Helping juniors write clear fix stories.",
+        "Leading a team talk on past blockers."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers explain small tasks clearly."
+      ],
+      "level_2": [
+        "Interns write blockers daily."
+      ],
+      "level_3": [
+        "Juniors write clear blogs or posts."
+      ],
+      "level_4": [
+        "Leads guide teams to share openly."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Say what broke simply.",
+        "Say how you fixed it."
+      ],
+      "level_2": [
+        "Add blockers and tries.",
+        "Keep steps short and clear."
+      ],
+      "level_3": [
+        "Say what you learned.",
+        "Write it to help others."
+      ],
+      "level_4": [
+        "Guide juniors on clear stories.",
+        "Use logs to teach teams."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not telling what went wrong.",
+        "Skipping steps."
+      ],
+      "level_2": [
+        "No blockers explained.",
+        "Messy, unclear story."
+      ],
+      "level_3": [
+        "No lesson shared.",
+        "Not writing stories for others."
+      ],
+      "level_4": [
+        "Not guiding juniors to share.",
+        "Keeping lessons private."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why tell fix stories?",
+        "What parts must be clear?"
+      ],
+      "level_2": [
+        "Why add blockers?",
+        "How to keep flow clear?"
+      ],
+      "level_3": [
+        "Why share lessons learned?",
+        "Where to post fix stories?"
+      ],
+      "level_4": [
+        "Why mentor juniors on logs?",
+        "How do stories build trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a tiny fix story today."
+      ],
+      "level_2": [
+        "Add blockers in your log."
+      ],
+      "level_3": [
+        "Post your story on LinkedIn."
+      ],
+      "level_4": [
+        "Guide a junior’s first story."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip steps.",
+        "Keep words simple."
+      ],
+      "level_2": [
+        "Don’t write too long.",
+        "Keep flow easy to read."
+      ],
+      "level_3": [
+        "Always add lessons learned.",
+        "Share your story publicly."
+      ],
+      "level_4": [
+        "Guide juniors on clear writing.",
+        "Use logs for team learning."
+      ]
+    }
+  },
+  "reference_link": "https://www.linkedin.com/business/learning/blog/learning-and-development/workplace-learning-report"
+}
