@@ -1,0 +1,161 @@
+{
+  "source": "YouTube Video – Inspired by Tech With Tim, Fireship, The Primeagen on Simulated Project Work",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "public_Source3_YouTube",
+  "video": {
+    "title": "How to Simulate Real Work and Handle Peer Feedback",
+    "channel": "Tech With Tim, Fireship, The Primeagen",
+    "platform": "YouTube"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Videos show how real devs plan daily tasks.",
+        "They explain breaking work into steps.",
+        "Creators show sharing tasks with teammates.",
+        "They guide adding what went well in logs.",
+        "This builds simple project habits."
+      ],
+      "level_2": [
+        "Videos teach handling peer comments calmly.",
+        "They show how to fix tasks after review.",
+        "Creators guide writing clear feedback points.",
+        "They explain adding blockers and fixes.",
+        "This makes project flow realistic."
+      ],
+      "level_3": [
+        "Videos share how seniors review peer work.",
+        "Creators show writing clear growth plans.",
+        "They guide how to present reports to the team.",
+        "They explain closing tasks with clean notes.",
+        "This builds real work readiness."
+      ],
+      "level_4": [
+        "Videos show guiding juniors on feedback basics.",
+        "Creators teach leading short peer review calls.",
+        "They share how seniors wrap up project reports.",
+        "They guide how to share final learnings openly.",
+        "This builds leadership skills."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Breaking tasks for a day in a simple log.",
+        "Sharing your update with a peer."
+      ],
+      "level_2": [
+        "Getting small feedback on a task.",
+        "Fixing your code after a comment."
+      ],
+      "level_3": [
+        "Giving a clear review to a peer.",
+        "Adding growth points to your report."
+      ],
+      "level_4": [
+        "Helping juniors write clear updates.",
+        "Closing the project with a final log."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers share daily tasks openly."
+      ],
+      "level_2": [
+        "Interns handle peer review well."
+      ],
+      "level_3": [
+        "Juniors share growth steps clearly."
+      ],
+      "level_4": [
+        "Leads help juniors wrap up reports."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Write clear task notes daily.",
+        "Add what worked well."
+      ],
+      "level_2": [
+        "Add comments step by step.",
+        "Fix tasks after reviews."
+      ],
+      "level_3": [
+        "Write what you learned new.",
+        "Add next growth steps."
+      ],
+      "level_4": [
+        "Guide juniors on report basics.",
+        "Use feedback to improve team work."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No clear daily task list.",
+        "No what-went-well notes."
+      ],
+      "level_2": [
+        "Ignoring peer feedback.",
+        "Not fixing tasks after notes."
+      ],
+      "level_3": [
+        "No growth plan written.",
+        "No sharing with peers."
+      ],
+      "level_4": [
+        "Not guiding juniors.",
+        "No final project notes."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why write daily tasks?",
+        "Why say what went well?"
+      ],
+      "level_2": [
+        "Why add peer feedback?",
+        "Why fix tasks after review?"
+      ],
+      "level_3": [
+        "Why write a growth plan?",
+        "How to share peer reviews?"
+      ],
+      "level_4": [
+        "Why guide juniors?",
+        "Why wrap up project notes?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write one daily task log."
+      ],
+      "level_2": [
+        "Add feedback to your work."
+      ],
+      "level_3": [
+        "Write a growth plan step."
+      ],
+      "level_4": [
+        "Help a peer share a final log."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip daily steps.",
+        "Always write what went well."
+      ],
+      "level_2": [
+        "Don’t ignore feedback.",
+        "Fix all notes properly."
+      ],
+      "level_3": [
+        "Add growth steps each time.",
+        "Review your logs clearly."
+      ],
+      "level_4": [
+        "Guide juniors line by line.",
+        "Use reports to build trust."
+      ]
+    }
+  },
+  "reference_link": "https://www.youtube.com/@TechWithTim"
+}
