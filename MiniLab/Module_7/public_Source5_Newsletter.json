@@ -1,0 +1,161 @@
+{
+  "source": "Newsletter – Inspired by freeCodeCamp & Dev.to Weekly on Personal Branding",
+  "module": "Module 7: Personal Branding (LinkedIn + GitHub)",
+  "file_type": "public_Source5_Newsletter",
+  "newsletter": {
+    "name": "freeCodeCamp Weekly, Dev.to Weekly",
+    "platform": "freeCodeCamp.org, Dev.to"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Newsletters share simple tips on LinkedIn and GitHub branding.",
+        "They explain why a good online profile helps freshers.",
+        "Articles show how to make your LinkedIn look clean.",
+        "They give ideas for keeping your GitHub updated.",
+        "This module helps you build trust online step by step."
+      ],
+      "level_2": [
+        "Newsletters share step-by-step ways to write a strong summary.",
+        "They explain linking projects to your LinkedIn profile.",
+        "Articles cover adding skills, certificates, and posts.",
+        "They guide you to keep your GitHub projects public and neat.",
+        "This module connects branding to better job chances."
+      ],
+      "level_3": [
+        "Newsletters share how to write useful posts and mini blogs.",
+        "They show how devs join online tech groups for branding.",
+        "Tips include replying to comments and connecting with peers.",
+        "Articles guide sharing open source work on profiles.",
+        "They show how regular updates build trust."
+      ],
+      "level_4": [
+        "Senior newsletters explain guiding juniors online.",
+        "They cover sharing knowledge through blogs and talks.",
+        "Articles discuss community branding and open source growth.",
+        "Newsletters remind you to stay real and honest online.",
+        "They share success stories of devs who built strong brands."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Reading how students get jobs with LinkedIn.",
+        "Finding examples of clean profiles."
+      ],
+      "level_2": [
+        "Learning what recruiters check in a summary.",
+        "Seeing samples of good GitHub readmes."
+      ],
+      "level_3": [
+        "Getting ideas for posts to share.",
+        "Learning how to join dev groups."
+      ],
+      "level_4": [
+        "Mentoring others with branding tips.",
+        "Sharing open source work in newsletters."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Recruiters trust LinkedIn to shortlist profiles."
+      ],
+      "level_2": [
+        "Hiring managers like clear GitHub repos."
+      ],
+      "level_3": [
+        "Companies check your posts for soft skills."
+      ],
+      "level_4": [
+        "Leads build trust by sharing team work online."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Keep your info true and short.",
+        "Use a clear photo and bio."
+      ],
+      "level_2": [
+        "Add proof of projects and skills.",
+        "Write honest posts."
+      ],
+      "level_3": [
+        "Post updates every few weeks.",
+        "Engage with comments and replies."
+      ],
+      "level_4": [
+        "Guide juniors on good habits.",
+        "Stay consistent with branding."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No profile or photo.",
+        "No GitHub link or projects."
+      ],
+      "level_2": [
+        "Copied summaries, no real posts.",
+        "Broken links or outdated info."
+      ],
+      "level_3": [
+        "Long gaps with no activity.",
+        "No reply to followers or peers."
+      ],
+      "level_4": [
+        "No mentoring juniors on branding.",
+        "No open source or community proof."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why does branding matter?",
+        "Name one branding platform."
+      ],
+      "level_2": [
+        "Why link GitHub in LinkedIn?",
+        "How do posts help?"
+      ],
+      "level_3": [
+        "Why write blogs or updates?",
+        "What is open source branding?"
+      ],
+      "level_4": [
+        "Why share your branding story?",
+        "How does mentoring build trust?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make your LinkedIn profile today."
+      ],
+      "level_2": [
+        "Add your GitHub link."
+      ],
+      "level_3": [
+        "Write one LinkedIn post.",
+        "Update your GitHub README."
+      ],
+      "level_4": [
+        "Help a peer improve their profile."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t leave profiles empty.",
+        "Use your real name and photo."
+      ],
+      "level_2": [
+        "Don’t fake skills or work.",
+        "Keep links working and true."
+      ],
+      "level_3": [
+        "Post updates often.",
+        "Be polite in comments."
+      ],
+      "level_4": [
+        "Share tips with juniors.",
+        "Keep learning new trends."
+      ]
+    }
+  },
+  "reference_link": "https://www.freecodecamp.org/news/"
+}
