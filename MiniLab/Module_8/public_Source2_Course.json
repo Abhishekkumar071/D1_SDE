@@ -1,0 +1,160 @@
+{
+  "source": "Course – Inspired by Coursera's 'Learning How to Learn' and LinkedIn Learning's 'Time Management'",
+  "module": "Module 8: Learning & Time Management Systems",
+  "file_type": "public_Source2_Course",
+  "course": {
+    "name": "Learning How to Learn, Time Management for Developers",
+    "platform": "Coursera, LinkedIn Learning"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Courses explain why managing study time is important.",
+        "Students learn how to plan daily tasks step by step.",
+        "Lessons show how to break big goals into small actions.",
+        "They explain how to avoid wasting time.",
+        "This module helps students build simple daily routines."
+      ],
+      "level_2": [
+        "Courses teach using planners and calendars for study blocks.",
+        "They explain setting clear goals for each week.",
+        "Lessons show how to find distractions and remove them.",
+        "Students learn to track progress using checklists.",
+        "They practice planning coding hours and breaks."
+      ],
+      "level_3": [
+        "Courses cover advanced study methods like spaced repetition.",
+        "They teach how to balance multiple subjects or projects.",
+        "Lessons guide creating realistic deadlines.",
+        "Students learn time-boxing tasks for focus.",
+        "They plan time for practice, rest, and review."
+      ],
+      "level_4": [
+        "Courses share tips from top developers on staying productive.",
+        "They explain how seniors plan team and personal learning.",
+        "Lessons discuss mentoring peers in time management.",
+        "Students learn to share schedules with teams for clarity.",
+        "They keep improving their system every few months."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Planning daily study hours.",
+        "Setting reminders for coding practice."
+      ],
+      "level_2": [
+        "Creating a weekly planner for topics.",
+        "Tracking tasks with checklists."
+      ],
+      "level_3": [
+        "Using time-boxing for coding sprints.",
+        "Balancing projects and exams."
+      ],
+      "level_4": [
+        "Helping juniors plan study time.",
+        "Sharing schedules in team meetings."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers manage daily tasks for assignments."
+      ],
+      "level_2": [
+        "Interns plan learning during internships."
+      ],
+      "level_3": [
+        "Junior devs balance training and work tasks."
+      ],
+      "level_4": [
+        "Leads plan team sprints and deadlines."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Make small daily goals.",
+        "Use simple to-do lists."
+      ],
+      "level_2": [
+        "Block time for focused work.",
+        "Review tasks at day’s end."
+      ],
+      "level_3": [
+        "Group tasks by priority.",
+        "Use short breaks to stay fresh."
+      ],
+      "level_4": [
+        "Teach juniors time habits.",
+        "Refine systems with feedback."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No daily plan for study.",
+        "Too many distractions."
+      ],
+      "level_2": [
+        "No clear time blocks.",
+        "Missing small deadlines."
+      ],
+      "level_3": [
+        "Overloading tasks in one day.",
+        "Ignoring progress checks."
+      ],
+      "level_4": [
+        "Not guiding juniors.",
+        "No habit to improve planning."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why plan daily study time?",
+        "What is a simple to-do list?"
+      ],
+      "level_2": [
+        "What is time blocking?",
+        "Why use checklists?"
+      ],
+      "level_3": [
+        "How does time-boxing help focus?",
+        "What is spaced repetition?"
+      ],
+      "level_4": [
+        "Why share schedules with peers?",
+        "How do mentors guide time habits?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a daily plan for this week."
+      ],
+      "level_2": [
+        "Set up a study calendar."
+      ],
+      "level_3": [
+        "Try time-boxing coding tasks."
+      ],
+      "level_4": [
+        "Help a peer plan their week."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip daily plans.",
+        "Avoid multitasking too much."
+      ],
+      "level_2": [
+        "Review tasks at week’s end.",
+        "Remove distractions during study."
+      ],
+      "level_3": [
+        "Take short breaks to avoid burnout.",
+        "Update plans when priorities change."
+      ],
+      "level_4": [
+        "Teach juniors to plan well.",
+        "Keep improving your system."
+      ]
+    }
+  },
+  "reference_link": "https://www.coursera.org/learn/learning-how-to-learn"
+}
