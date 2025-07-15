@@ -1,0 +1,106 @@
+{
+  "source": "Podcast – Inspired by Deep Questions, College Info Geek, and The Productivity Show",
+  "module": "Module 8: Learning & Time Management Systems",
+  "file_type": "public_Source4_Podcast",
+  "podcast": {
+    "name": "Deep Questions, College Info Geek, The Productivity Show",
+    "episode": "How to Manage Time & Learn Better",
+    "platform": "Buzzsprout, Spotify"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Podcasts explain why time management helps students study well.",
+        "Hosts share simple stories about staying focused daily.",
+        "They explain how to plan tasks in small parts.",
+        "Students learn how to stop wasting time.",
+        "This module shows real tips from experts."
+      ],
+      "level_2": [
+        "Episodes share how to plan study blocks each week.",
+        "Hosts talk about using planners and checklists.",
+        "They guide how to remove daily distractions.",
+        "Students hear how to balance study and rest.",
+        "Podcasts explain tracking daily progress."
+      ],
+      "level_3": [
+        "Episodes explain deep work and focus blocks.",
+        "Hosts share tips on scheduling breaks smartly.",
+        "They talk about setting deadlines for tasks.",
+        "Students hear how to review plans weekly.",
+        "Podcasts show how to plan projects and coding sprints."
+      ],
+      "level_4": [
+        "Podcasts discuss how pros plan team tasks too.",
+        "Hosts share stories about mentoring juniors in planning.",
+        "They talk about sharing time habits in peer groups.",
+        "Students learn how to build trust by staying on track.",
+        "Podcasts share real case studies of productive students."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Listening to time tips on the way to class.",
+        "Learning one new planning habit daily."
+      ],
+      "level_2": [
+        "Trying a new checklist idea.",
+        "Blocking social media during study."
+      ],
+      "level_3": [
+        "Using deep work tips for coding.",
+        "Scheduling group study with clear blocks."
+      ],
+      "level_4": [
+        "Helping friends make simple planners.",
+        "Sharing planning tips in team calls."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students plan daily lessons easily."
+      ],
+      "level_2": [
+        "Interns handle tasks during training well."
+      ],
+      "level_3": [
+        "Junior devs manage work-study balance."
+      ],
+      "level_4": [
+        "Team leads guide juniors in time habits."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Start small with daily task lists.",
+        "Use reminders for important tasks."
+      ],
+      "level_2": [
+        "Try weekly planners and calendars.",
+        "Block time for tough subjects."
+      ],
+      "level_3": [
+        "Break big work into parts.",
+        "Review what you finished weekly."
+      ],
+      "level_4": [
+        "Teach juniors smart planning.",
+        "Improve your system each month."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No daily plan for study.",
+        "Too much phone time."
+      ],
+      "level_2": [
+        "Random study without a checklist.",
+        "No breaks, working for hours straight."
+      ],
+      "level_3": [
+        "No system to review work done.",
+        "No tracking of what is left."
+      ],
+      "level_4": [
+        "Not helping juniors plan.",
+        "Sticking to old
