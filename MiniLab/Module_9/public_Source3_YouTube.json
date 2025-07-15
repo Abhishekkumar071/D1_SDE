@@ -1,0 +1,163 @@
+{
+  "source": "YouTube Video – Inspired by Fireship, Tech With Tim, Ben Awad on Coding Problem Stories",
+  "module": "Module 9: Problem-Solving Narratives",
+  "file_type": "public_Source3_YouTube",
+  "video": {
+    "title": "How to Tell a Good Problem-Solving Story",
+    "channel": "Fireship, Tech With Tim, Ben Awad",
+    "platform": "YouTube"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Videos show how devs share real coding fixes.",
+        "Creators explain telling what the problem was.",
+        "They show sharing small blockers too.",
+        "Videos teach clear step by step talk.",
+        "This builds basic storytelling skills."
+      ],
+      "level_2": [
+        "Videos show how to share code flow with teams.",
+        "Creators break bugs into easy steps.",
+        "They share how to talk about failed tries.",
+        "Videos teach adding what you learned.",
+        "This helps students talk in group calls."
+      ],
+      "level_3": [
+        "Videos explain how seniors share bugs with juniors.",
+        "Creators show turning mistakes into lessons.",
+        "They teach explaining issues to non-tech people.",
+        "They guide sharing problem stories in interviews.",
+        "This builds confidence to tell real stories."
+      ],
+      "level_4": [
+        "Videos show leading group fix sessions.",
+        "Creators share how to mentor juniors on talk flow.",
+        "They show how clear stories build trust.",
+        "Videos guide giving talks at dev meetups.",
+        "This builds leadership and teaching skills."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Telling a peer how you fixed a bug.",
+        "Sharing what didn’t work at first."
+      ],
+      "level_2": [
+        "Explaining blockers in a stand-up call.",
+        "Writing what you did step by step."
+      ],
+      "level_3": [
+        "Making a small dev log video.",
+        "Sharing a bug fix in a mock interview."
+      ],
+      "level_4": [
+        "Helping a junior share their story.",
+        "Presenting a fix story in a team call."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers explain their code clearly."
+      ],
+      "level_2": [
+        "Interns talk blockers in meetings."
+      ],
+      "level_3": [
+        "Juniors share lessons in reviews."
+      ],
+      "level_4": [
+        "Leads mentor juniors on story flow."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Say what the problem was.",
+        "Say what steps you tried."
+      ],
+      "level_2": [
+        "Add what failed or blocked.",
+        "Add the final fix step."
+      ],
+      "level_3": [
+        "Add what you learned.",
+        "Share why it worked finally."
+      ],
+      "level_4": [
+        "Guide juniors to share same way.",
+        "Use story in team learning."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No story, just saying ‘I fixed it’.",
+        "Missing simple steps."
+      ],
+      "level_2": [
+        "No blockers explained.",
+        "Over-explaining without flow."
+      ],
+      "level_3": [
+        "No clear lesson shared.",
+        "No sharing with teammates."
+      ],
+      "level_4": [
+        "Not guiding juniors.",
+        "Keeping lessons in your head only."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why share a fix story?",
+        "What are the parts?"
+      ],
+      "level_2": [
+        "Why tell what blocked you?",
+        "How to add clear steps?"
+      ],
+      "level_3": [
+        "Why share lessons learned?",
+        "How to use stories in interviews?"
+      ],
+      "level_4": [
+        "Why mentor juniors on stories?",
+        "How to build trust with clear talk?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Record a 1-min bug fix story."
+      ],
+      "level_2": [
+        "Write a clear problem log."
+      ],
+      "level_3": [
+        "Make a short explainer video.",
+        "Share a story in a mock round."
+      ],
+      "level_4": [
+        "Help a peer shape their story.",
+        "Lead a group bug talk."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip small steps.",
+        "Keep words simple."
+      ],
+      "level_2": [
+        "Don’t jump steps in story.",
+        "Check story makes sense."
+      ],
+      "level_3": [
+        "Always add the lesson.",
+        "Practice before sharing."
+      ],
+      "level_4": [
+        "Guide juniors on story basics.",
+        "Use stories to teach bugs."
+      ]
+    }
+  },
+  "reference_link": "https://www.youtube.com/@Fireship"
+}
