@@ -1,0 +1,165 @@
+{
+  "source": "Search – Based on Google Search for Developer Team Communication Tips",
+  "module": "Module 11: Communication in Tech Teams",
+  "file_type": "public_Source6_Search",
+  "search_platform": {
+    "name": "Google Search",
+    "keywords": [
+      "how to communicate well in a tech team",
+      "best practices for developer stand-up meetings",
+      "how to give feedback to teammates",
+      "how to explain bugs to non-technical people"
+    ]
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Students search how to talk well in dev teams.",
+        "They find tips for clear words in meetings.",
+        "Search shows how to ask questions easily.",
+        "Students read why open talk avoids confusion.",
+        "This builds basics for team trust."
+      ],
+      "level_2": [
+        "Search shows how to write short updates.",
+        "Students learn good stand-up meeting rules.",
+        "Search gives steps to share blockers clearly.",
+        "They find real email and message samples.",
+        "This helps write good daily status notes."
+      ],
+      "level_3": [
+        "Students search how to give feedback kindly.",
+        "Search shows how to talk to seniors calmly.",
+        "They find ways to explain bugs in simple words.",
+        "Students read how to handle talk stress.",
+        "This helps in cross-team talks too."
+      ],
+      "level_4": [
+        "Search shares how seniors guide juniors.",
+        "Students find how to lead small calls.",
+        "They read tips for solving conflicts early.",
+        "Search shows how trust grows with clear talk.",
+        "This keeps teams healthy and open."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Searching how to ask for help.",
+        "Finding sample questions for meetings."
+      ],
+      "level_2": [
+        "Searching stand-up rules for freshers.",
+        "Finding short email templates."
+      ],
+      "level_3": [
+        "Searching how to give calm feedback.",
+        "Finding ways to explain bugs simply."
+      ],
+      "level_4": [
+        "Searching mentoring tips for juniors.",
+        "Finding conflict solving steps."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers ask clear questions daily."
+      ],
+      "level_2": [
+        "Interns share updates confidently."
+      ],
+      "level_3": [
+        "Juniors handle calls politely."
+      ],
+      "level_4": [
+        "Leads fix talk gaps quickly."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Ask, don’t guess alone.",
+        "Keep words simple."
+      ],
+      "level_2": [
+        "Use short updates daily.",
+        "Check tone before sending."
+      ],
+      "level_3": [
+        "Listen fully, reply calmly.",
+        "Stay polite in stress."
+      ],
+      "level_4": [
+        "Guide juniors to speak up.",
+        "Fix talk issues early."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No questions when stuck.",
+        "Using tough words wrongly."
+      ],
+      "level_2": [
+        "Long unclear updates.",
+        "Not telling blockers early."
+      ],
+      "level_3": [
+        "Being rude in talks.",
+        "Talking over others."
+      ],
+      "level_4": [
+        "Not guiding juniors.",
+        "Ignoring small talk gaps."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why talk openly in teams?",
+        "Why ask questions early?"
+      ],
+      "level_2": [
+        "What is a good stand-up update?",
+        "Why share blockers clearly?"
+      ],
+      "level_3": [
+        "How to give feedback nicely?",
+        "Why explain bugs in simple words?"
+      ],
+      "level_4": [
+        "Why guide juniors on talk?",
+        "How to fix conflicts early?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Search and write one clear question."
+      ],
+      "level_2": [
+        "Write a short stand-up note."
+      ],
+      "level_3": [
+        "Search and share feedback kindly."
+      ],
+      "level_4": [
+        "Guide a peer on clear talk steps."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t stay silent when confused.",
+        "Don’t use big words just to sound smart."
+      ],
+      "level_2": [
+        "Don’t skip blockers in updates.",
+        "Keep written notes short and clean."
+      ],
+      "level_3": [
+        "Don’t talk over others.",
+        "Stay calm even when stressed."
+      ],
+      "level_4": [
+        "Teach juniors open talk habits.",
+        "Solve small gaps before they grow."
+      ]
+    }
+  },
+  "reference_link": "https://www.google.com/search?q=how+to+communicate+in+a+tech+team"
+}
