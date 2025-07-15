@@ -1,0 +1,161 @@
+{
+  "source": "YouTube Video – Inspired by Ali Abdaal, Thomas Frank, Mariana’s Corner on Learning & Time Management",
+  "module": "Module 8: Learning & Time Management Systems",
+  "file_type": "public_Source3_YouTube",
+  "video": {
+    "title": "How to Manage Time & Learn Effectively",
+    "channel": "Ali Abdaal, Thomas Frank",
+    "platform": "YouTube"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Videos show how to plan your study hours.",
+        "They explain simple ways to make daily routines.",
+        "Creators share tips for staying focused.",
+        "They show easy tools like to-do lists.",
+        "This module teaches step by step planning."
+      ],
+      "level_2": [
+        "Videos explain blocking time for coding or reading.",
+        "They teach using planners or study apps.",
+        "Creators share how to remove distractions.",
+        "They guide setting small goals each week.",
+        "You learn how to track what you finish."
+      ],
+      "level_3": [
+        "Videos cover advanced methods like Pomodoro.",
+        "They show how to balance tasks and breaks.",
+        "Creators explain splitting big goals into parts.",
+        "They talk about reviewing plans weekly.",
+        "You learn real tips from productive students."
+      ],
+      "level_4": [
+        "Videos share how pros plan team tasks.",
+        "They talk about mentoring peers in time habits.",
+        "Creators explain setting clear boundaries.",
+        "They guide how to lead small group studies.",
+        "You learn to improve your routine over time."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Making a daily plan before study.",
+        "Using phone reminders for tasks."
+      ],
+      "level_2": [
+        "Blocking time for coding practice.",
+        "Reviewing what you did each night."
+      ],
+      "level_3": [
+        "Trying Pomodoro for focused sessions.",
+        "Balancing study and rest."
+      ],
+      "level_4": [
+        "Helping juniors plan study time.",
+        "Sharing time tips in group meetings."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Students keep up with class tasks."
+      ],
+      "level_2": [
+        "Interns balance learning and projects."
+      ],
+      "level_3": [
+        "Juniors plan tasks for real work."
+      ],
+      "level_4": [
+        "Leads manage team study or sprint blocks."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Plan each day before starting.",
+        "Keep tasks small and simple."
+      ],
+      "level_2": [
+        "Group similar tasks together.",
+        "Use timers to stay focused."
+      ],
+      "level_3": [
+        "Set deadlines for small goals.",
+        "Take short breaks often."
+      ],
+      "level_4": [
+        "Guide juniors to plan better.",
+        "Review your plan monthly."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No daily plan at all.",
+        "Getting distracted easily."
+      ],
+      "level_2": [
+        "Too many tasks at once.",
+        "No proper rest or breaks."
+      ],
+      "level_3": [
+        "No habit of reviewing tasks.",
+        "Missing deadlines often."
+      ],
+      "level_4": [
+        "Not guiding peers in planning.",
+        "No improvement in routine."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why make a daily plan?",
+        "Name one focus tool."
+      ],
+      "level_2": [
+        "What is time blocking?",
+        "Why use planners?"
+      ],
+      "level_3": [
+        "What is Pomodoro?",
+        "Why review tasks weekly?"
+      ],
+      "level_4": [
+        "Why guide juniors in planning?",
+        "Why update your plan monthly?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Make a simple daily study plan."
+      ],
+      "level_2": [
+        "Try blocking 2 hours for coding."
+      ],
+      "level_3": [
+        "Use Pomodoro for a task today."
+      ],
+      "level_4": [
+        "Help a friend plan their week."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip daily planning.",
+        "Stay away from phone distractions."
+      ],
+      "level_2": [
+        "Break tasks into clear parts.",
+        "Take real breaks, not endless scrolling."
+      ],
+      "level_3": [
+        "Review goals often.",
+        "Fix mistakes in plan fast."
+      ],
+      "level_4": [
+        "Teach juniors about good habits.",
+        "Update your system every few months."
+      ]
+    }
+  },
+  "reference_link": "https://www.youtube.com/@AliAbdaal"
+}
