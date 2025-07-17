@@ -1,0 +1,155 @@
+{
+  "source": "Industry Blogs and Reports – Atlassian, GitLab, ThoughtWorks, HackerRank",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "public_Source8_IndustryTrends",
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Industry blogs show how real teams do retrospectives.",
+        "They explain how teams give feedback and close work.",
+        "Tools like Jira and GitLab help track tasks.",
+        "Final reports are shared in review calls.",
+        "Engineers write down blockers and learning points."
+      ],
+      "level_2": [
+        "Companies use Agile retros to improve future work.",
+        "Feedback is stored in issue trackers or docs.",
+        "Daily logs and weekly summaries are standard.",
+        "Reports include tasks done, issues faced, and fixes.",
+        "Junior engineers get guidance on peer feedback."
+      ],
+      "level_3": [
+        "Teams use sprint metrics and reflection tools.",
+        "GitLab promotes feedback in all engineering levels.",
+        "Retrospectives are action-focused with team decisions.",
+        "Engineers follow closure guidelines for better growth.",
+        "Reflection logs are archived for future learning."
+      ],
+      "level_4": [
+        "Thought leaders promote reflective engineering culture.",
+        "Tech leads guide final feedback reviews.",
+        "Retros are tied to performance reviews in some firms.",
+        "Industry uses feedback to build resilient teams.",
+        "Final reports help align team and business goals."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Junior logs daily task updates.",
+        "Team shares feedback during review calls."
+      ],
+      "level_2": [
+        "Interns write closure notes at end of sprint.",
+        "Project report includes blockers and lessons."
+      ],
+      "level_3": [
+        "Sprints end with team retros and shared doc.",
+        "Mentors use logs to support team health."
+      ],
+      "level_4": [
+        "Tech leads align closure reports with KPIs.",
+        "Team uses data to improve next sprint planning."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers keep work logs in Google Sheets or Notion."
+      ],
+      "level_2": [
+        "Interns submit project summaries using templates."
+      ],
+      "level_3": [
+        "Engineers participate in bi-weekly retrospectives."
+      ],
+      "level_4": [
+        "Managers analyze closure reports to shape team strategy."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Track what you did and what didn’t go well.",
+        "Note small wins and blockers daily."
+      ],
+      "level_2": [
+        "Organize tasks by sprint and update status.",
+        "Summarize how your work helped the team."
+      ],
+      "level_3": [
+        "Share personal learning from project outcomes.",
+        "Review feedback and make action plans."
+      ],
+      "level_4": [
+        "Guide team retrospectives with insight.",
+        "Build team trust through transparent closure docs."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Skipping task logs.",
+        "Not sharing what was hard to do."
+      ],
+      "level_2": [
+        "Vague closure reports.",
+        "No self-reflection in the report."
+      ],
+      "level_3": [
+        "Retros without decisions or improvement steps.",
+        "No tracking of feedback actions."
+      ],
+      "level_4": [
+        "Team-wide retros are skipped under pressure.",
+        "Closure reports not aligned with goals."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why do teams do project retrospectives?",
+        "What is a task log?"
+      ],
+      "level_2": [
+        "What should be in a closure summary?",
+        "How to capture peer feedback?"
+      ],
+      "level_3": [
+        "What makes a good retrospective productive?",
+        "How to document reflection outcomes?"
+      ],
+      "level_4": [
+        "How can retrospectives impact team performance?",
+        "What’s the role of a lead in final closure?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write a 3-day log of your coding progress."
+      ],
+      "level_2": [
+        "Create a closure report for a small project."
+      ],
+      "level_3": [
+        "Lead a short retrospective with your peers."
+      ],
+      "level_4": [
+        "Build a feedback template for project teams."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip updates or logs.",
+        "Always write what you learned."
+      ],
+      "level_2": [
+        "Keep closure docs short but clear.",
+        "Use specific examples in feedback."
+      ],
+      "level_3": [
+        "Reflect on both success and failure.",
+        "Make feedback actionable."
+      ],
+      "level_4": [
+        "Guide juniors during retrospectives.",
+        "Use closure reports to coach the team."
+      ]
+    }
+  }
+}
