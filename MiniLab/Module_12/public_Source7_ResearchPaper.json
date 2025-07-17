@@ -1,0 +1,161 @@
+{
+  "source": "Research Paper – Project-Based Learning in Software Engineering Education (IEEE, 2013)",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "public_Source7_ResearchPaper",
+  "paper": {
+    "title": "Project-Based Learning in Software Engineering Education",
+    "authors": ["A. Radermacher", "G. Walia"],
+    "conference": "CSEE&T 2013",
+    "link": "https://ieeexplore.ieee.org/document/6595245"
+  },
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Paper explains that students learn better with real project work.",
+        "It says planning and reporting tasks help in teamwork.",
+        "Basic feedback improves coding and communication.",
+        "Final report writing increases reflection habits.",
+        "It shows students can act like developers early."
+      ],
+      "level_2": [
+        "Peer review helps students fix mistakes early.",
+        "Tracking what went wrong builds critical thinking.",
+        "Writing task logs improves time awareness.",
+        "Students get used to software dev cycles.",
+        "Project end summaries help in self-growth."
+      ],
+      "level_3": [
+        "Papers suggest retrospectives improve team quality.",
+        "Design reviews prepare students for real feedback.",
+        "Mentoring logs help in better handoffs.",
+        "Sharing blockers and solutions improves documentation.",
+        "Students mirror real teams closely."
+      ],
+      "level_4": [
+        "Paper shows seniors helping juniors simulate industry behavior.",
+        "Closure reports link performance and self-growth.",
+        "Reflection logs become tools for leadership training.",
+        "Guided peer feedback enhances team trust.",
+        "It recommends feedback culture in every project."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Writing what you worked on in a project file.",
+        "Accepting friend’s review on a code file."
+      ],
+      "level_2": [
+        "Giving helpful notes to a peer on GitHub.",
+        "Writing closure doc at the end of a college project."
+      ],
+      "level_3": [
+        "Running a group retrospective after your sprint.",
+        "Recording key learnings in a shared log."
+      ],
+      "level_4": [
+        "Leading peer feedback session in your team.",
+        "Helping juniors write a professional project summary."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers track tasks using a shared sheet."
+      ],
+      "level_2": [
+        "Interns maintain progress logs."
+      ],
+      "level_3": [
+        "Juniors write post-project retrospectives."
+      ],
+      "level_4": [
+        "Leads guide juniors on closure notes and logs."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Note what was done each day.",
+        "Mark what helped or blocked progress."
+      ],
+      "level_2": [
+        "Reflect on feedback and update tasks.",
+        "Organize work as per sprint."
+      ],
+      "level_3": [
+        "Guide self and others using logs.",
+        "Turn mistakes into growth steps."
+      ],
+      "level_4": [
+        "Plan final review and feedback rounds.",
+        "Enable juniors to reflect and grow."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "Not updating logs daily.",
+        "Missing small task notes."
+      ],
+      "level_2": [
+        "Feedback given without structure.",
+        "Progress is not visible in the log."
+      ],
+      "level_3": [
+        "Reflection steps skipped.",
+        "Peer mentoring not recorded."
+      ],
+      "level_4": [
+        "No closure report or peer summary.",
+        "Junior members not supported with reflection tools."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "What is task logging?",
+        "Why reflect on daily work?"
+      ],
+      "level_2": [
+        "Why are retrospectives useful?",
+        "How to write feedback properly?"
+      ],
+      "level_3": [
+        "What are blockers and how to document them?",
+        "Why is growth reflection important?"
+      ],
+      "level_4": [
+        "How to help a junior reflect after project?",
+        "What should be included in a closure report?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write your weekly progress log."
+      ],
+      "level_2": [
+        "Collect 2 feedback notes and revise work."
+      ],
+      "level_3": [
+        "Create a final reflection document."
+      ],
+      "level_4": [
+        "Mentor a peer and help them write their summary."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don't skip logs.",
+        "Always accept and apply feedback."
+      ],
+      "level_2": [
+        "Make logs readable and useful.",
+        "Respond to each peer comment."
+      ],
+      "level_3": [
+        "Summarize learnings, not just tasks.",
+        "Support peers with helpful suggestions."
+      ],
+      "level_4": [
+        "Guide juniors on process and closure.",
+        "Use logs to build trust in teams."
+      ]
+    }
+  }
+}
