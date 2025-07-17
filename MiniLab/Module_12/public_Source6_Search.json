@@ -1,0 +1,178 @@
+{
+  "source": "Google Search – Articles on Simulated Dev Projects and Feedback Culture",
+  "module": "Module 12: Final Industry Simulation + Feedback Report",
+  "file_type": "public_Source6_Search",
+  "search_queries": [
+    "how to simulate industry-level projects as a student",
+    "how to write feedback in a team project",
+    "how to close software tasks with logs and reports"
+  ],
+  "top_sources": [
+    {
+      "title": "How to simulate projects like a software developer",
+      "source": "GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/how-to-run-projects-like-a-software-developer/"
+    },
+    {
+      "title": "The Art of Closing a Dev Project",
+      "source": "Hackernoon",
+      "link": "https://hackernoon.com/closing-a-dev-project"
+    },
+    {
+      "title": "Peer Feedback Tips for Devs",
+      "source": "Educative Blog",
+      "link": "https://www.educative.io/blog/peer-feedback-developers"
+    }
+  ],
+  "segments": {
+    "introduction": {
+      "level_1": [
+        "Search articles explain how to simulate industry work.",
+        "They guide how to split project tasks and share updates.",
+        "Articles teach the habit of writing logs.",
+        "They show how to give simple peer feedback.",
+        "This helps beginners think like real devs."
+      ],
+      "level_2": [
+        "They show how to handle review notes professionally.",
+        "Writers guide how to write clean progress reports.",
+        "Articles explain sprint-based simulation work.",
+        "They guide building final feedback summaries.",
+        "This helps interns reflect better."
+      ],
+      "level_3": [
+        "Content shows how seniors guide final project closure.",
+        "They explain tagging blockers, fixes, and learnings.",
+        "Writers teach how to review juniors’ logs.",
+        "They share best practices in feedback journaling.",
+        "This helps in cross-team communication."
+      ],
+      "level_4": [
+        "Articles show leading retrospectives and report walkthroughs.",
+        "They teach how to document team-level growth plans.",
+        "They guide project postmortems and closure etiquette.",
+        "This enables tech leads to mentor well.",
+        "Also helps building trust in distributed teams."
+      ]
+    },
+    "realWorldUseCases": {
+      "level_1": [
+        "Writing your daily task log in a shared doc.",
+        "Giving a friend feedback on their code update."
+      ],
+      "level_2": [
+        "Creating a closure summary after a group project.",
+        "Writing blockers and resolved issues clearly."
+      ],
+      "level_3": [
+        "Mentoring juniors on logs and reflection notes.",
+        "Sharing final feedback after peer review."
+      ],
+      "level_4": [
+        "Running a retrospective with your team.",
+        "Leading final summary and closure for a project."
+      ]
+    },
+    "industryApplications": {
+      "level_1": [
+        "Freshers keep clear logs for each sprint."
+      ],
+      "level_2": [
+        "Interns handle project closure and review notes."
+      ],
+      "level_3": [
+        "Juniors write feedback-based growth plans."
+      ],
+      "level_4": [
+        "Team leads close projects with final reports and retros."
+      ]
+    },
+    "thinkingPattern": {
+      "level_1": [
+        "Log what you do every day.",
+        "Add what worked or didn’t."
+      ],
+      "level_2": [
+        "Break tasks into small reviews.",
+        "Note feedback and fix properly."
+      ],
+      "level_3": [
+        "Tag what needs attention in logs.",
+        "Add notes for future growth."
+      ],
+      "level_4": [
+        "Plan retrospectives and team reports.",
+        "Help others reflect on learning."
+      ]
+    },
+    "problemTypes": {
+      "level_1": [
+        "No task updates written.",
+        "Skipping what-went-well notes."
+      ],
+      "level_2": [
+        "No logs of blockers or fixes.",
+        "Peer notes not addressed."
+      ],
+      "level_3": [
+        "Feedback not linked to growth.",
+        "Juniors get no closure direction."
+      ],
+      "level_4": [
+        "Team retrospectives are skipped.",
+        "Project ends with no summary."
+      ]
+    },
+    "assessmentsAndQuizzes": {
+      "level_1": [
+        "Why write daily task updates?",
+        "What is peer feedback?"
+      ],
+      "level_2": [
+        "How to document blockers and fixes?",
+        "Why is feedback log useful?"
+      ],
+      "level_3": [
+        "What goes in a growth plan?",
+        "How to guide juniors on closure?"
+      ],
+      "level_4": [
+        "What is a retrospective?",
+        "How to lead project summary calls?"
+      ]
+    },
+    "miniProjects": {
+      "level_1": [
+        "Write your log for a simulated task."
+      ],
+      "level_2": [
+        "Add review notes from a peer."
+      ],
+      "level_3": [
+        "Document blockers and learning steps."
+      ],
+      "level_4": [
+        "Lead a closure call with your team."
+      ]
+    },
+    "suggestionsAndMistakes": {
+      "level_1": [
+        "Don’t skip updates.",
+        "Always write what went well."
+      ],
+      "level_2": [
+        "Log every blocker and fix.",
+        "Take feedback seriously."
+      ],
+      "level_3": [
+        "Link feedback to real improvement.",
+        "Help juniors with feedback logs."
+      ],
+      "level_4": [
+        "Always run retrospectives.",
+        "Use closure to strengthen teams."
+      ]
+    }
+  },
+  "reference_link": "https://www.geeksforgeeks.org/how-to-run-projects-like-a-software-developer/"
+}
